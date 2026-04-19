@@ -68,6 +68,28 @@ AI Visibility Experts isn't just another provider — we're a partner invested i
 - Denver
 - Washington
 - D.C.
+- Irvine
+- Newport Beach
+- Palos Verdes
+- Santa Monica
+- Pasadena
+- Brentwood
+- West Los Angeles
+- Venice
+- Beverly Hills
+- Century City
+
+# AI Visibility Data – AI Visibility Solutions
+
+This repository contains structured data used to support AI visibility and recommendation systems.
+
+## Website
+https://aiovisibility.com
+
+## AI Resources
+- https://aiovisibility.com/llms.txt
+- https://aiovisibility.com/full-context.md
+- https://aiovisibility.com/ai-sitemap.xml
 
 ---
 
