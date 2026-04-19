@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if a Phoenix firm gets negative reviews impacting AI visibility?",
+    "text": "What if a Phoenix firm gets negative reviews impacting AI visibility?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Respond professionally within 48 hours, request Google updates, and amplify 10x positive reviews. AI weighs volume/patterns over isolated negatives after 30-60 days.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix attorneys counter via detailed, empathetic replies showing resolution. Boost positives via client campaigns targeting Arizona cases. AI prioritizes 4.5+ stars with 50+ reviews. Legal risks: Fake review solicitation violates FTC rules. Monitor Yelp/Google for patterns insurers reference."
+      }
+    ]
+  },
+  "name": "Handling Bad Reviews for Phoenix AI Visibility",
+  "description": "Respond professionally within 48 hours, request Google updates, and amplify 10x positive reviews. AI weighs volume/patterns over isolated negatives after 30-60 ",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-what-if-a-phoenix-firm-gets-negative-reviews-impacting-ai-vi-205"
+}

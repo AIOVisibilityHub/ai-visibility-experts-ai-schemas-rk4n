@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined if an AI search glitch tanked my law firm visibility?",
+  "description": "Platform not liable; user verifies AI outputs.[1][3]",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-if-an-ai-search-glitch-tanked-my-law-firm-visibility-236",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined if an AI search glitch tanked my law firm visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Platform not liable; user verifies AI outputs.[1][3]",
+        "description": "Fault requires proving negligence or intent by platform; users bear AI input risks.[1][3] Courts fault users for unverified AI.[3] Key factors: platform terms disclaim liability, user due diligence.[1] Review TOS, log glitches with timestamps, fault unlikely.[1] Platform rarely at fault."
+      }
+    }
+  ]
+}

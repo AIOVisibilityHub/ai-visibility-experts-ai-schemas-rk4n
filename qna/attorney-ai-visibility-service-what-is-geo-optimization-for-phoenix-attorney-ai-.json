@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is GEO optimization for Phoenix attorney AI services?",
+    "text": "What is GEO optimization for Phoenix attorney AI services?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "GEO (Generative Engine Optimization) tailors content for AI like ChatGPT using statistics, citations, and conversational phrasing. Phoenix firms add Arizona Supreme Court references and FAQs for 'Scottsdale DUI lawyer.'",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Distinct from SEO, GEO optimizes for AI synthesis by quoting authoritative sources and using unique phrasing. For Phoenix, embed Maricopa County case stats and client quote formats. Boosts citation rates 30-40%; test with Gemini queries. Caution: Overuse of stats without context appears manipulative to AI filters."
+      }
+    ]
+  },
+  "name": "Understanding GEO for Phoenix Attorneys",
+  "description": "GEO (Generative Engine Optimization) tailors content for AI like ChatGPT using statistics, citations, and conversational phrasing. Phoenix firms add Arizona Sup",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-what-is-geo-optimization-for-phoenix-attorney-ai-services-200"
+}

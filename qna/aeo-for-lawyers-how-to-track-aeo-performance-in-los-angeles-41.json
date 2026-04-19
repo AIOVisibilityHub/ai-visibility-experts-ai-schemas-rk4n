@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to track AEO performance in Los Angeles?",
+    "text": "How to track AEO performance in Los Angeles?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Track LA AEO via Google Search Console impressions, snippet clicks, voice search analytics tools like AnswerThePublic.[1][4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Monitor PAA expansions, AI overview appearances. LA tools: SEMrush Position Tracking. Benchmarks: 10% query coverage goal. Adjust based on data—stagnation signals content gaps.[4]"
+      }
+    ]
+  },
+  "name": "Tracking AEO in Los Angeles",
+  "description": "Track LA AEO via Google Search Console impressions, snippet clicks, voice search analytics tools like AnswerThePublic.[1][4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-how-to-track-aeo-performance-in-los-angeles-41"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can small LA firms compete with big firms for ChatGPT recommendations?",
+    "text": "Can small LA firms compete with big firms for ChatGPT recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, small LA firms compete via hyper-local SEO, video testimonials, and niche expertise outperforming big firms' generic pages.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Target long-tail like 'LA boutique employment lawyer.' Build reviews fast. Big firms have budget edge, but agility wins."
+      }
+    ]
+  },
+  "name": "Small vs Big LA Firms on ChatGPT",
+  "description": "Yes, small LA firms compete via hyper-local SEO, video testimonials, and niche expertise outperforming big firms' generic pages.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-can-small-la-firms-compete-with-big-firms-for-chatgpt-recomm-108"
+}

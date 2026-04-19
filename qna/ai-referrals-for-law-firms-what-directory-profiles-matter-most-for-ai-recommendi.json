@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What directory profiles matter most for AI recommending LA criminal lawyers?",
+    "text": "What directory profiles matter most for AI recommending LA criminal lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AI prioritizes Avvo, Martindale-Hubbell, Justia, Google, and Yelp for LA criminal lawyers. Complete profiles with specializations, peer ratings, and consistent reviews to signal credibility and appear in AI shortlists.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "For Los Angeles criminal lawyers, AI scans standardized directories like Avvo (ratings), Martindale-Hubbell (AV Preeminent), and Justia for practice details. Refresh profiles with rich text on cases handled and locations served. High-volume positive Google/Yelp reviews create patterns AI trusts. Inconsistent data across sites reduces visibility—audit annually. Insurance firms track these for vetting; strong profiles deter scrutiny.[3][2]"
+      }
+    ]
+  },
+  "name": "Key Directories for AI Referrals to LA Criminal Lawyers",
+  "description": "AI prioritizes Avvo, Martindale-Hubbell, Justia, Google, and Yelp for LA criminal lawyers. Complete profiles with specializations, peer ratings, and consistent ",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-what-directory-profiles-matter-most-for-ai-recommending-la-c-172"
+}

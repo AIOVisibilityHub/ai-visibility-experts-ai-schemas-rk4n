@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long does it take to rank a Houston law firm in Google AI Overviews?",
+    "text": "How long does it take to rank a Houston law firm in Google AI Overviews?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Typically 3-6 months for Houston firms with comprehensive GEO audits, schema implementation, and fresh local content. Faster (1-3 months) for competitive practices like oil/gas law with high citability.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Timeline varies by site health; start with diagnostic review, then deploy structured data and Houston-specific FAQs. Track progress via AI tools like Perplexity. Maintain with bi-weekly updates; delays common in saturated markets without authority backlinks."
+      }
+    ]
+  },
+  "name": "Timeline for Houston Law Firm AI Overview Rankings",
+  "description": "Typically 3-6 months for Houston firms with comprehensive GEO audits, schema implementation, and fresh local content. Faster (1-3 months) for competitive practi",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-how-long-does-it-take-to-rank-a-houston-law-firm-in-google-a-78"
+}

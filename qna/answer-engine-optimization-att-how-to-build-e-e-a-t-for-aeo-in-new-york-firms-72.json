@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to build E-E-A-T for AEO in New York firms?",
+    "text": "How to build E-E-A-T for AEO in New York firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Build E-E-A-T via NY bar profiles, publications, client testimonials (anonymized), and co-authored legal guides for AI trust signals.[3]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Experience: case studies; Expertise: bios/certifications; Authoritativeness: citations; Trustworthiness: HTTPS/disclaimers. NY's scrutiny demands authenticity. Boosts AI preference; fake signals backfire.[1]"
+      }
+    ]
+  },
+  "name": "Building E-E-A-T for NY AEO",
+  "description": "Build E-E-A-T via NY bar profiles, publications, client testimonials (anonymized), and co-authored legal guides for AI trust signals.[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-how-to-build-e-e-a-t-for-aeo-in-new-york-firms-72"
+}

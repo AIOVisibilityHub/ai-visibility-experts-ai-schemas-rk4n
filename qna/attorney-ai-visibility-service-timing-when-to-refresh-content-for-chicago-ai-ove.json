@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timing: When to refresh content for Chicago AI overviews?",
+    "text": "Timing: When to refresh content for Chicago AI overviews?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Quarterly for practice pages, monthly for FAQs. AI favors content <90 days old citing recent Illinois rulings.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Chicago freshness signals relevance; update with new cases/2026 laws. Automate via CMS. Stale sites lose 50% citations. Tie to bar CLE for authenticity. Budget $500/mo writer. Opposing parties cite outdated info."
+      }
+    ]
+  },
+  "name": "Content Refresh Schedule for Chicago",
+  "description": "Quarterly for practice pages, monthly for FAQs. AI favors content <90 days old citing recent Illinois rulings.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-timing-when-to-refresh-content-for-chicago-ai-overviews-213"
+}

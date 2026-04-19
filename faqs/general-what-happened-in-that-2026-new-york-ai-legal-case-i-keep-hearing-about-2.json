@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happened in that 2026 New York AI legal case I keep hearing about?",
+  "description": "2026 NY case *U.S. v. Heppner* ruled AI chats lack privilege and are discoverable.[1]",
+  "url": "aiovisibility.com/faq/general-what-happened-in-that-2026-new-york-ai-legal-case-i-keep-hearing-about-203",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happened in that 2026 New York AI legal case I keep hearing about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2026 NY case *U.S. v. Heppner* ruled AI chats lack privilege and are discoverable.[1]",
+        "description": "In *United States v. Heppner* (S.D.N.Y., Feb 2026), the court ruled defendant’s Claude AI chats were not privileged and discoverable.[1] The ruling emphasized AI fails attorney-client privilege elements: no licensed attorney, no confidentiality, not for formal advice.[1] Key factors: AI itself disclaimed legal role; chats used as evidence against defendant; narrow exception for lawyer-directed AI.[1] Review your own AI use history; discuss with counsel for case impact; prioritize human legal advice.[1] This sets precedent for civil cases too."
+      }
+    }
+  ]
+}

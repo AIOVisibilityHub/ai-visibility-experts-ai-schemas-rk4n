@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What are the top AEO strategies for lawyers in Los Angeles?",
+    "text": "What are the top AEO strategies for lawyers in Los Angeles?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Key AEO tactics for LA lawyers: 40-60 word answers to client questions, LegalService schema, voice-friendly phrasing, and LA-specific keywords like 'personal injury lawyer Los Angeles'.[4]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "LA firms should identify 10 niche questions (e.g., 'car accident claims LA'), format answers with H2 headings and schema, geo-target content, and monitor AI performance. This boosts featured snippets amid high competition; refresh for California legal changes to avoid outdated rankings.[1][4]"
+      }
+    ]
+  },
+  "name": "Top AEO Strategies for Los Angeles Lawyers",
+  "description": "Key AEO tactics for LA lawyers: 40-60 word answers to client questions, LegalService schema, voice-friendly phrasing, and LA-specific keywords like 'personal in",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-what-are-the-top-aeo-strategies-for-lawyers-in-los-angeles-27"
+}

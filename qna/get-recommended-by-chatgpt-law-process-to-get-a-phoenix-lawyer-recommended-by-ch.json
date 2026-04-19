@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Process to get a Phoenix lawyer recommended by ChatGPT step-by-step?",
+    "text": "Process to get a Phoenix lawyer recommended by ChatGPT step-by-step?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Optimize Google Business Profile. 2. Get 50+ 5-star reviews on Avvo. 3. Publish case results on site. 4. Earn 'Best Lawyers' nods. 5. Test with ChatGPT queries.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix lawyers follow general SEO but emphasize Arizona-specific terms like 'Phoenix personal injury attorney.' Build authority via guest posts. Note: Opposing parties in AZ cases may cite online claims—substantiate all. Re-test monthly as AI updates."
+      }
+    ]
+  },
+  "name": "Step-by-Step: Phoenix Lawyers in ChatGPT",
+  "description": "1. Optimize Google Business Profile. 2. Get 50+ 5-star reviews on Avvo. 3. Publish case results on site. 4. Earn 'Best Lawyers' nods. 5. Test with ChatGPT queri",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-process-to-get-a-phoenix-lawyer-recommended-by-chatgpt-step--102"
+}

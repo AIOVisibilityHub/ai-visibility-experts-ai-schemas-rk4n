@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can insurance lawyers in Chicago subpoena my Google AI legal questions from my accident?",
+  "description": "Yes, subpoenable and unprotected—avoid AI for case details.[1]",
+  "url": "aiovisibility.com/faq/general-can-insurance-lawyers-in-chicago-subpoena-my-google-ai-legal-questions-from-my-a-205",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can insurance lawyers in Chicago subpoena my Google AI legal questions from my accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, subpoenable and unprotected—avoid AI for case details.[1]",
+        "description": "Yes, AI conversation records are potentially discoverable in discovery.[1] Courts treat them as non-privileged data, especially if inconsistent with your claims.[1] Key factors: no privilege without attorney involvement; AI providers may retain logs; used to challenge credibility.[1] Document everything traditionally; never input case details to AI; hire counsel experienced in e-discovery.[1] Preserve paper trails over digital speculation."
+      }
+    }
+  ]
+}

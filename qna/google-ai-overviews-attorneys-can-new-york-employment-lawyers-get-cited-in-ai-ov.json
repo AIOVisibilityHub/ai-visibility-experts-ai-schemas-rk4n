@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can New York employment lawyers get cited in AI Overviews for wrongful termination cases?",
+    "text": "Can New York employment lawyers get cited in AI Overviews for wrongful termination cases?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, New York employment lawyers get cited by publishing NY-specific wrongful termination guides, timelines, and settlement data, leveraging E-E-A-T to compete in consumer-heavy AI results.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI Overviews pull from top pages; create detailed resources on NY Labor Law §740 claims. New York firms differentiate with case studies. Warning: Opposing parties monitor citations—ensure content accuracy to avoid liability."
+      }
+    ]
+  },
+  "name": "Wrongful Termination Visibility in NY AI Overviews",
+  "description": "Yes, New York employment lawyers get cited by publishing NY-specific wrongful termination guides, timelines, and settlement data, leveraging E-E-A-T to compete ",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-can-new-york-employment-lawyers-get-cited-in-ai-overviews-fo-155"
+}

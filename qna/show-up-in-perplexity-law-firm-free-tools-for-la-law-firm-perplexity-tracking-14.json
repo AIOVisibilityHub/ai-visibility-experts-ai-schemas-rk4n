@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Free tools for LA law firm Perplexity tracking?",
+    "text": "Free tools for LA law firm Perplexity tracking?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use Perplexity search, Google Alerts, AlsoAsked for LA queries; free SEMrush trial.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Combine with manual logs. LA firms scale to paid after validation."
+      }
+    ]
+  },
+  "name": "Free Perplexity Tools LA Firms",
+  "description": "Use Perplexity search, Google Alerts, AlsoAsked for LA queries; free SEMrush trial.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-free-tools-for-la-law-firm-perplexity-tracking-146"
+}

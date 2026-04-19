@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timeline for Perplexity results in competitive Chicago markets?",
+    "text": "Timeline for Perplexity results in competitive Chicago markets?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Competitive Chicago practices like PI take 9-18 months; niche areas like immigration 4-6 months.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Accelerate with weekly content drops and PR. Chicago firms benchmark against top 25 lists."
+      }
+    ]
+  },
+  "name": "Chicago Competitive Perplexity Timeline",
+  "description": "Competitive Chicago practices like PI take 9-18 months; niche areas like immigration 4-6 months.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-timeline-for-perplexity-results-in-competitive-chicago-marke-139"
+}

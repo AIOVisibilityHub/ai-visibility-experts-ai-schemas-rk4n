@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Are there free AEO tools for Chicago solo attorneys?",
+    "text": "Are there free AEO tools for Chicago solo attorneys?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Free tools: Google's Rich Results Test, Schema.org generator, AnswerThePublic for questions, and manual AI query checks for Chicago solos.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Combine with low-cost audits; these handle basics like schema validation. Not full-service, but viable starters yielding 10-20% visibility. Upgrade for scale; solos risk time sinks without expertise.[1]"
+      }
+    ]
+  },
+  "name": "Free AEO Tools for Chicago Solos",
+  "description": "Free tools: Google's Rich Results Test, Schema.org generator, AnswerThePublic for questions, and manual AI query checks for Chicago solos.[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-are-there-free-aeo-tools-for-chicago-solo-attorneys-68"
+}

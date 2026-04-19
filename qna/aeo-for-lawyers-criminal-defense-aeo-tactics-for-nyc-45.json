@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Criminal defense AEO tactics for NYC?",
+    "text": "Criminal defense AEO tactics for NYC?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "NYC criminal AEO: Target 'bail process Manhattan', use timeline lists, FAQ schema for arraignment queries.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "High-stakes: Optimize for 'DUI lawyer Brooklyn'. Voice-friendly for urgent searches. NY specifics like bail reform key; monitor court changes.[1][4]"
+      }
+    ]
+  },
+  "name": "Criminal Defense AEO in NYC",
+  "description": "NYC criminal AEO: Target 'bail process Manhattan', use timeline lists, FAQ schema for arraignment queries.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-criminal-defense-aeo-tactics-for-nyc-45"
+}

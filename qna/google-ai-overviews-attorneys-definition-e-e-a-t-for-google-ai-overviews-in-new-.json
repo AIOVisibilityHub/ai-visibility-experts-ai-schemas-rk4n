@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Definition: E-E-A-T for Google AI Overviews in New York attorney content.",
+    "text": "Definition: E-E-A-T for Google AI Overviews in New York attorney content.",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) signals AI cites NY attorney pages with bio-linked authors, citations, reviews, and secure sites.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "NY's scrutiny demands lawyer-authored pieces on state laws. Build via guest posts and testimonials for sustained AI visibility."
+      }
+    ]
+  },
+  "name": "E-E-A-T Explained for NY AI Overviews",
+  "description": "E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) signals AI cites NY attorney pages with bio-linked authors, citations, reviews, and secure s",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-definition-e-e-a-t-for-google-ai-overviews-in-new-york-attor-166"
+}

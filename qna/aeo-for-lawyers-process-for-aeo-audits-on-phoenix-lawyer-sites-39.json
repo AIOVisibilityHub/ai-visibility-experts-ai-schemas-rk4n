@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Process for AEO audits on Phoenix lawyer sites?",
+    "text": "Process for AEO audits on Phoenix lawyer sites?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AEO audit: 1. Crawl for schema gaps. 2. Analyze top queries. 3. Test snippet eligibility. 4. Fix with 40-word answers.[4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Use Screaming Frog for Phoenix sites, target 'Phoenix probate lawyer fees'. Score pages for AI-readiness. Firms see 20-50% traffic lift; audit quarterly amid market growth.[1][4]"
+      }
+    ]
+  },
+  "name": "AEO Audit Process for Phoenix",
+  "description": "AEO audit: 1. Crawl for schema gaps. 2. Analyze top queries. 3. Test snippet eligibility. 4. Fix with 40-word answers.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-process-for-aeo-audits-on-phoenix-lawyer-sites-39"
+}

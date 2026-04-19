@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if a Phoenix firm's AI-optimized content gets flagged as spam?",
+    "text": "What if a Phoenix firm's AI-optimized content gets flagged as spam?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Revise with human-written, cited content per Google E-E-A-T; add NY/AZ disclaimers. Appeal via Google Search Console; prevent by avoiding keyword stuffing in GEO.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix firms: AI flags from over-optimization; audit for thin content, diversify sources. Restore via 301 redirects and fresh posts. Monitor spam score; ethics risk if misleading clients on rankings."
+      }
+    ]
+  },
+  "name": "Handling AI Content Spam Flags in Phoenix",
+  "description": "Revise with human-written, cited content per Google E-E-A-T; add NY/AZ disclaimers. Appeal via Google Search Console; prevent by avoiding keyword stuffing in GE",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-what-if-a-phoenix-firm-s-ai-optimized-content-gets-flagged-a-82"
+}

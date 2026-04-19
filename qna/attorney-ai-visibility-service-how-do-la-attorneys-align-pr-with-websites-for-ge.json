@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do LA attorneys align PR with websites for Gemini AI citations?",
+    "text": "How do LA attorneys align PR with websites for Gemini AI citations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Publish identical expertise claims in PR wires and site bios using same keywords/language. Reference LA Superior Court cases consistently for pattern recognition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Gemini favors cohesive signals: Same attorney quotes in Law360 PR and firm blog. Track citations via Gemini queries. Boosts recs 25%; misalignment confuses AI. Agencies handle for $3k/mo. Opponents monitor PR for case prep."
+      }
+    ]
+  },
+  "name": "PR-Website Alignment for LA Gemini Visibility",
+  "description": "Publish identical expertise claims in PR wires and site bios using same keywords/language. Reference LA Superior Court cases consistently for pattern recognitio",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-how-do-la-attorneys-align-pr-with-websites-for-gemini-ai-cit-207"
+}

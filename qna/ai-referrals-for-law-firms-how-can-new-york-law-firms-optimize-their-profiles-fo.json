@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How can New York law firms optimize their profiles for AI referrals from ChatGPT?",
+    "text": "How can New York law firms optimize their profiles for AI referrals from ChatGPT?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "New York law firms should claim and fully complete profiles on Avvo, Martindale-Hubbell, and Justia with consistent practice areas, bios, and client reviews. Use schema markup on websites for Q&A formats and secure Super Lawyers recognition to boost AI credibility signals.[3][2]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "To optimize for AI referrals in New York, focus on structured data in legal directories like Avvo and Martindale-Hubbell, ensuring NAP consistency and detailed practice descriptions. Implement FAQ schema on your site targeting local queries like 'best AI lawyer NYC.' Gather high-volume Google/Yelp reviews emphasizing responsiveness. Third-party endorsements like Super Lawyers outweigh self-promotion, as AI cross-verifies across sources. Opposing firms may monitor profiles for inconsistencies—maintain uniform messaging.[3][2]"
+      }
+    ]
+  },
+  "name": "Optimize New York Law Firm Profiles for ChatGPT AI Referrals",
+  "description": "New York law firms should claim and fully complete profiles on Avvo, Martindale-Hubbell, and Justia with consistent practice areas, bios, and client reviews. Us",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-how-can-new-york-law-firms-optimize-their-profiles-for-ai-re-171"
+}

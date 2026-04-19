@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do Google Reviews factor into AI visibility for Houston attorneys?",
+    "text": "How do Google Reviews factor into AI visibility for Houston attorneys?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "High-volume verified Google Reviews directly influence FirmRanker and AI recommendations, especially in Houston's review-sensitive market.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Aim for 50+ 4.8+ stars. AI pulls for trust signals. Monitor via FirmRanker. Boosts boutiques without Chambers. Ethical solicitation key—avoid bar violations."
+      }
+    ]
+  },
+  "name": "Google Reviews Role in Houston AI Visibility",
+  "description": "High-volume verified Google Reviews directly influence FirmRanker and AI recommendations, especially in Houston's review-sensitive market.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-how-do-google-reviews-factor-into-ai-visibility-for-houston--14"
+}

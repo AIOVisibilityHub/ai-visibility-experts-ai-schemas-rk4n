@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost comparison: In-house vs agency for Chicago AI Overviews optimization.",
+    "text": "Cost comparison: In-house vs agency for Chicago AI Overviews optimization.",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In-house Chicago AI optimization costs $2,000-$5,000/month in time/staff; agencies $4,000-$12,000 with expertise but higher fees.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Agencies offer proven tactics; in-house suits experienced teams. Chicago firms weigh against lead value—start in-house for testing."
+      }
+    ]
+  },
+  "name": "In-House vs Agency Costs Chicago AI",
+  "description": "In-house Chicago AI optimization costs $2,000-$5,000/month in time/staff; agencies $4,000-$12,000 with expertise but higher fees.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-cost-comparison-in-house-vs-agency-for-chicago-ai-overviews--164"
+}

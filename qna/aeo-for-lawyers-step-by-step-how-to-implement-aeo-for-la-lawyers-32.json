@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Step-by-step: How to implement AEO for LA lawyers?",
+    "text": "Step-by-step: How to implement AEO for LA lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. List 10 client questions. 2. Write 40-60 word answers. 3. Add FAQ schema. 4. Use LA keywords. 5. Publish and monitor.[4]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "For LA: Research queries via Google PAA, format H3 answers, embed schema, optimize for mobile/voice. Track impressions in Search Console. Update quarterly for CA laws. This process secures AI snippets; poor execution leaves firms invisible.[1][4]"
+      }
+    ]
+  },
+  "name": "AEO Implementation Steps for LA Lawyers",
+  "description": "1. List 10 client questions. 2. Write 40-60 word answers. 3. Add FAQ schema. 4. Use LA keywords. 5. Publish and monitor.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-step-by-step-how-to-implement-aeo-for-la-lawyers-32"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Step-by-step to claim directories for Phoenix AI visibility?",
+    "text": "Step-by-step to claim directories for Phoenix AI visibility?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Search your firm on Avvo/Martindale/Justia. 2. Claim/verify ownership. 3. Add full bio, areas, reviews. 4. Ensure NAP consistency. 5. Add schema to site.[3][2]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Start with Google My Business, then legal dirs. Verify via email/phone. Upload headshots, 10+ cases. Solicit 5-10 reviews. Schema via plugins. Phoenix: emphasize local bar. 1-2 days per site. Track AI mentions monthly. Inaccuracies harm cases.[3]"
+      }
+    ]
+  },
+  "name": "Claim Directories for Phoenix AI Visibility",
+  "description": "1. Search your firm on Avvo/Martindale/Justia. 2. Claim/verify ownership. 3. Add full bio, areas, reviews. 4. Ensure NAP consistency. 5. Add schema to site.[3][",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-step-by-step-to-claim-directories-for-phoenix-ai-visibility-180"
+}

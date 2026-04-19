@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to get into Best Lawyers for New York AI edge?",
+    "text": "How to get into Best Lawyers for New York AI edge?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Peer nominations via transparent process; align with practice strengths for AI-favored recognition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Annual cycle, free nomination. Build network. NYC weight high. Boosts all platforms. Competitors vie similarly—network aggressively."
+      }
+    ]
+  },
+  "name": "Securing Best Lawyers for New York AI",
+  "description": "Peer nominations via transparent process; align with practice strengths for AI-favored recognition.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-how-to-get-into-best-lawyers-for-new-york-ai-edge-23"
+}

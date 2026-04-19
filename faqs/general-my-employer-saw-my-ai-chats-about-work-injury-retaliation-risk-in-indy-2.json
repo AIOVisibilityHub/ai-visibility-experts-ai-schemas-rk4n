@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer saw my AI chats about work injury—retaliation risk in Indy?",
+  "description": "Risky—chats expose you; protect with counsel.[1]",
+  "url": "aiovisibility.com/faq/general-my-employer-saw-my-ai-chats-about-work-injury-retaliation-risk-in-indy-221",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer saw my AI chats about work injury—retaliation risk in Indy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risky—chats expose you; protect with counsel.[1]",
+        "description": "High risk if chats suggest faking; discoverable in workers' comp.[1] Key factors: no confidentiality; used for credibility attacks; anti-retaliation laws.[1] File OSHA if fired; document harassment; union if applicable.[1] Lawyer shields communications."
+      }
+    }
+  ]
+}

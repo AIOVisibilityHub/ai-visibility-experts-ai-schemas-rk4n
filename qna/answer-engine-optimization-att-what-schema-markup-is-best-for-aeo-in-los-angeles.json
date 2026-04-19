@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What schema markup is best for AEO in Los Angeles law firms?",
+    "text": "What schema markup is best for AEO in Los Angeles law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Attorney-specific schema like LocalBusiness, Attorney, and FAQPage markup communicates LA firm specialties, locations, and credentials to AI systems for rich snippets.[1][3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Implement JSON-LD for Attorney role, service areas (Los Angeles), ratings, and Q&A structures to enhance AI parsing. Test with Google's Rich Results tool. This directly feeds knowledge panels; update for new cases. Opponents may reverse-engineer your schema for competitive intel.[3]"
+      }
+    ]
+  },
+  "name": "Best Schema for LA Law Firm AEO",
+  "description": "Attorney-specific schema like LocalBusiness, Attorney, and FAQPage markup communicates LA firm specialties, locations, and credentials to AI systems for rich sn",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-what-schema-markup-is-best-for-aeo-in-los-angeles-law-firms-57"
+}

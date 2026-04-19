@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a lawsuit if an AI search tool defamed my law practice?",
+  "description": "1-3 years from discovery depending on state; document immediately and consult lawyer.[3]",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-file-a-lawsuit-if-an-ai-search-tool-defamed-my-law-practic-228",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a lawsuit if an AI search tool defamed my law practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1-3 years from discovery depending on state; document immediately and consult lawyer.[3]",
+        "description": "Statutes of limitations for defamation vary by state (1-3 years typically) and start from discovery of the statement; AI-generated content may complicate timing.[3] No specific precedent exists for AI search defamation claims.[1] Key factors: prove falsity, harm, fault; AI hallucinations common but platforms often immune under Section 230.[3] Act fast by documenting screenshots dated precisely, notify platform, consult defamation specialist within months.[1] Time-sensitive; delay risks dismissal."
+      }
+    }
+  ]
+}

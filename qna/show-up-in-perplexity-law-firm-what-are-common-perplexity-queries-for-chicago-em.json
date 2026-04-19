@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What are common Perplexity queries for Chicago employment lawyers?",
+    "text": "What are common Perplexity queries for Chicago employment lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Common queries: 'Chicago wrongful termination process,' 'IL at-will employment exceptions,' 'Chicago wage claim timeline' drive Perplexity traffic.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Answer these with tables of steps, employer defenses, and costs. Chicago's union-heavy market needs labor-specific depth. Optimize for voice search phrasing."
+      }
+    ]
+  },
+  "name": "Top Perplexity Queries Chicago Employment",
+  "description": "Common queries: 'Chicago wrongful termination process,' 'IL at-will employment exceptions,' 'Chicago wage claim timeline' drive Perplexity traffic.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-what-are-common-perplexity-queries-for-chicago-employment-la-134"
+}

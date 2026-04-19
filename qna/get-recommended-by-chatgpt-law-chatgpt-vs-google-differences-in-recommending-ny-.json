@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "ChatGPT vs Google: Differences in recommending NY lawyers?",
+    "text": "ChatGPT vs Google: Differences in recommending NY lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ChatGPT synthesizes top Google NY lawyer results with conversational tone; ranks review-heavy profiles higher than pure ads.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Google favors paid; ChatGPT narrative. Optimize for both. NY firms: Balance."
+      }
+    ]
+  },
+  "name": "ChatGPT vs Google NY Lawyer Recs",
+  "description": "ChatGPT synthesizes top Google NY lawyer results with conversational tone; ranks review-heavy profiles higher than pure ads.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-chatgpt-vs-google-differences-in-recommending-ny-lawyers-112"
+}

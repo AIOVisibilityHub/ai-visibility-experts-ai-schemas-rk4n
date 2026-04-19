@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How frequently should San Diego firms refresh GEO content?",
+    "text": "How frequently should San Diego firms refresh GEO content?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Bi-weekly for news/practices, monthly for evergreen; maintains top AI citations.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "San Diego: Tie to CA court calendars. Freshness algorithm factor; stale drops 40%. Automate with CMS plugins."
+      }
+    ]
+  },
+  "name": "GEO Content Refresh Frequency San Diego",
+  "description": "Bi-weekly for news/practices, monthly for evergreen; maintains top AI citations.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-how-frequently-should-san-diego-firms-refresh-geo-content-96"
+}

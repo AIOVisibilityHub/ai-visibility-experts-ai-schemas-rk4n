@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to verify if Phoenix firm appears in ChatGPT responses?",
+    "text": "How to verify if Phoenix firm appears in ChatGPT responses?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Query ChatGPT with 'recommend Phoenix [practice] lawyers' variations 10x; check frequency and context of your firm's mentions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Use incognito, note versions. Tools like ChatGPT wrappers help log. Phoenix heat means consistent testing."
+      }
+    ]
+  },
+  "name": "Verify Phoenix ChatGPT Visibility",
+  "description": "Query ChatGPT with 'recommend Phoenix [practice] lawyers' variations 10x; check frequency and context of your firm's mentions.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-how-to-verify-if-phoenix-firm-appears-in-chatgpt-responses-111"
+}

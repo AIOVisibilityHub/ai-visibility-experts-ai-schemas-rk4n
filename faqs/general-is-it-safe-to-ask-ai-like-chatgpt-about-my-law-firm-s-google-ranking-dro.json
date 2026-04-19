@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to ask AI like ChatGPT about my law firm's Google ranking drop?",
+  "description": "No, AI queries create non-privileged evidence usable in court; avoid entirely.[1][3]",
+  "url": "aiovisibility.com/faq/general-is-it-safe-to-ask-ai-like-chatgpt-about-my-law-firm-s-google-ranking-drop-227",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to ask AI like ChatGPT about my law firm's Google ranking drop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, AI queries create non-privileged evidence usable in court; avoid entirely.[1][3]",
+        "description": "No, asking AI about your firm's rankings risks creating discoverable evidence that could contradict later testimony or strategy.[1] Federal courts like in New York have ruled AI interactions are not confidential or protected.[1][6] Key factors: no privilege without lawyer direction, high hallucination rates (17-34% in legal AI tools), device data recoverable.[1][3] Stop all AI use immediately for case matters, screenshot issues instead, and hire a lawyer to analyze rankings manually.[1] Professional review prevents pitfalls."
+      }
+    }
+  ]
+}

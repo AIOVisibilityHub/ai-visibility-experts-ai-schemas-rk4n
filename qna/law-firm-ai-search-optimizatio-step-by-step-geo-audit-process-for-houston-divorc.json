@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Step-by-step GEO audit process for Houston divorce lawyers?",
+    "text": "Step-by-step GEO audit process for Houston divorce lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Crawl site for AI readability. 2. Check schema/errors. 3. Analyze content citability. 4. Test 20+ AI queries. 5. Report with fixes for Houston family law.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Use Screaming Frog for audit, validate schema, score content E-E-A-T. Query test: 'Houston child custody lawyer.' Implement fixes in 30 days; repeat quarterly. Boosts visibility 60% for local practices."
+      }
+    ]
+  },
+  "name": "GEO Audit Steps for Houston Divorce Firms",
+  "description": "1. Crawl site for AI readability. 2. Check schema/errors. 3. Analyze content citability. 4. Test 20+ AI queries. 5. Report with fixes for Houston family law.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-step-by-step-geo-audit-process-for-houston-divorce-lawyers-83"
+}

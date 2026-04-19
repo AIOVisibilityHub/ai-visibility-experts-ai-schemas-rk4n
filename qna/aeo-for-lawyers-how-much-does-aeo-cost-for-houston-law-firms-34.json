@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much does AEO cost for Houston law firms?",
+    "text": "How much does AEO cost for Houston law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AEO for Houston firms costs $2K-$10K initially (audit/schema/dev), $500-$2K/month maintenance, varying by agency vs. in-house.[1][4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "DIY AEO is low-cost (tools free), but agencies charge for Phoenix/Houston audits. ROI from leads justifies; compare to SEO fees. Budget for ongoing updates—opponents track your visibility gains, but costs stay internal.[1]"
+      }
+    ]
+  },
+  "name": "AEO Costs for Houston Lawyers",
+  "description": "AEO for Houston firms costs $2K-$10K initially (audit/schema/dev), $500-$2K/month maintenance, varying by agency vs. in-house.[1][4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-how-much-does-aeo-cost-for-houston-law-firms-34"
+}

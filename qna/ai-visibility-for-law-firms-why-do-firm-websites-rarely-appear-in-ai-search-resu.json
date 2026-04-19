@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why do firm websites rarely appear in AI search results for New York legal queries?",
+    "text": "Why do firm websites rarely appear in AI search results for New York legal queries?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AI prioritizes third-party directories like Chambers over firm websites due to higher credibility and peer validation, making self-published sites invisible in large markets like New York.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "In New York, AI engines dismiss websites lacking external corroboration, favoring consistent directory data. Optimize indirectly by linking to recognitions and using structured data, but direct SEO yields minimal gains. This protects against false claims but challenges boutiques—consider PR partnerships for pattern-building."
+      }
+    ]
+  },
+  "name": "Why New York Law Firm Websites Fail in AI Results",
+  "description": "AI prioritizes third-party directories like Chambers over firm websites due to higher credibility and peer validation, making self-published sites invisible in ",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-why-do-firm-websites-rarely-appear-in-ai-search-results-for--5"
+}

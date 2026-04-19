@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How many reviews needed for Phoenix firm AI visibility?",
+    "text": "How many reviews needed for Phoenix firm AI visibility?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Minimum 50 Google reviews at 4.5+ stars, plus 20 Avvo. Patterns of 'responsive Phoenix attorney' strengthen signals.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix AI tools weigh volume (50+), recency (70% last year), and keywords matching queries. Automate requests ethically. Below 30 reviews, near-zero citations. Agencies boost ethically for $1k/mo. Negative patterns tank trust—respond all."
+      }
+    ]
+  },
+  "name": "Review Volume for Phoenix AI Success",
+  "description": "Minimum 50 Google reviews at 4.5+ stars, plus 20 Avvo. Patterns of 'responsive Phoenix attorney' strengthen signals.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-how-many-reviews-needed-for-phoenix-firm-ai-visibility-211"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can Perplexity drive leads for LA criminal defense lawyers?",
+    "text": "Can Perplexity drive leads for LA criminal defense lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Perplexity drives LA criminal defense leads via 'DUI checkpoints Los Angeles' queries citing firm guides.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Optimize for urgent queries with 24/7 disclaimers. Track conversions from AI referrals. LA's high caseload favors fast-ranking niche content."
+      }
+    ]
+  },
+  "name": "Perplexity Leads for LA Criminal Law",
+  "description": "Yes, Perplexity drives LA criminal defense leads via 'DUI checkpoints Los Angeles' queries citing firm guides.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-can-perplexity-drive-leads-for-la-criminal-defense-lawyers-138"
+}

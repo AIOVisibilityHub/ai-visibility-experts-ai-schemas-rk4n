@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Best practice areas for ChatGPT recommendations in New York?",
+    "text": "Best practice areas for ChatGPT recommendations in New York?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Personal injury, family, and criminal defense lawyers in New York dominate ChatGPT recommendations due to high search volume and Justia/Avvo listings.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Align with query data—PI has most. Publish niche content. NY ethics require disclaimers on results."
+      }
+    ]
+  },
+  "name": "Top Practice Areas for NY ChatGPT Recs",
+  "description": "Personal injury, family, and criminal defense lawyers in New York dominate ChatGPT recommendations due to high search volume and Justia/Avvo listings.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-best-practice-areas-for-chatgpt-recommendations-in-new-york-107"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is schema markup required for Chicago law firms in Perplexity AI results?",
+    "text": "Is schema markup required for Chicago law firms in Perplexity AI results?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not required but boosts visibility 40%; Chicago firms using Attorney schema see higher Perplexity citations for local queries like 'Chicago estate planning attorney.'",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Perplexity favors structured data for accuracy. Implement via Google Tag Manager, test with rich results tool. Chicago-specific: Add IL court links. Without it, rely on content quality alone, risking 50% lower AI exposure."
+      }
+    ]
+  },
+  "name": "Schema Role in Chicago Perplexity Optimization",
+  "description": "Not required but boosts visibility 40%; Chicago firms using Attorney schema see higher Perplexity citations for local queries like 'Chicago estate planning atto",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-is-schema-markup-required-for-chicago-law-firms-in-perplexit-81"
+}

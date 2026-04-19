@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What specific schema markup should New York attorneys use for AI visibility in Google AI Overviews?",
+    "text": "What specific schema markup should New York attorneys use for AI visibility in Google AI Overviews?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use Attorney, LocalBusiness, and Review schema markup on attorney profiles, practice areas, and client testimonials. Include JSON-LD for NAP consistency, practice areas, and geo-targeted New York court references to boost local AI recognition.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "For New York attorneys, implement structured data like Attorney schema with nested LocalBusiness properties specifying Manhattan or Brooklyn addresses. Add AggregateRating from verified reviews and FAQPage schema for common queries like 'personal injury lawyer NYC.' This creates E-E-A-T signals AI prioritizes, but inconsistent implementation across directories can undermine efforts—audit NAP first. Beware: generic schema without local NY law references may not trigger city-specific overviews."
+      }
+    ]
+  },
+  "name": "Best Schema Markup for New York Attorney AI Visibility",
+  "description": "Use Attorney, LocalBusiness, and Review schema markup on attorney profiles, practice areas, and client testimonials. Include JSON-LD for NAP consistency, practi",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-what-specific-schema-markup-should-new-york-attorneys-use-fo-196"
+}

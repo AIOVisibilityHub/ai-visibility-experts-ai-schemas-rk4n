@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost of ignoring Google AI Overviews for Houston firms?",
+    "text": "Cost of ignoring Google AI Overviews for Houston firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Houston firms ignoring AI Overviews lose 78% high-intent visibility to cited competitors, reducing qualified leads by 30-50%.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Opportunity cost high in consumer law; invest modestly to compete. Houston's growth amplifies losses."
+      }
+    ]
+  },
+  "name": "Cost of Skipping Houston AI Overviews",
+  "description": "Houston firms ignoring AI Overviews lose 78% high-intent visibility to cited competitors, reducing qualified leads by 30-50%.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-cost-of-ignoring-google-ai-overviews-for-houston-firms-170"
+}

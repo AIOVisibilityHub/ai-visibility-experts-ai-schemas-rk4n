@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Does ChatGPT recommend pro bono lawyers in Phoenix?",
+    "text": "Does ChatGPT recommend pro bono lawyers in Phoenix?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ChatGPT rarely recommends specific pro bono Phoenix lawyers unless they rank high in 'free legal aid Phoenix' with bar association ties and reviews.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Focus on nonprofit listings, AZ bar pro bono pages. Limited due to AI's commercial bias. Useful for visibility, but track impact on paid cases."
+      }
+    ]
+  },
+  "name": "Pro Bono Phoenix Lawyers on ChatGPT",
+  "description": "ChatGPT rarely recommends specific pro bono Phoenix lawyers unless they rank high in 'free legal aid Phoenix' with bar association ties and reviews.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-does-chatgpt-recommend-pro-bono-lawyers-in-phoenix-106"
+}

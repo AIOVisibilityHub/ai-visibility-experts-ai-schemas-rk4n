@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My law firm isn't showing up in AI search results like Perplexity or ChatGPT. Can I sue someone for this?",
+  "description": "No, no legal claim exists for low AI search rankings without contracts or antitrust issues; AI chats aren't privileged and can be evidence.[1]",
+  "url": "aiovisibility.com/faq/general-my-law-firm-isn-t-showing-up-in-ai-search-results-like-perplexity-or-chatgpt-can-225",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My law firm isn't showing up in AI search results like Perplexity or ChatGPT. Can I sue someone for this?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, no legal claim exists for low AI search rankings without contracts or antitrust issues; AI chats aren't privileged and can be evidence.[1]",
+        "description": "No, you generally cannot sue solely because your law firm does not rank in AI search results, as there is no legal duty for AI platforms to include or prioritize specific businesses.[1] Courts have not recognized a cause of action for AI search visibility under current law, similar to how general search engine rankings are not actionable absent specific contracts or antitrust violations.[1][3] Key factors include lack of attorney-client privilege for AI interactions, potential discoverability of AI usage records, and no established precedent for ranking claims.[1][6] Document any AI prompts or strategies used, avoid self-contradictory inputs, and consult a tech-savvy attorney to explore niche claims like false advertising if applicable; do not rely on AI for case strategy due to hallucination risks.[1][3] A specialized lawyer can assess if your situation involves unique factors like discriminatory algorithms."
+      }
+    }
+  ]
+}

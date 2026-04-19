@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to optimize lawyer bios for AI visibility in Houston firms?",
+    "text": "How to optimize lawyer bios for AI visibility in Houston firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use practice-specific content mirroring Chambers language, add schema markup, and link third-party recognitions to make bios AI-readable.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Replace templates with differentiated stories echoing directories. Implement JSON-LD for profiles. Test in ChatGPT queries. Houston benefits from local angles. This builds patterns AI trusts, but tailor to avoid over-optimization flags from regulators."
+      }
+    ]
+  },
+  "name": "Optimizing Houston Lawyer Bios for AI",
+  "description": "Use practice-specific content mirroring Chambers language, add schema markup, and link third-party recognitions to make bios AI-readable.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-how-to-optimize-lawyer-bios-for-ai-visibility-in-houston-fir-10"
+}

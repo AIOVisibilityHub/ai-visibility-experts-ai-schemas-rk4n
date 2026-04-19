@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can small Phoenix law firms compete in Perplexity against big firms?",
+    "text": "Can small Phoenix law firms compete in Perplexity against big firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, small Phoenix firms compete by niching into underserved queries like 'Phoenix probate for blended families' with superior, updated content.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Big Phoenix firms dominate broad terms; target long-tail with videos transcripts and lists. Build authority via guest posts on azbar.org. Small firms often outperform in 4-8 months."
+      }
+    ]
+  },
+  "name": "Small Phoenix Firms vs Big in Perplexity",
+  "description": "Yes, small Phoenix firms compete by niching into underserved queries like 'Phoenix probate for blended families' with superior, updated content.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-can-small-phoenix-law-firms-compete-in-perplexity-against-bi-132"
+}

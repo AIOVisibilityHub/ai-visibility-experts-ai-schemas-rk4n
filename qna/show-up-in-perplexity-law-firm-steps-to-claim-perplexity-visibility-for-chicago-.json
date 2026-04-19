@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Steps to claim Perplexity visibility for Chicago multi-practice firm?",
+    "text": "Steps to claim Perplexity visibility for Chicago multi-practice firm?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Audit queries. 2. Create city-specific content. 3. Add schema. 4. Build backlinks. 5. Track citations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Chicago firms segment by practice/city. Use lists/tables heavily."
+      }
+    ]
+  },
+  "name": "Claiming Chicago Perplexity Visibility",
+  "description": "1. Audit queries. 2. Create city-specific content. 3. Add schema. 4. Build backlinks. 5. Track citations.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-steps-to-claim-perplexity-visibility-for-chicago-multi-pract-145"
+}

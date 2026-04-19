@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Compare AEO tools for LA vs. Chicago firms",
+    "text": "Compare AEO tools for LA vs. Chicago firms",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Free: Google Search Console, Schema.org. Paid: Ahrefs ($99/mo), Clearscope ($170/mo)—similar for LA/Chicago, prioritize schema validators.[1]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "LA firms favor local tools; Chicago uses enterprise like SEMrush. All track AI impressions. Table comparison shows schema free across cities—invest in content first.[4]"
+      }
+    ]
+  },
+  "name": "AEO Tools: LA vs Chicago",
+  "description": "Free: Google Search Console, Schema.org. Paid: Ahrefs ($99/mo), Clearscope ($170/mo)—similar for LA/Chicago, prioritize schema validators.[1]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-compare-aeo-tools-for-la-vs-chicago-firms-37"
+}

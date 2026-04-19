@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does AEO differ from traditional SEO for New York law firms?",
+    "text": "How does AEO differ from traditional SEO for New York law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AEO prioritizes structured, question-answering content and schema markup for AI visibility audits, while traditional SEO focuses on keywords and backlinks; both are essential but AEO targets ChatGPT and Google AI responses specifically for New York attorneys.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Traditional SEO boosts Google rankings via keywords and links, but AEO ensures citation in AI overviews by developing content around legal questions, adding schema for specialties/locations, and enhancing E-E-A-T. New York firms benefit from AEO in saturated markets, yet combining both prevents over-reliance on one channel. Opposing firms may track your optimizations.[1][3]"
+      }
+    ]
+  },
+  "name": "AEO vs Traditional SEO for New York Law Firms",
+  "description": "AEO prioritizes structured, question-answering content and schema markup for AI visibility audits, while traditional SEO focuses on keywords and backlinks; both",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-how-does-aeo-differ-from-traditional-seo-for-new-york-law-fi-51"
+}

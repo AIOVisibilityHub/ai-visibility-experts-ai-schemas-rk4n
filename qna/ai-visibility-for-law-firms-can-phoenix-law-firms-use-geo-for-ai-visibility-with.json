@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can Phoenix law firms use GEO for AI visibility without national directories?",
+    "text": "Can Phoenix law firms use GEO for AI visibility without national directories?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Google Entity Optimization via consistent NAP and reviews boosts local AI results in Phoenix, supplementing directories.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "GEO structures data for AI recognition. Claim profiles, align signals. Effective for Phoenix mid-markets lacking Chambers. Combine with PR. Less risky than paid links, but verify compliance with state bars."
+      }
+    ]
+  },
+  "name": "GEO for Phoenix AI Visibility",
+  "description": "Yes, Google Entity Optimization via consistent NAP and reviews boosts local AI results in Phoenix, supplementing directories.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-can-phoenix-law-firms-use-geo-for-ai-visibility-without-nati-12"
+}

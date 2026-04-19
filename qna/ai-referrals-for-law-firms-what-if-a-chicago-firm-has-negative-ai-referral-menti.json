@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if a Chicago firm has negative AI referral mentions?",
+    "text": "What if a Chicago firm has negative AI referral mentions?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Address root via review responses, profile updates, and positive signals. AI adapts over 4-6 weeks with new data.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Identify via Perplexity searches. Respond publicly, add endorsements. Chicago ethics rules limit counters. Monitor; pivot to strengths. Negative sticks if unresolved—opponents amplify.[3]"
+      }
+    ]
+  },
+  "name": "Handle Negative AI Mentions in Chicago",
+  "description": "Address root via review responses, profile updates, and positive signals. AI adapts over 4-6 weeks with new data.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-what-if-a-chicago-firm-has-negative-ai-referral-mentions-183"
+}

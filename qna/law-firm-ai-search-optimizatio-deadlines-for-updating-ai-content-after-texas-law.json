@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Deadlines for updating AI content after Texas law changes in Houston?",
+    "text": "Deadlines for updating AI content after Texas law changes in Houston?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Update within 7-14 days for Houston firms to maintain GEO freshness; signals authority to AIs like Grok.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "TX legislature sessions end May; refresh content pre-search spikes. Automate alerts via Google Alerts. Delays drop rankings 30%; tie to firm newsletters."
+      }
+    ]
+  },
+  "name": "Content Update Deadlines Post-TX Law Changes",
+  "description": "Update within 7-14 days for Houston firms to maintain GEO freshness; signals authority to AIs like Grok.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-deadlines-for-updating-ai-content-after-texas-law-changes-in-88"
+}

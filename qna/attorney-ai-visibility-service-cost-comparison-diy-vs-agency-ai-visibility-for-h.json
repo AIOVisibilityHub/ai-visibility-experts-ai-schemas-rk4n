@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost comparison: DIY vs agency AI visibility for Houston lawyers?",
+    "text": "Cost comparison: DIY vs agency AI visibility for Houston lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "DIY: $500/mo (tools/time); Agency: $6k/mo (audits/content/PR). Agencies deliver 3x faster ROI via expertise.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Houston DIY uses free audits, manual dirs ($50/mo tools). Agencies provide guaranteed citations, saving 20+ hours/week. Break-even at 2 clients. Small firms DIY first, scale to agency. Track ROI via lead forms. Hidden DIY cost: Opportunity from poor execution."
+      }
+    ]
+  },
+  "name": "DIY vs Agency Costs in Houston",
+  "description": "DIY: $500/mo (tools/time); Agency: $6k/mo (audits/content/PR). Agencies deliver 3x faster ROI via expertise.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-cost-comparison-diy-vs-agency-ai-visibility-for-houston-lawy-209"
+}

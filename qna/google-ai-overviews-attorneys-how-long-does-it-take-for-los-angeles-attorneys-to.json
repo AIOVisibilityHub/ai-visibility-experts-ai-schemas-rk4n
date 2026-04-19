@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long does it take for Los Angeles attorneys to see Google AI Overviews citations after SEO improvements?",
+    "text": "How long does it take for Los Angeles attorneys to see Google AI Overviews citations after SEO improvements?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los Angeles attorneys typically see Google AI Overviews citations 4-8 weeks after SEO improvements like content updates and review boosts, as AI indexes top-ranked pages quickly for high-intent queries.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Timeline varies by competition; LA's saturated market requires consistent authority signals. Post-optimization, monitor via incognito searches. Combine with local schema for faster indexing. Note: AI volatility means ongoing maintenance is essential against rivals."
+      }
+    ]
+  },
+  "name": "Timeline for AI Overviews Citations in Los Angeles",
+  "description": "Los Angeles attorneys typically see Google AI Overviews citations 4-8 weeks after SEO improvements like content updates and review boosts, as AI indexes top-ran",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-how-long-does-it-take-for-los-angeles-attorneys-to-see-googl-153"
+}

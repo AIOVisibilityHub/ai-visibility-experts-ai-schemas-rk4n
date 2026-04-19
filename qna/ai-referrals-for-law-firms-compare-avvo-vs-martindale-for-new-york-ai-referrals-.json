@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Compare Avvo vs Martindale for New York AI referrals.",
+    "text": "Compare Avvo vs Martindale for New York AI referrals.",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Avvo excels in client reviews/ratings for consumer queries; Martindale in peer AV ratings for B2B. Both essential for NY AI synthesis.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "NY AI blends Avvo's volume reviews with Martindale's ethics signals. Avvo faster updates; Martindale prestigious. Complete both. Firms weak in one lose edge. Audit competitors.[3]"
+      }
+    ]
+  },
+  "name": "Avvo vs Martindale for NY AI Referrals",
+  "description": "Avvo excels in client reviews/ratings for consumer queries; Martindale in peer AV ratings for B2B. Both essential for NY AI synthesis.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-compare-avvo-vs-martindale-for-new-york-ai-referrals-186"
+}

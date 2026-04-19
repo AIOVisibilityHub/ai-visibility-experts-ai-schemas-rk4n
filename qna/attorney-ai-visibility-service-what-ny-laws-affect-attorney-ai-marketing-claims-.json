@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What NY laws affect attorney AI marketing claims?",
+    "text": "What NY laws affect attorney AI marketing claims?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "NY Rules of Professional Conduct 7.1-7.5 prohibit false/misleading ads. AI visibility must avoid guarantees, disclose AI use, and cite verifiable wins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "New York Bar enforces strict ad rules; AI-optimized 'best lawyer' claims need disclaimers. Disclose generated content. Violations risk sanctions. Services ensure compliance in schema/FAQs. Consult ethics counsel pre-launch. Insurers flag non-compliant sites."
+      }
+    ]
+  },
+  "name": "NY Legal Rules for AI Marketing",
+  "description": "NY Rules of Professional Conduct 7.1-7.5 prohibit false/misleading ads. AI visibility must avoid guarantees, disclose AI use, and cite verifiable wins.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-what-ny-laws-affect-attorney-ai-marketing-claims-210"
+}

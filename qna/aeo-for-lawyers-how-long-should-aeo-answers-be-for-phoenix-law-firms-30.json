@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long should AEO answers be for Phoenix law firms?",
+    "text": "How long should AEO answers be for Phoenix law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AEO answers for Phoenix lawyers should be 40-60 words: direct, factual, and snippet-optimized for AI extraction in overviews and voice results.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix's growing legal market demands concise AEO content. Example: Answer 'Phoenix DUI penalties' in under 60 words with sources. Longer text dilutes AI pickup; test variations for 'People Also Ask' expansion. Firms risk irrelevance without this precision.[1][4]"
+      }
+    ]
+  },
+  "name": "Ideal AEO Answer Length for Phoenix Firms",
+  "description": "AEO answers for Phoenix lawyers should be 40-60 words: direct, factual, and snippet-optimized for AI extraction in overviews and voice results.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-how-long-should-aeo-answers-be-for-phoenix-law-firms-30"
+}

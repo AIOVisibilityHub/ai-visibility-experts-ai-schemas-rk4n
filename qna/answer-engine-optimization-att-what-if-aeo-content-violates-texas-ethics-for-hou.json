@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if AEO content violates Texas ethics for Houston lawyers?",
+    "text": "What if AEO content violates Texas ethics for Houston lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Violations like false claims in AEO content risk Texas bar sanctions; use disclaimers, source facts, and pre-approve with compliance review.[3]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Texas rules scrutinize advertising; AEO's prominence amplifies risks. Implement review processes. Agencies should certify ethics compliance. Penalties deter visibility gains—prioritize.[1]"
+      }
+    ]
+  },
+  "name": "Texas Ethics Risks in Houston AEO",
+  "description": "Violations like false claims in AEO content risk Texas bar sanctions; use disclaimers, source facts, and pre-approve with compliance review.[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-what-if-aeo-content-violates-texas-ethics-for-houston-lawyer-70"
+}

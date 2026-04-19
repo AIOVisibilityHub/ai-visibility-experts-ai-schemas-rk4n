@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can AI chatbots generate referrals for Chicago personal injury firms?",
+    "text": "Can AI chatbots generate referrals for Chicago personal injury firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Custom AI chatbots trained on firm data can answer queries 24/7, positioning Chicago PI firms for indirect referrals via engagement.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "ApricotLaw-style bots handle intakes, cite firm strengths. Integrate schema. Boosts site dwell time for AI. Chicago PI high-volume—scale leads. Privacy risks; comply with rules. Competitors adopt fast.[4]"
+      }
+    ]
+  },
+  "name": "AI Chatbots for Chicago PI Referrals",
+  "description": "Custom AI chatbots trained on firm data can answer queries 24/7, positioning Chicago PI firms for indirect referrals via engagement.[4]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-can-ai-chatbots-generate-referrals-for-chicago-personal-inju-188"
+}

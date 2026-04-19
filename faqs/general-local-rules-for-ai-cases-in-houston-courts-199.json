@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Local rules for AI cases in Houston courts?",
+  "description": "Same as malpractice; competence key in TX.",
+  "url": "aiovisibility.com/faq/general-local-rules-for-ai-cases-in-houston-courts-199",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Local rules for AI cases in Houston courts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Same as malpractice; competence key in TX.",
+        "description": "Standard malpractice; no AI-specific yet. Texas emphasizes competence. Key factors: (1) Ethics on tech; (2) Venue Harris County fast; (3) Expert local. Check updates."
+      }
+    }
+  ]
+}

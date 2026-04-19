@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What steps must Chicago law firms take to appear in Perplexity AI recommendations?",
+    "text": "What steps must Chicago law firms take to appear in Perplexity AI recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Chicago firms need peer-reviewed listings in Chambers or Super Lawyers, reinforced by website structured data and PR, as Perplexity prioritizes authoritative directories over SEO.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Step 1: Audit current AI mentions. Step 2: Secure third-party recognitions. Step 3: Align website bios with directory language. Step 4: Use schema markup for profiles. AI reflects existing legal prestige, so invest in directories first. Opposing counsel could use your visibility against you in competitive bids—strategize disclosures."
+      }
+    ]
+  },
+  "name": "Steps for Chicago Law Firms in Perplexity AI",
+  "description": "Chicago firms need peer-reviewed listings in Chambers or Super Lawyers, reinforced by website structured data and PR, as Perplexity prioritizes authoritative di",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-what-steps-must-chicago-law-firms-take-to-appear-in-perplexi-4"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happened in that New York case where AI chats got used against someone in court?",
+  "description": "Court held AI chats (Claude) not privileged in US v. Heppner (NY 2026); discoverable and used against defendant.[1]",
+  "url": "aiovisibility.com/faq/general-what-happened-in-that-new-york-case-where-ai-chats-got-used-against-someone-in-c-226",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happened in that New York case where AI chats got used against someone in court?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Court held AI chats (Claude) not privileged in US v. Heppner (NY 2026); discoverable and used against defendant.[1]",
+        "description": "In United States v. Heppner (S.D.N.Y. 2026), the court ruled that defendant's private conversations with Claude AI were not privileged and could be used as evidence, rejecting attorney-client or work product protections.[1] The AI disclaimed legal advice, and no lawyer directed the use, making records discoverable like any document.[1] Key factors: AI cannot form attorney-client relationships, device seizures reveal chats, inconsistencies harm cases.[1][2] Preserve devices carefully, never input case details into consumer AI, and only use AI under direct lawyer supervision for potential protection.[1] Seek counsel experienced in digital evidence."
+      }
+    }
+  ]
+}

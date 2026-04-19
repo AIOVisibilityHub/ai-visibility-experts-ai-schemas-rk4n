@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Family law AEO examples for Houston?",
+    "text": "Family law AEO examples for Houston?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Houston family AEO: 'Texas child custody laws Houston', 'divorce mediation Houston cost'—answer in lists with schema.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Structure as H2 FAQs with TX statutes. Examples drive snippets; customize for Houston courts. Warn: Opposing counsel may reference public content indirectly.[1][4]"
+      }
+    ]
+  },
+  "name": "Houston Family Law AEO Examples",
+  "description": "Houston family AEO: 'Texas child custody laws Houston', 'divorce mediation Houston cost'—answer in lists with schema.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-family-law-aeo-examples-for-houston-43"
+}

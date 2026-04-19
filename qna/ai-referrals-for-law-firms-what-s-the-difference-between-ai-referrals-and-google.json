@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What's the difference between AI referrals and Google search rankings for Chicago firms?",
+    "text": "What's the difference between AI referrals and Google search rankings for Chicago firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AI referrals synthesize credibility from directories, reviews, and endorsements to recommend firms directly, unlike Google rankings which prioritize SEO signals like backlinks. AI favors consistent multi-source validation.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Chicago firms see AI (e.g., Perplexity) evaluating Avvo ratings, Yelp patterns, and Super Lawyers lists for recommendations, bypassing pure SEO. Google ranks sites; AI 'borrows trust' to shortlist. Optimize both: directories for AI, content for search. Weak review consensus hurts AI visibility more than rankings. Opponents use AI to scout competitors.[3]"
+      }
+    ]
+  },
+  "name": "AI Referrals vs Google Rankings for Chicago Law Firms",
+  "description": "AI referrals synthesize credibility from directories, reviews, and endorsements to recommend firms directly, unlike Google rankings which prioritize SEO signals",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-what-s-the-difference-between-ai-referrals-and-google-search-174"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What schema markup is best for AEO on Houston lawyer websites?",
+    "text": "What schema markup is best for AEO on Houston lawyer websites?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use FAQPage, LocalBusiness, and LegalService schema for Houston lawyers to enhance AEO, enabling AI engines to parse and display firm info in overviews.[4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Houston firms implement JSON-LD schema for questions like 'oil & gas attorney Houston fees'. Validate with Google's tool, combine with structured headings. This improves zero-click visibility; incomplete schema risks missing AI recommendations in energy-heavy legal searches.[1][4]"
+      }
+    ]
+  },
+  "name": "Best Schema for Houston Lawyer AEO",
+  "description": "Use FAQPage, LocalBusiness, and LegalService schema for Houston lawyers to enhance AEO, enabling AI engines to parse and display firm info in overviews.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-what-schema-markup-is-best-for-aeo-on-houston-lawyer-website-29"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if ChatGPT recommends unethical lawyers in Houston?",
+    "text": "What if ChatGPT recommends unethical lawyers in Houston?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ChatGPT lacks real-time ethics checks; Houston clients must verify via TX bar discipline records despite recommendations.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI flaw—always cross-verify. Lawyers: Clean record boosts long-term."
+      }
+    ]
+  },
+  "name": "Handling Unethical Houston Recs",
+  "description": "ChatGPT lacks real-time ethics checks; Houston clients must verify via TX bar discipline records despite recommendations.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-what-if-chatgpt-recommends-unethical-lawyers-in-houston-119"
+}

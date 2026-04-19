@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does New York Bar Rule 7.1 impact AI search optimization strategies for law firms?",
+    "text": "How does New York Bar Rule 7.1 impact AI search optimization strategies for law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "New York Bar Rule 7.1 requires truthful advertising without misleading claims. AI optimization must use verifiable content, avoid exaggerated results, and include disclaimers in GEO strategies to comply, ensuring AI citations remain ethical and non-deceptive.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Under NY Rules of Professional Conduct Rule 7.1, law firms optimizing for AI search must ensure all content is fact-based and not misleading, as AI platforms like Gemini may amplify unverified claims. Use compliant schema markup and local NY case citations. Non-compliance risks disciplinary action; audit AI content quarterly with bar counsel review for safety."
+      }
+    ]
+  },
+  "name": "Complying with New York Bar Rule 7.1 in AI Search Optimization",
+  "description": "New York Bar Rule 7.1 requires truthful advertising without misleading claims. AI optimization must use verifiable content, avoid exaggerated results, and inclu",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-how-does-new-york-bar-rule-7-1-impact-ai-search-optimization-74"
+}

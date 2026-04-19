@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My competitor ranks high in AI searches for lawyers but I don't. Is this antitrust?",
+  "description": "No, rankings alone not antitrust; needs abuse proof.[3]",
+  "url": "aiovisibility.com/faq/general-my-competitor-ranks-high-in-ai-searches-for-lawyers-but-i-don-t-is-this-antitrus-234",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My competitor ranks high in AI searches for lawyers but I don't. Is this antitrust?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, rankings alone not antitrust; needs abuse proof.[3]",
+        "description": "Unlikely antitrust without market dominance abuse or conspiracy; mere rankings not illegal.[3] No cases yet.[1] Key factors: prove exclusionary conduct, consumer harm.[3] Analyze market share data, gather competitor ad spends, antitrust specialist review.[1] Low success odds."
+      }
+    }
+  ]
+}

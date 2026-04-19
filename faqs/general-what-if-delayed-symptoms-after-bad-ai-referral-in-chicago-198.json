@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if delayed symptoms after bad AI referral in Chicago?",
+  "description": "Discovery rule helps; 2 years from knowing in IL.",
+  "url": "aiovisibility.com/faq/general-what-if-delayed-symptoms-after-bad-ai-referral-in-chicago-198",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if delayed symptoms after bad AI referral in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Discovery rule helps; 2 years from knowing in IL.",
+        "description": "Discovery rule extends time if recently learned. Illinois 2 years from knowledge. Key factors: (1) Link proof; (2) Records; (3) No prejudice. Document now."
+      }
+    }
+  ]
+}

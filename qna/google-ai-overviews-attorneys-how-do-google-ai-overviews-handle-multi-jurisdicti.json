@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do Google AI Overviews handle multi-jurisdiction queries for attorneys in Houston and Phoenix?",
+    "text": "How do Google AI Overviews handle multi-jurisdiction queries for attorneys in Houston and Phoenix?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Google AI Overviews synthesize location-specific content, citing Houston attorneys for Texas queries and Phoenix for Arizona, prioritizing local SEO signals and reviews.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Multi-city firms like those in Houston/Phoenix optimize per jurisdiction with geo-targeted pages. AI favors precise local authority; avoid generic content. Track cross-jurisdiction performance to refine strategies."
+      }
+    ]
+  },
+  "name": "Multi-Jurisdiction AI Overviews for Houston Phoenix Attorneys",
+  "description": "Google AI Overviews synthesize location-specific content, citing Houston attorneys for Texas queries and Phoenix for Arizona, prioritizing local SEO signals and",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-how-do-google-ai-overviews-handle-multi-jurisdiction-queries-156"
+}

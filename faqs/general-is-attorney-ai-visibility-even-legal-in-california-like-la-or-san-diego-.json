@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is attorney AI visibility even legal in California like LA or San Diego?",
+  "description": "Yes—for marketing, not law practice.[4]",
+  "url": "aiovisibility.com/faq/general-is-attorney-ai-visibility-even-legal-in-california-like-la-or-san-diego-211",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is attorney AI visibility even legal in California like LA or San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—for marketing, not law practice.[4]",
+        "description": "Yes, AI marketing tools like Smithy AI are legal for enhancing search visibility, not practicing law.[4] Regulated as advertising.[4] Key factors: no legal advice given; credibility-focused content; ethical ad rules apply.[2] Use for profiles/experience narratives; avoid guarantees; comply with state bar ads.[4] Boosts findability ethically."
+      }
+    }
+  ]
+}

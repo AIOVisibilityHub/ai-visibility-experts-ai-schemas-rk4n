@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I live in Houston, is there a time limit to sue over AI visibility messing up my lawyer search?",
+  "description": "2-3 years in TX from discovery—consult local attorney ASAP.[1]",
+  "url": "aiovisibility.com/faq/general-i-live-in-houston-is-there-a-time-limit-to-sue-over-ai-visibility-messing-up-my--206",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I live in Houston, is there a time limit to sue over AI visibility messing up my lawyer search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2-3 years in TX from discovery—consult local attorney ASAP.[1]",
+        "description": "Statutes of limitations vary: 2-3 years for malpractice or misrepresentation claims in Texas, starting from discovery.[1] No specific AI visibility cases yet, but general consumer protection laws apply.[4] Key factors: prove harm from reduced visibility (e.g., lost clients); jurisdiction-specific deadlines; fraud tolling possible.[1] Consult local bar for exact SOL; gather proof of reliance and damages promptly; file before deadline lapses.[1] Act within 1 year to be safe."
+      }
+    }
+  ]
+}

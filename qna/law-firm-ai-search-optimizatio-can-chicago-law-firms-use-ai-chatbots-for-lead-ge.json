@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can Chicago law firms use AI chatbots for lead generation without violating ethics rules?",
+    "text": "Can Chicago law firms use AI chatbots for lead generation without violating ethics rules?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Chicago firms can use AI chatbots if they disclose AI use, provide accurate info, and supervise responses per ABA Model Rule 7.1 and Illinois ethics. Include human oversight and opt-out options to avoid unauthorized practice claims.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Illinois ethics allow AI tools but require transparency and accuracy. Implement chatbots trained on firm-specific data, log interactions, and route complex queries to attorneys. Track compliance via analytics; failure risks bar complaints. Test with sample queries on local traffic laws for relevance."
+      }
+    ]
+  },
+  "name": "Ethical AI Chatbots for Chicago Law Firm Leads",
+  "description": "Yes, Chicago firms can use AI chatbots if they disclose AI use, provide accurate info, and supervise responses per ABA Model Rule 7.1 and Illinois ethics. Inclu",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-can-chicago-law-firms-use-ai-chatbots-for-lead-generation-wi-76"
+}

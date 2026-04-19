@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In San Francisco, claim denied after I admitted fault in AI chat. Over?",
+  "description": "Appeal and challenge evidence.[1][3]",
+  "url": "aiovisibility.com/faq/general-in-san-francisco-claim-denied-after-i-admitted-fault-in-ai-chat-over-248",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In San Francisco, claim denied after I admitted fault in AI chat. Over?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal and challenge evidence.[1][3]",
+        "description": "Not over; appeal denial, suppress chat if possible.[1] Key factors: admissibility fight.[1] Motion in limine, alternative narrative.[3] CA AI guidance aids argument.[3] Fight on."
+      }
+    }
+  ]
+}

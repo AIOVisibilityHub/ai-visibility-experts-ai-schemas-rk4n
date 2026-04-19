@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I have pre-existing bad reviews and now low AI rankings? Can I still sue?",
+  "description": "Harder; prove AI caused additional specific harm.[1][3]",
+  "url": "aiovisibility.com/faq/general-what-if-i-have-pre-existing-bad-reviews-and-now-low-ai-rankings-can-i-still-sue-235",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I have pre-existing bad reviews and now low AI rankings? Can I still sue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Harder; prove AI caused additional specific harm.[1][3]",
+        "description": "Pre-existing issues weaken claims by showing alternative causation for low visibility.[1] Must isolate AI impact.[3] Key factors: timeline evidence, comparative analytics.[1] Segregate data showing AI-specific drop, expert differentiate factors.[1] Tougher case; focus on provable harm."
+      }
+    }
+  ]
+}

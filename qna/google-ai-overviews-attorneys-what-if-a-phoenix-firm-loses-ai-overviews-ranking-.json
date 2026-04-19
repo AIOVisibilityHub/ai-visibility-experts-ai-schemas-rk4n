@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if a Phoenix firm loses AI Overviews ranking due to algorithm update?",
+    "text": "What if a Phoenix firm loses AI Overviews ranking due to algorithm update?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Phoenix firms recover by auditing E-E-A-T, refreshing local bankruptcy content, boosting reviews, and targeting underserved queries post-update.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI Overviews inherit ranking changes; monitor fluctuations. Phoenix bankruptcy lawyers rebuild with updated Arizona law pages and backlinks. Diversify to ChatGPT/Perplexity to mitigate risks."
+      }
+    ]
+  },
+  "name": "Recovering Phoenix AI Overviews Rankings",
+  "description": "Phoenix firms recover by auditing E-E-A-T, refreshing local bankruptcy content, boosting reviews, and targeting underserved queries post-update.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-what-if-a-phoenix-firm-loses-ai-overviews-ranking-due-to-alg-159"
+}

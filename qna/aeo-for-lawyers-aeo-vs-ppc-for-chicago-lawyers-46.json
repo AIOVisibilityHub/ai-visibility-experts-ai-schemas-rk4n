@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "AEO vs PPC for Chicago lawyers?",
+    "text": "AEO vs PPC for Chicago lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AEO builds organic AI traffic free long-term; PPC instant but costly—combine for Chicago dominance.[1][4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Chicago: AEO for bottom-funnel, PPC top. AEO cheaper post-setup; track conversions. Table: AEO sustains, PPC fluctuates with bids.[4]"
+      }
+    ]
+  },
+  "name": "AEO vs PPC Chicago Lawyers",
+  "description": "AEO builds organic AI traffic free long-term; PPC instant but costly—combine for Chicago dominance.[1][4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-aeo-vs-ppc-for-chicago-lawyers-46"
+}

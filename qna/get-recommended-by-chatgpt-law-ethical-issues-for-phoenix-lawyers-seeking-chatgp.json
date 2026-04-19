@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Ethical issues for Phoenix lawyers seeking ChatGPT recommendations?",
+    "text": "Ethical issues for Phoenix lawyers seeking ChatGPT recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AZ ethics allow SEO but prohibit false claims; ChatGPT mentions must be substantiated to avoid misleading public.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Disclose AI-generated, per Rule 7.1. Monitor for inaccuracies."
+      }
+    ]
+  },
+  "name": "Ethics of Phoenix ChatGPT Optimization",
+  "description": "AZ ethics allow SEO but prohibit false claims; ChatGPT mentions must be substantiated to avoid misleading public.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-ethical-issues-for-phoenix-lawyers-seeking-chatgpt-recommend-116"
+}

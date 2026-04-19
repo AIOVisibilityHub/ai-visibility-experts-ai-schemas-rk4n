@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need documentation for AI referral gone wrong in Houston?",
+  "description": "Essential; get all records in TX.",
+  "url": "aiovisibility.com/faq/general-do-i-need-documentation-for-ai-referral-gone-wrong-in-houston-194",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need documentation for AI referral gone wrong in Houston?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential; get all records in TX.",
+        "description": "Yes, critical; verbal insufficient. Texas demands proof. Key factors: (1) Written referrals; (2) Chat logs; (3) Fee splits. Request via discovery."
+      }
+    }
+  ]
+}

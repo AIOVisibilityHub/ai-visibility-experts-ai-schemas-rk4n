@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for a claim that AI visibility service lied about rankings?",
+  "description": "Contracts, metrics, loss proof.[4]",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-for-a-claim-that-ai-visibility-service-lied-about-rankin-218",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for a claim that AI visibility service lied about rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contracts, metrics, loss proof.[4]",
+        "description": "Contracts, promises, analytics screenshots, witness emails, revenue loss data.[4] Key factors: false advertising proof; reliance damages; before/after metrics.[4] Archive web results; expert SEO testimony; comparative firm data.[4] Builds causation chain."
+      }
+    }
+  ]
+}

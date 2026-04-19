@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Update frequency of ChatGPT's lawyer recommendations for LA?",
+    "text": "Update frequency of ChatGPT's lawyer recommendations for LA?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ChatGPT updates lawyer recommendations quarterly via web scrapes; LA changes reflect in 1-3 months post-SEO.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Model cutoffs vary—test post-updates. LA's dynamic market needs ongoing work."
+      }
+    ]
+  },
+  "name": "LA ChatGPT Update Frequency",
+  "description": "ChatGPT updates lawyer recommendations quarterly via web scrapes; LA changes reflect in 1-3 months post-SEO.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-update-frequency-of-chatgpt-s-lawyer-recommendations-for-la-113"
+}

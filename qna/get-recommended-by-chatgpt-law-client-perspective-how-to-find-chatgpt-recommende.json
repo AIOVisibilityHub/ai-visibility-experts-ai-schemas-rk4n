@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Client perspective: How to find ChatGPT-recommended lawyers in NY?",
+    "text": "Client perspective: How to find ChatGPT-recommended lawyers in NY?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ask ChatGPT 'best New York [case type] lawyer' and verify via NY bar, reviews; top 3 often match Justia leaders.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Follow up with calls. Useful starter, not final."
+      }
+    ]
+  },
+  "name": "Clients Finding NY ChatGPT Lawyers",
+  "description": "Ask ChatGPT 'best New York [case type] lawyer' and verify via NY bar, reviews; top 3 often match Justia leaders.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-client-perspective-how-to-find-chatgpt-recommended-lawyers-i-117"
+}

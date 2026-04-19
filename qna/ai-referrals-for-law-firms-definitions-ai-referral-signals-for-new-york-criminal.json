@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Definitions: AI referral signals for New York criminal defense?",
+    "text": "Definitions: AI referral signals for New York criminal defense?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AI signals: peer ratings (Martindale), client patterns (Yelp), structured FAQs, media consensus for NYC criminal defense.[3]",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Signals aggregate trust: quantitative (4.8+ stars) + qualitative ('aggressive defender'). NY ethics heighten scrutiny. Define via audits. Evolves with models. Firms misalign lose.[3]"
+      }
+    ]
+  },
+  "name": "Key AI Signals for NYC Criminal Defense",
+  "description": "AI signals: peer ratings (Martindale), client patterns (Yelp), structured FAQs, media consensus for NYC criminal defense.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-definitions-ai-referral-signals-for-new-york-criminal-defens-193"
+}

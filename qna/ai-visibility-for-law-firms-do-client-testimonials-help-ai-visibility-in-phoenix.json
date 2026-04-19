@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Do client testimonials help AI visibility in Phoenix?",
+    "text": "Do client testimonials help AI visibility in Phoenix?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Limited; AI prefers peer-reviewed directories over testimonials, but they aid reviews indirectly.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Use for site patterns, not direct boost. Phoenix values reviews more. Ethical limits apply. Reinforce directories. Better for conversions than rankings."
+      }
+    ]
+  },
+  "name": "Testimonials Role in Phoenix AI",
+  "description": "Limited; AI prefers peer-reviewed directories over testimonials, but they aid reviews indirectly.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-do-client-testimonials-help-ai-visibility-in-phoenix-22"
+}

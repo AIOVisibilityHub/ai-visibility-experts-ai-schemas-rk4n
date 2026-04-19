@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if Perplexity cites inaccurate info about my Phoenix firm?",
+    "text": "What if Perplexity cites inaccurate info about my Phoenix firm?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Request correction via Perplexity feedback; publish rebuttal content optimized to override.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Monitor daily; cite primary sources like firm site. Phoenix ethics rules guide responses."
+      }
+    ]
+  },
+  "name": "Handling Perplexity Errors Phoenix",
+  "description": "Request correction via Perplexity feedback; publish rebuttal content optimized to override.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-what-if-perplexity-cites-inaccurate-info-about-my-phoenix-fi-141"
+}

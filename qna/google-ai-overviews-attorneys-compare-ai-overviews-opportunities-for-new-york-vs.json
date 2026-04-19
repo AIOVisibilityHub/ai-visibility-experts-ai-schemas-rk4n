@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Compare AI Overviews opportunities for New York vs Chicago attorneys in family law.",
+    "text": "Compare AI Overviews opportunities for New York vs Chicago attorneys in family law.",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "New York family law AI Overviews favor dense, authoritative content due to competition; Chicago emphasizes procedural guides with faster citation turnover from mid-tier SEO.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "NY's market demands deeper E-E-A-T; Chicago rewards quick content wins. Both prioritize reviews. Firms in both cities track local biases for targeted optimization."
+      }
+    ]
+  },
+  "name": "NY vs Chicago Family Law AI Overviews",
+  "description": "New York family law AI Overviews favor dense, authoritative content due to competition; Chicago emphasizes procedural guides with faster citation turnover from ",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-compare-ai-overviews-opportunities-for-new-york-vs-chicago-a-160"
+}

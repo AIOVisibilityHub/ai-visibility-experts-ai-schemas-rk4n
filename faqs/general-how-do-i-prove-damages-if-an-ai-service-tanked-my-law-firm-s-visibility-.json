@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove damages if an AI service tanked my law firm's visibility in Phoenix?",
+  "description": "Use analytics showing lost traffic/clients; expert proof of causation.[4]",
+  "url": "aiovisibility.com/faq/general-how-do-i-prove-damages-if-an-ai-service-tanked-my-law-firm-s-visibility-in-phoen-208",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove damages if an AI service tanked my law firm's visibility in Phoenix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use analytics showing lost traffic/clients; expert proof of causation.[4]",
+        "description": "Show lost clients/revenue via analytics, before-after comparisons, and expert testimony.[4] Link drop in AI search rankings to service failure.[4] Key factors: baseline visibility data; competitor benchmarks; causation evidence excluding other causes.[1] Track Google Analytics, client inquiries; hire digital forensics expert; document contract breaches.[4] Quantify with financial records for strong claim."
+      }
+    }
+  ]
+}

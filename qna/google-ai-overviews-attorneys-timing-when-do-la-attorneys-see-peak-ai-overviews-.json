@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timing: When do LA attorneys see peak AI Overviews traffic?",
+    "text": "Timing: When do LA attorneys see peak AI Overviews traffic?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Peak AI Overviews traffic for LA attorneys hits evenings/weekends for urgent queries like 'LA emergency custody,' per search patterns.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Align content for mobile/voice; LA's traffic spikes post-work. Optimize for conversational queries."
+      }
+    ]
+  },
+  "name": "Peak Times for LA AI Traffic",
+  "description": "Peak AI Overviews traffic for LA attorneys hits evenings/weekends for urgent queries like 'LA emergency custody,' per search patterns.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-timing-when-do-la-attorneys-see-peak-ai-overviews-traffic-169"
+}

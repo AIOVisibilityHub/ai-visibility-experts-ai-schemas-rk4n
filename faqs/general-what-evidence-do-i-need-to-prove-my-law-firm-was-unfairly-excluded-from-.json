@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to prove my law firm was unfairly excluded from AI search rankings?",
+  "description": "Screenshots, loss data, bias proof; extremely hard without contract breach.[1]",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-to-prove-my-law-firm-was-unfairly-excluded-from-ai-searc-229",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to prove my law firm was unfairly excluded from AI search rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Screenshots, loss data, bias proof; extremely hard without contract breach.[1]",
+        "description": "Evidence might include screenshots of competitor rankings, AI prompts showing bias, internal platform docs (hard to get), and harm metrics like lost clients.[1] Courts require showing intentional discrimination or contract breach, rare for AI.[1][3] Key factors: AI not lawyer, outputs discoverable, no privilege.[1][6] Gather analytics data, witness statements on client loss, avoid AI for research; subpoena records if suing.[1] Expert analysis essential."
+      }
+    }
+  ]
+}

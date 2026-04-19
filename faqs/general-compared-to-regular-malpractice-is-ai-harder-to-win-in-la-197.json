@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compared to regular malpractice, is AI harder to win in LA?",
+  "description": "Similar odds; need AI experts in CA.",
+  "url": "aiovisibility.com/faq/general-compared-to-regular-malpractice-is-ai-harder-to-win-in-la-197",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compared to regular malpractice, is AI harder to win in LA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Similar odds; need AI experts in CA.",
+        "description": "Slightly harder due to novelty, but winnable with experts. CA courts adapting. Key factors: (1) Emerging precedents; (2) Tech testimony; (3) Same elements. No bar yet."
+      }
+    }
+  ]
+}

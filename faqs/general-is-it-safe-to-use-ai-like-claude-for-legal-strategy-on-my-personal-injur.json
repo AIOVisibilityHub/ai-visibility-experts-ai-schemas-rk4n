@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to use AI like Claude for legal strategy on my personal injury claim?",
+  "description": "No—AI chats are discoverable and lack privilege; use only under attorney direction.[1]",
+  "url": "aiovisibility.com/faq/general-is-it-safe-to-use-ai-like-claude-for-legal-strategy-on-my-personal-injury-claim-202",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to use AI like Claude for legal strategy on my personal injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No—AI chats are discoverable and lack privilege; use only under attorney direction.[1]",
+        "description": "No, using AI for legal strategy independently creates discoverable evidence that can harm your case.[1] Courts ruled AI conversations lack privilege since AI isn't a lawyer and data may be visible to providers.[1][2] Key factors: inconsistencies between AI prompts and testimony; speculation on fault/damages used against you; only safe if attorney-directed.[1] Stop using AI alone; share past chats with your lawyer for strategy; focus on documented facts only.[1] Attorney guidance protects your position."
+      }
+    }
+  ]
+}

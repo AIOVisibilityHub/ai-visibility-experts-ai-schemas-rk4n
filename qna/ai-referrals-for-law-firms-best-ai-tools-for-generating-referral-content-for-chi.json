@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Best AI tools for generating referral content for Chicago lawyers?",
+    "text": "Best AI tools for generating referral content for Chicago lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use ChatGPT or Gemini to draft FAQ content, then add schema. Paxton AI for legal-specific Q&A tailored to Chicago practices.[6][2]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Prompt AIs for 'Chicago divorce lawyer FAQs,' refine for voice/schema. Paxton offers NYC Bar discounts, adaptable. Avoid generic outputs—localize. Test in Perplexity. Content agencies charge $50-200/page. Opponents scrape; watermark strategically.[2][6]"
+      }
+    ]
+  },
+  "name": "Top AI Tools for Chicago Referral Content",
+  "description": "Use ChatGPT or Gemini to draft FAQ content, then add schema. Paxton AI for legal-specific Q&A tailored to Chicago practices.[6][2]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-best-ai-tools-for-generating-referral-content-for-chicago-la-178"
+}

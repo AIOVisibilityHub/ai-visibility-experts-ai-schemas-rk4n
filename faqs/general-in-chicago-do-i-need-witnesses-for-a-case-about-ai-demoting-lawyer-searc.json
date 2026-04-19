@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Chicago, do I need witnesses for a case about AI demoting lawyer searches?",
+  "description": "Helpful for harm; docs primary.[1]",
+  "url": "aiovisibility.com/faq/general-in-chicago-do-i-need-witnesses-for-a-case-about-ai-demoting-lawyer-searches-241",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Chicago, do I need witnesses for a case about AI demoting lawyer searches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Helpful for harm; docs primary.[1]",
+        "description": "Witnesses help prove harm (e.g., lost clients), but not essential if docs suffice; AI bias needs experts.[1] Key factors: causation chain, expert testimony.[3] Line up client affiants, SEO witness, avoid AI 'witness'.[1] Bolsters weak paper trail."
+      }
+    }
+  ]
+}

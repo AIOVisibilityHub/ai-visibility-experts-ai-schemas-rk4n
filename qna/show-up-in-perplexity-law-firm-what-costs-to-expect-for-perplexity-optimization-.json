@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What costs to expect for Perplexity optimization for Phoenix law firms?",
+    "text": "What costs to expect for Perplexity optimization for Phoenix law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Phoenix law firms pay $2,000-$5,000/month for Perplexity AEO agencies, or $10,000-$30,000 initial setup for audits, content creation, and tracking in competitive markets.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Costs break down as: $5k-$15k content production, $1k-$3k/month monitoring tools, $2k+ schema implementation. DIY saves 50% but risks delays. Phoenix's growing legal scene favors specialized agencies; get 3 quotes and track ROI via lead attribution."
+      }
+    ]
+  },
+  "name": "Perplexity AEO Costs for Phoenix Firms",
+  "description": "Phoenix law firms pay $2,000-$5,000/month for Perplexity AEO agencies, or $10,000-$30,000 initial setup for audits, content creation, and tracking in competitiv",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-what-costs-to-expect-for-perplexity-optimization-for-phoenix-127"
+}

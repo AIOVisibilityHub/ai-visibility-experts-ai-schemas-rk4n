@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does Perplexity handle multi-location law firms like in NY and LA?",
+    "text": "How does Perplexity handle multi-location law firms like in NY and LA?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Perplexity cites location-specific pages for multi-location firms, prioritizing geo-targeted content over homepages for NY/LA queries.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Create /new-york/ and /los-angeles/ subpages with unique FAQs. Use hreflang if international. Track citations per city; consolidate if thin."
+      }
+    ]
+  },
+  "name": "Perplexity for Multi-Location Firms",
+  "description": "Perplexity cites location-specific pages for multi-location firms, prioritizing geo-targeted content over homepages for NY/LA queries.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-how-does-perplexity-handle-multi-location-law-firms-like-in--133"
+}

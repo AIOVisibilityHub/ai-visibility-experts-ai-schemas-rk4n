@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if my New York law firm ignores AEO?",
+    "text": "What if my New York law firm ignores AEO?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ignoring AEO means New York firms miss AI overviews and voice traffic, ceding leads to optimized competitors in high-stakes searches.[1][4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Competitors embracing AEO dominate zero-click results; your firm drops in visibility. Start with 10 FAQ pages using NY keywords. Long-term, this erodes client acquisition in saturated NYC market—insurers/opponents won't directly use, but lost leads hurt.[1][4]"
+      }
+    ]
+  },
+  "name": "Risks of Ignoring AEO in New York",
+  "description": "Ignoring AEO means New York firms miss AI overviews and voice traffic, ceding leads to optimized competitors in high-stakes searches.[1][4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-what-if-my-new-york-law-firm-ignores-aeo-31"
+}

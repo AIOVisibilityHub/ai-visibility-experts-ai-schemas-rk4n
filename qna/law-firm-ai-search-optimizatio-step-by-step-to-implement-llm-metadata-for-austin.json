@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Step-by-step to implement LLM metadata for Austin lawyers?",
+    "text": "Step-by-step to implement LLM metadata for Austin lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Add RDFa to pages. 2. Tag expertise signals. 3. Test in ChatGPT. 4. Monitor citations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Austin: Embed TX Bar data in metadata. Increases LLM trust 25%. Tools: Schema.org generator. Quarterly refresh for algorithms."
+      }
+    ]
+  },
+  "name": "Implementing LLM Metadata in Austin",
+  "description": "1. Add RDFa to pages. 2. Tag expertise signals. 3. Test in ChatGPT. 4. Monitor citations.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-step-by-step-to-implement-llm-metadata-for-austin-lawyers-95"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost of hiring AI visibility experts for LA law firms?",
+    "text": "Cost of hiring AI visibility experts for LA law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AI visibility services for LA firms range $2,000-$10,000 initially for audits/schema/directories, plus $500-$2,000/month retainers, depending on firm size and markets.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Basic packages cover directory claims ($1k-3k), advanced include schema/custom content ($5k+). LA high-cost; ROI via 1-2 referrals. DIY cheaper but slower. Beware vendors overpromising—vet via case studies. Insurers may view as marketing expense, not deductible fully.[3]"
+      }
+    ]
+  },
+  "name": "Pricing AI Visibility Services for LA Firms",
+  "description": "AI visibility services for LA firms range $2,000-$10,000 initially for audits/schema/directories, plus $500-$2,000/month retainers, depending on firm size and m",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-cost-of-hiring-ai-visibility-experts-for-la-law-firms-177"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why do Phoenix bankruptcy attorneys dominate Google AI Overviews over BigLaw firms?",
+    "text": "Why do Phoenix bankruptcy attorneys dominate Google AI Overviews over BigLaw firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Phoenix bankruptcy AI Overviews favor consumer-facing attorneys with SEO-optimized sites, high reviews, and local content, as Google's algorithm prioritizes marketing signals over institutional authority in high-intent consumer queries.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "In Phoenix, AI reflects Yelp-like biases, citing solo/small firms with heavy digital investment. BigLaw struggles due to directory dominance. Bankruptcy attorneys sustain visibility by refreshing content on Arizona filings and client stories, but watch for algorithm shifts favoring expertise."
+      }
+    ]
+  },
+  "name": "Why Consumer Attorneys Dominate Phoenix AI Overviews",
+  "description": "Phoenix bankruptcy AI Overviews favor consumer-facing attorneys with SEO-optimized sites, high reviews, and local content, as Google's algorithm prioritizes mar",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-why-do-phoenix-bankruptcy-attorneys-dominate-google-ai-overv-152"
+}

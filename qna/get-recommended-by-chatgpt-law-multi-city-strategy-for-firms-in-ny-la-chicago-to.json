@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Multi-city strategy for firms in NY, LA, Chicago to get ChatGPT recs?",
+    "text": "Multi-city strategy for firms in NY, LA, Chicago to get ChatGPT recs?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use city-specific landing pages, unified branding, and geo-targeted content for NY/LA/Chicago ChatGPT recommendations.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Like AI Visibility Experts' approach. Scale reviews nationally."
+      }
+    ]
+  },
+  "name": "Multi-City ChatGPT Strategy",
+  "description": "Use city-specific landing pages, unified branding, and geo-targeted content for NY/LA/Chicago ChatGPT recommendations.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-multi-city-strategy-for-firms-in-ny-la-chicago-to-get-chatgp-118"
+}

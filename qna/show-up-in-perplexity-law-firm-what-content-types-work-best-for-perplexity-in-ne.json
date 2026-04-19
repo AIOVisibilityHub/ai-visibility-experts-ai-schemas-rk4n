@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What content types work best for Perplexity in New York personal injury cases?",
+    "text": "What content types work best for Perplexity in New York personal injury cases?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "FAQs, step-by-step guides, comparison tables, and 'what if' scenarios for New York personal injury rank highest in Perplexity due to direct answer format.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Prioritize H2-structured FAQs like 'NYC car accident settlement timeline' with 50-100 word answers. Use tables for 'contingency vs hourly fees.' New York's strict E-E-A-T requires bar admissions and verdicts cited. Update yearly for statute changes."
+      }
+    ]
+  },
+  "name": "Top Content for NY PI in Perplexity",
+  "description": "FAQs, step-by-step guides, comparison tables, and 'what if' scenarios for New York personal injury rank highest in Perplexity due to direct answer format.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-what-content-types-work-best-for-perplexity-in-new-york-pers-128"
+}

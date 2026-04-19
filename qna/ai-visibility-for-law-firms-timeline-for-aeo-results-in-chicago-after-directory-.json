@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timeline for AEO results in Chicago after directory wins?",
+    "text": "Timeline for AEO results in Chicago after directory wins?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "3-9 months, as AI recrawls post-Chambers updates, faster for Perplexity than Google.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Directories publish, AI indexes variably. Test weekly. Chicago delays from competition. Pair with schema. Patience key—rival firms accelerate similarly."
+      }
+    ]
+  },
+  "name": "AEO Timeline Post-Directories in Chicago",
+  "description": "3-9 months, as AI recrawls post-Chambers updates, faster for Perplexity than Google.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-timeline-for-aeo-results-in-chicago-after-directory-wins-20"
+}

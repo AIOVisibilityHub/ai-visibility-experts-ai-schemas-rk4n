@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to optimize law firm website for Perplexity AI in New York?",
+    "text": "How to optimize law firm website for Perplexity AI in New York?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Optimize NY firm sites for Perplexity with structured Q&A, JSON-LD schema, and E-E-A-T via bar citations for direct answers in responses.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Perplexity favors concise, sourced answers; add inline citations and attorney bios. Test queries weekly. New York's density amplifies gains; integrate with Google AEO. AI platforms evolve—stay audited.[2]"
+      }
+    ]
+  },
+  "name": "Perplexity AI Optimization for NY Firms",
+  "description": "Optimize NY firm sites for Perplexity with structured Q&A, JSON-LD schema, and E-E-A-T via bar citations for direct answers in responses.[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-how-to-optimize-law-firm-website-for-perplexity-ai-in-new-yo-66"
+}

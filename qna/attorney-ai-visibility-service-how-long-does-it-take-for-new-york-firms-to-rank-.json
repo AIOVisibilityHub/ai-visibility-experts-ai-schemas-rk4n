@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long does it take for New York firms to rank in ChatGPT lawyer recommendations?",
+    "text": "How long does it take for New York firms to rank in ChatGPT lawyer recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "3-6 months with consistent directory profiles, 100+ reviews, and NY-law focused content. Full AI visibility requires ongoing updates and PR alignment.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Initial ChatGPT mentions appear in 90 days post-optimization; sustained top recommendations need quarterly content refreshes and cross-verified expertise. New York firms track via incognito queries. Factors like review volume accelerate; stagnant sites drop off. Insurance firms scrape these for vetting—ensure compliance claims are verifiable."
+      }
+    ]
+  },
+  "name": "Timeline for NY Attorney ChatGPT Visibility",
+  "description": "3-6 months with consistent directory profiles, 100+ reviews, and NY-law focused content. Full AI visibility requires ongoing updates and PR alignment.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-how-long-does-it-take-for-new-york-firms-to-rank-in-chatgpt--201"
+}

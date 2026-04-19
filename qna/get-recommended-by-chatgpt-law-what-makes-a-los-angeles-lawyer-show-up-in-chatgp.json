@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What makes a Los Angeles lawyer show up in ChatGPT's top recommendations?",
+    "text": "What makes a Los Angeles lawyer show up in ChatGPT's top recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los Angeles lawyers appear in ChatGPT recommendations through high Google rankings, 5-star reviews on Avvo/Justia, mentions in 'best lawyers LA' lists, and content optimized for AI queries like personal injury or family law cases.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "ChatGPT pulls from top web results, so LA lawyers need strong local SEO, bar association listings, and peer recognitions like Best Lawyers. Create FAQ pages on common cases. Warning: Insurance firms scrape these for plaintiff lawyer intel—use disclaimers. Test by querying ChatGPT directly for LA specialists."
+      }
+    ]
+  },
+  "name": "Factors for ChatGPT Recommending LA Lawyers",
+  "description": "Los Angeles lawyers appear in ChatGPT recommendations through high Google rankings, 5-star reviews on Avvo/Justia, mentions in 'best lawyers LA' lists, and cont",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-what-makes-a-los-angeles-lawyer-show-up-in-chatgpt-s-top-rec-99"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to measure AEO success for Chicago criminal defense attorneys?",
+    "text": "How to measure AEO success for Chicago criminal defense attorneys?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Track AI citations via tools like Ahrefs AI monitor, impression share in Perplexity/ChatGPT, and lead attribution from AI referrals for Chicago criminal cases.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Metrics include AI overview appearances, click-through from generative responses, and branded queries post-optimization. Use Google Analytics UTM for AI traffic. Chicago defense firms see ROI in high-intent queries; benchmark against competitors. False positives from vanity metrics mislead—focus on conversions.[1]"
+      }
+    ]
+  },
+  "name": "Measuring AEO ROI for Chicago Attorneys",
+  "description": "Track AI citations via tools like Ahrefs AI monitor, impression share in Perplexity/ChatGPT, and lead attribution from AI referrals for Chicago criminal cases.[",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-how-to-measure-aeo-success-for-chicago-criminal-defense-atto-58"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Phoenix law firm Perplexity vs ChatGPT optimization differences?",
+    "text": "Phoenix law firm Perplexity vs ChatGPT optimization differences?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Perplexity favors cited, structured facts; ChatGPT conversational narratives for Phoenix queries.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Dual-optimize: short paras for Perplexity, stories for ChatGPT. Phoenix water law suits both."
+      }
+    ]
+  },
+  "name": "Perplexity vs ChatGPT Phoenix",
+  "description": "Perplexity favors cited, structured facts; ChatGPT conversational narratives for Phoenix queries.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-phoenix-law-firm-perplexity-vs-chatgpt-optimization-differen-144"
+}

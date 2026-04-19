@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is the difference between Google AI Overviews citations and traditional SEO rankings for LA lawyers?",
+    "text": "What is the difference between Google AI Overviews citations and traditional SEO rankings for LA lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Google AI Overviews cites synthesized top-ranked pages above organic results, favoring SEO-heavy firms in consumer law like LA personal injury, while traditional SEO drives clicks from lower positions. AI appears on 78% of high-intent queries, boosting visibility without clicks.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "In Los Angeles, AI Overviews inherit search biases toward review-rich, optimized sites, often listing consumer attorneys over BigLaw. Traditional SEO builds long-term traffic; AI offers instant exposure but depends on competitors' marketing. LA lawyers should audit rankings and create AI-targeted content to capture both."
+      }
+    ]
+  },
+  "name": "AI Overviews vs Traditional SEO for Los Angeles Lawyers",
+  "description": "Google AI Overviews cites synthesized top-ranked pages above organic results, favoring SEO-heavy firms in consumer law like LA personal injury, while traditiona",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-what-is-the-difference-between-google-ai-overviews-citations-149"
+}

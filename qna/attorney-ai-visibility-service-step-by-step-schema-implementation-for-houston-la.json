@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Step-by-step schema implementation for Houston lawyers?",
+    "text": "Step-by-step schema implementation for Houston lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Generate JSON-LD via Merkle tool. 2. Add Attorney/LocalBusiness. 3. Embed Texas geo. 4. Test via Google Structured Data. 5. Monitor Rich Results.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Houston schema boosts AI parsing 40%. Include practiceArea like 'oil rig injury.' Validate weekly. Errors tank visibility. Free tools; agencies $500 setup. Essential for map+AI."
+      }
+    ]
+  },
+  "name": "Houston Schema Implementation Guide",
+  "description": "1. Generate JSON-LD via Merkle tool. 2. Add Attorney/LocalBusiness. 3. Embed Texas geo. 4. Test via Google Structured Data. 5. Monitor Rich Results.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-step-by-step-schema-implementation-for-houston-lawyers-219"
+}

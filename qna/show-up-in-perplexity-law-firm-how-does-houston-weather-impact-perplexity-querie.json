@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does Houston weather impact Perplexity queries for law firms?",
+    "text": "How does Houston weather impact Perplexity queries for law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Houston floods drive Perplexity queries like 'property damage claims after hurricane Texas.'",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Pre-optimize seasonal guides. Localize for Harris County FEMA rules."
+      }
+    ]
+  },
+  "name": "Houston Weather Legal Queries",
+  "description": "Houston floods drive Perplexity queries like 'property damage claims after hurricane Texas.'",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-how-does-houston-weather-impact-perplexity-queries-for-law-f-143"
+}

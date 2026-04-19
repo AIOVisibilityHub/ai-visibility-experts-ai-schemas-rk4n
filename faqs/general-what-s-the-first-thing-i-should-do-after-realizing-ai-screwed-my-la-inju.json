@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the first thing I should do after realizing AI screwed my LA injury claim?",
+  "description": "Call a lawyer now; preserve records; halt AI.[1]",
+  "url": "aiovisibility.com/faq/general-what-s-the-first-thing-i-should-do-after-realizing-ai-screwed-my-la-injury-claim-215",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the first thing I should do after realizing AI screwed my LA injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call a lawyer now; preserve records; halt AI.[1]",
+        "description": "Contact a licensed attorney immediately to review and mitigate damage.[1] Stop all AI use.[1] Key factors: assess discoverability; strategy pivot; evidence preservation.[1] Gather medical/police records; avoid insurer contact; document timeline.[1] Time-sensitive protection needed."
+      }
+    }
+  ]
+}

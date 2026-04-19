@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What questions should Chicago firms ask AEO agencies?",
+    "text": "What questions should Chicago firms ask AEO agencies?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ask: 'Show Chicago law firm case studies? AI audit process? Schema examples? E-E-A-T tactics? ROI guarantees?'[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Probe for local Chicago wins, tools like SEMrush AI, custom schema, and 90-day benchmarks. Demand transparency on subcontractors. Red flags: no attorney clients or vague metrics. This ensures jurisdiction-specific strategies.[7]"
+      }
+    ]
+  },
+  "name": "Key Questions for Chicago AEO Agencies",
+  "description": "Ask: 'Show Chicago law firm case studies? AI audit process? Schema examples? E-E-A-T tactics? ROI guarantees?'[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-what-questions-should-chicago-firms-ask-aeo-agencies-63"
+}

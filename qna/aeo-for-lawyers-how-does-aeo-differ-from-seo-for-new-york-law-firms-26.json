@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does AEO differ from SEO for New York law firms?",
+    "text": "How does AEO differ from SEO for New York law firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AEO prioritizes AI answer engines with concise, structured answers and schema markup, while SEO focuses on rankings; both use keywords but AEO targets voice search and zero-click results for New York practices.[1][4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Unlike traditional SEO's link-building emphasis, AEO crafts content for direct extraction by AI in New York searches. Implement FAQPage schema on firm sites, answer common queries in 50 words, and include 'New York' modifiers. Competitors ignoring AEO lose AI overview traffic; track with Google Search Console.[1][4]"
+      }
+    ]
+  },
+  "name": "AEO vs SEO for New York Law Firms",
+  "description": "AEO prioritizes AI answer engines with concise, structured answers and schema markup, while SEO focuses on rankings; both use keywords but AEO targets voice sea",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-how-does-aeo-differ-from-seo-for-new-york-law-firms-26"
+}

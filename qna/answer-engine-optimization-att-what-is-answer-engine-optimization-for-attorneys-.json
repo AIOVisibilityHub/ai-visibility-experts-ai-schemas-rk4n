@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is answer engine optimization for attorneys?",
+    "text": "What is answer engine optimization for attorneys?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Answer engine optimization (AEO) for attorneys optimizes law firm websites to appear in AI-generated responses from tools like ChatGPT, Perplexity, and Google AI Overviews, focusing on question-based content, schema markup, and E-E-A-T signals for legal queries.[3]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AEO adapts traditional SEO for AI search engines by creating content that directly answers client questions, implementing attorney-specific schema for rich snippets, and building authority through directories. In competitive markets like New York, this helps firms rank in AI summaries over generic listings, but requires ongoing audits to match evolving AI algorithms. Beware: poor implementation may expose firm weaknesses to competitors.[1][3]"
+      }
+    ]
+  },
+  "name": "What Is Answer Engine Optimization for Attorneys?",
+  "description": "Answer engine optimization (AEO) for attorneys optimizes law firm websites to appear in AI-generated responses from tools like ChatGPT, Perplexity, and Google A",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-what-is-answer-engine-optimization-for-attorneys-50"
+}

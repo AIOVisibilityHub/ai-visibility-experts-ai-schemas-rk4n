@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can ChatGPT recommend Chicago lawyers for specific cases like divorce?",
+    "text": "Can ChatGPT recommend Chicago lawyers for specific cases like divorce?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, ChatGPT recommends Chicago divorce lawyers based on top-ranked sites like Justia, client reviews, and awards from Best Lawyers, prioritizing those with strong online visibility in Illinois.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "For divorce cases, Chicago lawyers gain recommendations by dominating 'best Chicago divorce attorney' searches with detailed profiles, testimonials, and blog posts. Ensure jurisdiction-specific content. Employers/opponents may reference these in disputes—advise clients accordingly. Verify via iterative ChatGPT queries."
+      }
+    ]
+  },
+  "name": "ChatGPT Divorce Lawyer Recommendations in Chicago",
+  "description": "Yes, ChatGPT recommends Chicago divorce lawyers based on top-ranked sites like Justia, client reviews, and awards from Best Lawyers, prioritizing those with str",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-can-chatgpt-recommend-chicago-lawyers-for-specific-cases-lik-100"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does California bar rules affect AEO for LA lawyers?",
+    "text": "How does California bar rules affect AEO for LA lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "California bar rules require truthful claims in AEO content; avoid guarantees, disclose AI optimizations, and ensure E-E-A-T aligns with ethical advertising.[3]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Rule 7.1 mandates no misleading AI content; LA firms must attribute sources and avoid 'best lawyer' hype in question answers. Non-compliance risks sanctions. Consult bar before schema claims. Regulators monitor AI outputs closely.[1]"
+      }
+    ]
+  },
+  "name": "CA Bar Rules Impact on LA AEO",
+  "description": "California bar rules require truthful claims in AEO content; avoid guarantees, disclose AI optimizations, and ensure E-E-A-T aligns with ethical advertising.[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-how-does-california-bar-rules-affect-aeo-for-la-lawyers-62"
+}

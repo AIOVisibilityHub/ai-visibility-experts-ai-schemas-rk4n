@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to fix content not cited by Perplexity for Phoenix firms?",
+    "text": "How to fix content not cited by Perplexity for Phoenix firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Rewrite Phoenix content for 40-80 word direct answers, add schema, and boost E-E-A-T with Phoenix Bar links to get cited.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Audit uncited pages; shorten intros, bold key facts. Submit to Perplexity via feedback. Phoenix real estate law thrives on property tax guides."
+      }
+    ]
+  },
+  "name": "Fixing Non-Cited Content Phoenix",
+  "description": "Rewrite Phoenix content for 40-80 word direct answers, add schema, and boost E-E-A-T with Phoenix Bar links to get cited.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-how-to-fix-content-not-cited-by-perplexity-for-phoenix-firms-136"
+}

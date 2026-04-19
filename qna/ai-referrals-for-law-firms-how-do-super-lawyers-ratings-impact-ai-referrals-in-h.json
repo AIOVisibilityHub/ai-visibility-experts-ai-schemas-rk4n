@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do Super Lawyers ratings impact AI referrals in Houston?",
+    "text": "How do Super Lawyers ratings impact AI referrals in Houston?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Super Lawyers provide third-party peer validation AI trusts highly, boosting Houston firm recommendations over self-promoted sites.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI weights Super Lawyers as consensus signals, cross-checked with directories/reviews. Nominate early; listing lasts years. Houston firms gain 20-30% referral edge. Not guaranteed—combine with reviews. Peers nominate; build networks.[3]"
+      }
+    ]
+  },
+  "name": "Super Lawyers Role in Houston AI Referrals",
+  "description": "Super Lawyers provide third-party peer validation AI trusts highly, boosting Houston firm recommendations over self-promoted sites.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-how-do-super-lawyers-ratings-impact-ai-referrals-in-houston-179"
+}

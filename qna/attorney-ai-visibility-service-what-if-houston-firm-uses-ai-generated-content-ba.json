@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if Houston firm uses AI-generated content—bar risks?",
+    "text": "What if Houston firm uses AI-generated content—bar risks?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Texas Bar allows if human-reviewed, disclosed, non-misleading. Avoid hallucinations; cite sources to comply with ad rules.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Houston attorneys must edit AI drafts for accuracy, add bylines. Undeclared AI risks deception claims. Best: 70% human input. Track via metadata. Services indemnify compliance. Clients/insurers demand transparency."
+      }
+    ]
+  },
+  "name": "AI Content Risks in Houston",
+  "description": "Texas Bar allows if human-reviewed, disclosed, non-misleading. Avoid hallucinations; cite sources to comply with ad rules.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-what-if-houston-firm-uses-ai-generated-content-bar-risks-214"
+}

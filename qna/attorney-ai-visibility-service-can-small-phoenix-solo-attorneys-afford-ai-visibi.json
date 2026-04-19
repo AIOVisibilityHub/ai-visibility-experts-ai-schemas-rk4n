@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can small Phoenix solo attorneys afford AI visibility services?",
+    "text": "Can small Phoenix solo attorneys afford AI visibility services?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, $2k-4k/mo starter packages focus on directories/reviews yield 5-10 leads/month ROI.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix solos prioritize essentials: NAP, 20 reviews, basic GEO. Scales to full service. Break-even fast in PI/DUI. Bar loans available. DIY supplements. Warn: Cheap services underdeliver."
+      }
+    ]
+  },
+  "name": "AI Services for Phoenix Solos",
+  "description": "Yes, $2k-4k/mo starter packages focus on directories/reviews yield 5-10 leads/month ROI.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-can-small-phoenix-solo-attorneys-afford-ai-visibility-servic-218"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why do AIs favor certain LA immigration lawyers?",
+    "text": "Why do AIs favor certain LA immigration lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AIs favor LA immigration lawyers with consistent Avvo ratings, Yelp review patterns, and bar endorsements signaling broad consensus.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Immigration queries high-stakes; AI screens for ethics/reliability. LA volume: 50+ reviews key. Directories specify 'USCIS.' Build via pro bono mentions. Weak signals = exclusion.[3]"
+      }
+    ]
+  },
+  "name": "AI Bias Toward LA Immigration Lawyers",
+  "description": "AIs favor LA immigration lawyers with consistent Avvo ratings, Yelp review patterns, and bar endorsements signaling broad consensus.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-why-do-ais-favor-certain-la-immigration-lawyers-191"
+}

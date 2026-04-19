@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Los Angeles, talked to AI about my ranking drop already. Can that hurt my case?",
+  "description": "Yes, discoverable evidence; disclose to attorney.[1][3]",
+  "url": "aiovisibility.com/faq/general-in-los-angeles-talked-to-ai-about-my-ranking-drop-already-can-that-hurt-my-case-237",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Los Angeles, talked to AI about my ranking drop already. Can that hurt my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, discoverable evidence; disclose to attorney.[1][3]",
+        "description": "Yes, those chats are discoverable and unprotected in CA courts too, per guidance.[1][3] Similar to NY ruling.[1] Key factors: no privilege, hallucinations common.[3] Inform lawyer, avoid further use, prepare for deposition questions.[1] CA bar warns on AI supervision.[3]"
+      }
+    }
+  ]
+}

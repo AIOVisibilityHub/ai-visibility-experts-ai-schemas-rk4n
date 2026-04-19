@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What steps must Houston attorneys take to rank in AI Overviews for family law queries?",
+    "text": "What steps must Houston attorneys take to rank in AI Overviews for family law queries?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Houston family law attorneys rank in AI Overviews by: 1) Publishing Texas-specific divorce mediation guides; 2) Optimizing for voice search; 3) Accumulating client reviews; 4) Using structured data for processes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Google AI favors procedural content for family law. Houston lawyers should create step-by-step Texas divorce resources, target long-tail queries like 'Houston child custody timeline,' and integrate video testimonials. This counters directory dominance; track with tools like Ahrefs for AI snippet opportunities."
+      }
+    ]
+  },
+  "name": "Step-by-Step: Houston Family Law in Google AI Overviews",
+  "description": "Houston family law attorneys rank in AI Overviews by: 1) Publishing Texas-specific divorce mediation guides; 2) Optimizing for voice search; 3) Accumulating cli",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-what-steps-must-houston-attorneys-take-to-rank-in-ai-overvie-151"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Personal injury AEO keywords for New York?",
+    "text": "Personal injury AEO keywords for New York?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "NY PI AEO: 'New York car accident settlement time', 'NYC slip and fall lawyer fees', 'statute limitations NY injury'.[4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Cluster long-tail for AI: Include boroughs. Schema on case studies. High competition—unique angles win overviews; track seasonal spikes.[1][4]"
+      }
+    ]
+  },
+  "name": "NY Personal Injury AEO Keywords",
+  "description": "NY PI AEO: 'New York car accident settlement time', 'NYC slip and fall lawyer fees', 'statute limitations NY injury'.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-personal-injury-aeo-keywords-for-new-york-40"
+}

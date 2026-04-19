@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is Answer Engine Optimization (AEO) for lawyers?",
+    "text": "What is Answer Engine Optimization (AEO) for lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Answer Engine Optimization (AEO) optimizes law firm content to be easily found, understood, and recommended by AI answer engines like Google AI Overviews and voice assistants, using structured data, clear answers, and location keywords.[1][4]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AEO adapts SEO for AI-driven search, focusing on direct, concise answers (40-60 words) to client questions. Law firms in New York, LA, Chicago, Houston, and Phoenix should use FAQ schema, geo-targeted keywords, and voice-search phrasing. This ensures visibility in featured snippets and AI overviews, outpacing competitors. Update content with local legal trends to maintain relevance.[1][4]"
+      }
+    ]
+  },
+  "name": "What Is AEO for Lawyers?",
+  "description": "Answer Engine Optimization (AEO) optimizes law firm content to be easily found, understood, and recommended by AI answer engines like Google AI Overviews and vo",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-what-is-answer-engine-optimization-aeo-for-lawyers-25"
+}

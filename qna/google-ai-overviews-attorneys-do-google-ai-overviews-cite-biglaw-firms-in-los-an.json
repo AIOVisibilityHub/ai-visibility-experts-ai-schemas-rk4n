@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Do Google AI Overviews cite BigLaw firms in Los Angeles for consumer cases?",
+    "text": "Do Google AI Overviews cite BigLaw firms in Los Angeles for consumer cases?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Rarely; LA AI Overviews cite consumer-facing firms with SEO/review strength over BigLaw, which dominates directories but not high-intent synthesis.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "BigLaw appears in complex queries; consumer cases like PI favor marketing pros. LA firms bridge gap with hybrid content strategies."
+      }
+    ]
+  },
+  "name": "BigLaw in LA Consumer AI Overviews",
+  "description": "Rarely; LA AI Overviews cite consumer-facing firms with SEO/review strength over BigLaw, which dominates directories but not high-intent synthesis.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-do-google-ai-overviews-cite-biglaw-firms-in-los-angeles-for--162"
+}

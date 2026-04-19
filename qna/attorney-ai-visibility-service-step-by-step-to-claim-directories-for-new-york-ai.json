@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Step-by-step to claim directories for New York AI visibility?",
+    "text": "Step-by-step to claim directories for New York AI visibility?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. List top 20 directories (Avvo, Justia, NY Bar). 2. Claim/verify profiles. 3. Standardize NAP. 4. Add practice areas/reviews. 5. Implement schema. Repeat monthly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "New York firms start with state bar, then legal dirs. Use Yext for automation. Post-claim, enrich with Brooklyn Supreme Court wins. Builds AI patterns in 60 days. Skip this, lose to competitors. Employers check these for vetting."
+      }
+    ]
+  },
+  "name": "Directory Claim Process for NY Attorneys",
+  "description": "1. List top 20 directories (Avvo, Justia, NY Bar). 2. Claim/verify profiles. 3. Standardize NAP. 4. Add practice areas/reviews. 5. Implement schema. Repeat mont",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-step-by-step-to-claim-directories-for-new-york-ai-visibility-206"
+}

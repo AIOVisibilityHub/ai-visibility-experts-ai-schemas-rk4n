@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost of AI visibility audit for Chicago firms?",
+    "text": "Cost of AI visibility audit for Chicago firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "$1,500-$3,000 one-time, covering 50 queries, directory scans, E-E-A-T scoring.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Chicago audits benchmark vs top firms, recommend fixes. DIY free but shallow. Pro audits include roadmaps, ROI projections. Repeat bi-annually. Value: Uncovers 80% gaps instantly."
+      }
+    ]
+  },
+  "name": "Chicago AI Audit Pricing",
+  "description": "$1,500-$3,000 one-time, covering 50 queries, directory scans, E-E-A-T scoring.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-cost-of-ai-visibility-audit-for-chicago-firms-217"
+}

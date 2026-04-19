@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What PR tactics work best for Los Angeles law firm AI patterns?",
+    "text": "What PR tactics work best for Los Angeles law firm AI patterns?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Publish bylined articles echoing directory expertise, using identical keywords to create AI-detectable authority patterns.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Target JD Supra, legal pubs. Reinforce website claims. LA saturation requires 6+ placements/year. Measures success via AI query tests. Insurers/parties may cite your PR in disputes—focus on factual expertise."
+      }
+    ]
+  },
+  "name": "PR Tactics for LA Law Firm AI",
+  "description": "Publish bylined articles echoing directory expertise, using identical keywords to create AI-detectable authority patterns.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-what-pr-tactics-work-best-for-los-angeles-law-firm-ai-patter-13"
+}

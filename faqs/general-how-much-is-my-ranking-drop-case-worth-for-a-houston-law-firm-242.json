@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my ranking drop case worth for a Houston law firm?",
+  "description": "Lost revenue proven; $10K-$millions, case-specific.[1]",
+  "url": "aiovisibility.com/faq/general-how-much-is-my-ranking-drop-case-worth-for-a-houston-law-firm-242",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my ranking drop case worth for a Houston law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost revenue proven; $10K-$millions, case-specific.[1]",
+        "description": "Value depends on provable losses (e.g., $50K-$500K+ for mid-size firm), minus defenses; often settles low.[1] Key factors: revenue drop %, duration, jurisdiction.[3] Forensic accounting audit, multiplier on losses, realistic $0-100K start.[1] Varies wildly."
+      }
+    }
+  ]
+}

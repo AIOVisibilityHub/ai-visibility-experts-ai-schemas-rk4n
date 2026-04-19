@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if a New York firm gets negative reviews—does it hurt AI visibility?",
+    "text": "What if a New York firm gets negative reviews—does it hurt AI visibility?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, negative Google Reviews lower FirmRanker scores and AI recommendations, as platforms weigh verified feedback; counter with PR and directory strengths.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI scans reviews for credibility; one bad cycle tanks Phoenix/Houston visibility faster than NYC. Respond publicly, amplify positives via PR. Directories mitigate but don't erase. Opposing parties exploit this—proactive reputation management essential."
+      }
+    ]
+  },
+  "name": "Negative Reviews Effect on New York AI Visibility",
+  "description": "Yes, negative Google Reviews lower FirmRanker scores and AI recommendations, as platforms weigh verified feedback; counter with PR and directory strengths.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-what-if-a-new-york-firm-gets-negative-reviews-does-it-hurt-a-9"
+}

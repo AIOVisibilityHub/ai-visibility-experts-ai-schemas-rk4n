@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if AI wrongly excludes my New York firm from lawyer recommendations?",
+    "text": "What if AI wrongly excludes my New York firm from lawyer recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Audit profiles for inconsistencies, low reviews, or missing endorsements like Super Lawyers. Update with schema FAQs and solicit client feedback to rebuild AI trust signals.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "If excluded, check Avvo/Martindale for gaps, ensure site schema targets NYC queries. AI penalizes mismatches between self-claims and third-party data. Add media mentions. Recovery: 4-8 weeks. Warn: false exclusions may signal reputational issues opponents exploit in marketing.[3][2]"
+      }
+    ]
+  },
+  "name": "Fix AI Exclusion for New York Law Firms",
+  "description": "Audit profiles for inconsistencies, low reviews, or missing endorsements like Super Lawyers. Update with schema FAQs and solicit client feedback to rebuild AI t",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-what-if-ai-wrongly-excludes-my-new-york-firm-from-lawyer-rec-176"
+}

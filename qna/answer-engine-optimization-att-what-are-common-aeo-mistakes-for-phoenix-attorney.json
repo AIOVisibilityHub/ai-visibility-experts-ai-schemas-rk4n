@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What are common AEO mistakes for Phoenix attorneys?",
+    "text": "What are common AEO mistakes for Phoenix attorneys?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Common mistakes: ignoring AI audits, generic content without questions, missing schema, and neglecting E-E-A-T for Phoenix-specific legal authority.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Avoid keyword-stuffed pages that AI dismisses; prioritize natural Q&A formats. Phoenix firms fail by overlooking local directories. Fix with audits; mistakes delay ROI by 6 months. Agencies may overpromise without Phoenix experience.[1]"
+      }
+    ]
+  },
+  "name": "AEO Pitfalls for Phoenix Law Firms",
+  "description": "Common mistakes: ignoring AI audits, generic content without questions, missing schema, and neglecting E-E-A-T for Phoenix-specific legal authority.[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-what-are-common-aeo-mistakes-for-phoenix-attorneys-60"
+}

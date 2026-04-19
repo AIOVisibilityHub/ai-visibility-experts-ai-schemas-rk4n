@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to sue over AI referral malpractice in NY?",
+  "description": "Usually contingency, no upfront cost in NY.",
+  "url": "aiovisibility.com/faq/general-how-much-does-it-cost-to-sue-over-ai-referral-malpractice-in-ny-191",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to sue over AI referral malpractice in NY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually contingency, no upfront cost in NY.",
+        "description": "Contingency typical (30-40% of win); no upfront for qualified cases. NY allows fee recovery. Key factors: (1) Case strength; (2) Expert costs ~$10k; (3) Court fees low. Shop multiple firms."
+      }
+    }
+  ]
+}

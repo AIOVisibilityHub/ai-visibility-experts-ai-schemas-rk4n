@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to fix inconsistent NAP hurting Chicago law firm AI visibility?",
+    "text": "How to fix inconsistent NAP hurting Chicago law firm AI visibility?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Audit 40+ directories with tools like Moz Local, correct discrepancies, add schema markup, and verify Google Business Profile. Rebuilds AI trust in 4-8 weeks.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Chicago firms suffer AI penalties from mismatched addresses across Avvo/Yelp. Use BrightLocal for bulk fixes, then monitor citations. Consistent NAP boosts map pack and AI recs by 40%. Post-fix, add Chicago-specific FAQs. Warning: Opposing counsel uses directories for due diligence."
+      }
+    ]
+  },
+  "name": "Fixing NAP Inconsistencies for Chicago AI Visibility",
+  "description": "Audit 40+ directories with tools like Moz Local, correct discrepancies, add schema markup, and verify Google Business Profile. Rebuilds AI trust in 4-8 weeks.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-how-to-fix-inconsistent-nap-hurting-chicago-law-firm-ai-visi-203"
+}

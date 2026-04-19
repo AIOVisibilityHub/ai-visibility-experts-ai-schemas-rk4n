@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Denied claim after AI use—can I appeal in Philadelphia mentioning AI?",
+  "description": "Yes—appeal timely; bolster evidence.[1]",
+  "url": "aiovisibility.com/faq/general-denied-claim-after-ai-use-can-i-appeal-in-philadelphia-mentioning-ai-222",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Denied claim after AI use—can I appeal in Philadelphia mentioning AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—appeal timely; bolster evidence.[1]",
+        "description": "Yes, appeal within 30-60 days; AI irrelevant unless used against you.[1] Key factors: new evidence allowed sometimes; bad faith if withheld; strict deadlines.[1] Gather stronger docs; attorney files; avoid AI in appeal.[1] Fresh eyes win reversals."
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can San Antonio firms leverage Houston strategies for AI?",
+    "text": "Can San Antonio firms leverage Houston strategies for AI?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, adopt Houston's hybrid directory-review approach, as AI treats San Antonio similarly to mid-markets.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Mirror Chambers/Super Lawyers with local reviews. PR reinforces. Less competitive than Houston. Adapt for jurisdiction—cross-border leads possible."
+      }
+    ]
+  },
+  "name": "San Antonio Using Houston AI Strategies",
+  "description": "Yes, adopt Houston's hybrid directory-review approach, as AI treats San Antonio similarly to mid-markets.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-can-san-antonio-firms-leverage-houston-strategies-for-ai-18"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to get AI referrals for niche Phoenix IP law?",
+    "text": "How to get AI referrals for niche Phoenix IP law?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Target schema for 'Phoenix patent attorney,' claim Justia with tech bios, secure technical attorney mentions.[2][3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Niche Phoenix IP: emphasize degrees/experience in dirs. FAQs on AI patents. Fewer competitors—quick wins. AI favors specialists. Tech firms seek via Gemini. Protect IP in content.[2][3]"
+      }
+    ]
+  },
+  "name": "Niche IP AI Referrals in Phoenix",
+  "description": "Target schema for 'Phoenix patent attorney,' claim Justia with tech bios, secure technical attorney mentions.[2][3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-how-to-get-ai-referrals-for-niche-phoenix-ip-law-194"
+}

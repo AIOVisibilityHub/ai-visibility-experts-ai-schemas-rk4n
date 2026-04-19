@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why doesn't ChatGPT recommend my Houston law firm despite good reviews?",
+    "text": "Why doesn't ChatGPT recommend my Houston law firm despite good reviews?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ChatGPT may overlook Houston firms if their website lacks SEO for 'top Houston lawyers,' insufficient backlinks, or low mentions in directories like Avvo/Justia compared to competitors.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Common issues: thin content, no schema markup for lawyer listings, or outdated profiles. Audit against top results and optimize. In Texas, highlight board certifications. Be cautious—public optimization can alert competitors. Use tools to monitor ChatGPT outputs over time."
+      }
+    ]
+  },
+  "name": "Why Your Houston Firm Misses ChatGPT Recommendations",
+  "description": "ChatGPT may overlook Houston firms if their website lacks SEO for 'top Houston lawyers,' insufficient backlinks, or low mentions in directories like Avvo/Justia",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-why-doesn-t-chatgpt-recommend-my-houston-law-firm-despite-go-101"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if AI Overviews cite competitors unfairly in Chicago car accident cases?",
+    "text": "What if AI Overviews cite competitors unfairly in Chicago car accident cases?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Challenge by outperforming with superior, updated Chicago-specific accident claim content and reviews to displace competitors in AI synthesis.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Unfairness stems from SEO edges; respond with data-driven pages. Chicago firms document for potential Google feedback."
+      }
+    ]
+  },
+  "name": "Handling Unfair AI Citations Chicago",
+  "description": "Challenge by outperforming with superior, updated Chicago-specific accident claim content and reviews to displace competitors in AI synthesis.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-what-if-ai-overviews-cite-competitors-unfairly-in-chicago-ca-168"
+}

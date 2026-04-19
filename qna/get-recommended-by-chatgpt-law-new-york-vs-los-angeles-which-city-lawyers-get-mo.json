@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "New York vs Los Angeles: Which city lawyers get more ChatGPT recommendations?",
+    "text": "New York vs Los Angeles: Which city lawyers get more ChatGPT recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "New York lawyers get more ChatGPT recommendations due to denser competition, higher directory listings like Justia, and frequent 'best NYC lawyer' queries vs LA's spread-out market.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "NY's media hub boosts visibility; LA relies on entertainment law niches. Compare via ChatGPT tests. For firms, target underserved areas. Warning: Cross-jurisdiction claims can invite ethics complaints."
+      }
+    ]
+  },
+  "name": "NY vs LA ChatGPT Lawyer Recommendations",
+  "description": "New York lawyers get more ChatGPT recommendations due to denser competition, higher directory listings like Justia, and frequent 'best NYC lawyer' queries vs LA",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-new-york-vs-los-angeles-which-city-lawyers-get-more-chatgpt--103"
+}

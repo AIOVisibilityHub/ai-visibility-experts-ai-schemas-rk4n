@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What steps to hire an AEO agency in Phoenix?",
+    "text": "What steps to hire an AEO agency in Phoenix?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Request free AI visibility audits. 2. Review case studies for attorney clients. 3. Check schema expertise and E-E-A-T strategies. 4. Compare contracts for Phoenix-local focus.[3]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Start with consultations from agencies like those serving Phoenix, demanding proof of AI citations for law firms. Verify schema implementation and question-content success. Negotiate performance clauses; avoid generic SEO resellers. Local Phoenix knowledge prevents irrelevant optimizations that waste budget.[1][7]"
+      }
+    ]
+  },
+  "name": "How to Hire a Phoenix AEO Agency",
+  "description": "1. Request free AI visibility audits. 2. Review case studies for attorney clients. 3. Check schema expertise and E-E-A-T strategies. 4. Compare contracts for Ph",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-what-steps-to-hire-an-aeo-agency-in-phoenix-55"
+}

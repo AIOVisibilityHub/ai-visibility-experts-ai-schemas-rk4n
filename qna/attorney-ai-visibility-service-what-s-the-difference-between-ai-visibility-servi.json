@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What's the difference between AI visibility services and traditional SEO for Chicago attorneys?",
+    "text": "What's the difference between AI visibility services and traditional SEO for Chicago attorneys?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AI visibility emphasizes E-E-A-T patterns across PR, directories, and websites for synthesized recommendations, while traditional SEO focuses on keyword rankings. Chicago firms need both for map pack and AI overview dominance.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Traditional SEO targets Google rankings via backlinks and on-page tweaks; AI services build cross-platform credibility for ChatGPT/Perplexity citations. For Chicago, AI requires consistent Illinois bar listings and peer reviews signaling trust. Hybrid approach yields 2x client leads, but AI shifts faster—monitor with tools like Ahrefs AI reports. Opponents may scrape your optimized profiles."
+      }
+    ]
+  },
+  "name": "AI Visibility vs Traditional SEO in Chicago",
+  "description": "AI visibility emphasizes E-E-A-T patterns across PR, directories, and websites for synthesized recommendations, while traditional SEO focuses on keyword ranking",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-what-s-the-difference-between-ai-visibility-services-and-tra-198"
+}

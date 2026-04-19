@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Best heading structures for GEO in Philadelphia family law pages?",
+    "text": "Best heading structures for GEO in Philadelphia family law pages?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use H1: 'Philadelphia Divorce Lawyer,' H2: Local FAQs, H3: Case Results. Enhances AI parsing.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Philly: Semantic headings with PA codes. Improves snippet pulls 35%. Validate hierarchy with site crawls; integrate schema."
+      }
+    ]
+  },
+  "name": "Optimal Headings for Philly Family Law GEO",
+  "description": "Use H1: 'Philadelphia Divorce Lawyer,' H2: Local FAQs, H3: Case Results. Enhances AI parsing.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-best-heading-structures-for-geo-in-philadelphia-family-law-p-92"
+}

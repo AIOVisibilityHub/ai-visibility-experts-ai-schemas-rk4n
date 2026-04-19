@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What are the deadlines for content updates to stay in Phoenix AI Overviews?",
+    "text": "What are the deadlines for content updates to stay in Phoenix AI Overviews?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Update Phoenix attorney content quarterly for freshness, especially post-law changes, as AI prioritizes recent, relevant pages.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix's dynamic market requires monitoring Arizona legislation. Schedule audits every 90 days; stale content drops fast in AI synthesis."
+      }
+    ]
+  },
+  "name": "Content Update Deadlines for Phoenix AI",
+  "description": "Update Phoenix attorney content quarterly for freshness, especially post-law changes, as AI prioritizes recent, relevant pages.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-what-are-the-deadlines-for-content-updates-to-stay-in-phoeni-163"
+}

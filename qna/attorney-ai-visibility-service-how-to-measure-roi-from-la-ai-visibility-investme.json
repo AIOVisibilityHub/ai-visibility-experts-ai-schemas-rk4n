@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to measure ROI from LA AI visibility investments?",
+    "text": "How to measure ROI from LA AI visibility investments?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Track AI citations (queries/month), lead forms from AI traffic, client attribution surveys. Target 5x ROI in 6 months.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "LA firms use Google Analytics UTM for AI referrals, query logs for citations. Survey 'How found us?' 20% AI-driven. Benchmark: $10k spend = $50k fees. Adjust quarterly. Insurers ignore unproven firms."
+      }
+    ]
+  },
+  "name": "Measuring LA AI Visibility ROI",
+  "description": "Track AI citations (queries/month), lead forms from AI traffic, client attribution surveys. Target 5x ROI in 6 months.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-how-to-measure-roi-from-la-ai-visibility-investments-220"
+}

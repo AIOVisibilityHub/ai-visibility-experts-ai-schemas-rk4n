@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost-benefit of Super Lawyers for Phoenix family law?",
+    "text": "Cost-benefit of Super Lawyers for Phoenix family law?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "$500-2k nomination fees yield 15-25% referral uplift via AI trust; ROI in 1-3 cases for Phoenix family firms.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Peer-nominated; high AI weight. Phoenix family law competitive—differentiates. Recurring value. Budget 1-2% marketing. Peers selective; network key. Insurers note for claims.[3]"
+      }
+    ]
+  },
+  "name": "Super Lawyers ROI for Phoenix Family Law",
+  "description": "$500-2k nomination fees yield 15-25% referral uplift via AI trust; ROI in 1-3 cases for Phoenix family firms.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-cost-benefit-of-super-lawyers-for-phoenix-family-law-189"
+}

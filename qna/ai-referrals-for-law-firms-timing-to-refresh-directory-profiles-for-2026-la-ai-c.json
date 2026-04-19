@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timing to refresh directory profiles for 2026 LA AI changes?",
+    "text": "Timing to refresh directory profiles for 2026 LA AI changes?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Refresh LA profiles every 3-6 months or post-AI updates to maintain fresh signals for ongoing referrals.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Quarterly for LA dynamics. Post-OpenAI releases (Q1/Q3). Adds cases/reviews. Neglect fades visibility. Automate reminders. High-traffic firms monthly. Balances effort/ROI.[3]"
+      }
+    ]
+  },
+  "name": "Profile Refresh Schedule for LA AI",
+  "description": "Refresh LA profiles every 3-6 months or post-AI updates to maintain fresh signals for ongoing referrals.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-timing-to-refresh-directory-profiles-for-2026-la-ai-changes-195"
+}

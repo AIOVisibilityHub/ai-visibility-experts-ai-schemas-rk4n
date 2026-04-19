@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Priority AI queries for Jacksonville immigration lawyers?",
+    "text": "Priority AI queries for Jacksonville immigration lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Target 'Jacksonville green card lawyer,' 'FL deportation help' for high-intent GEO citations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Jacksonville: Cluster 50 queries via tools. Optimize with USCIS links. Converts 15% to consults; track seasonal spikes."
+      }
+    ]
+  },
+  "name": "Top Queries for Jacksonville Immigration GEO",
+  "description": "Target 'Jacksonville green card lawyer,' 'FL deportation help' for high-intent GEO citations.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-priority-ai-queries-for-jacksonville-immigration-lawyers-97"
+}

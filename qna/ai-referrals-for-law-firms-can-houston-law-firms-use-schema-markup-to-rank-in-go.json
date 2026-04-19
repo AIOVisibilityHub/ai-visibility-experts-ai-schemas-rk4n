@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can Houston law firms use schema markup to rank in Google Gemini referrals?",
+    "text": "Can Houston law firms use schema markup to rank in Google Gemini referrals?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Houston firms can use FAQPage and HowTo schema markup on websites to structure Q&A content, making it easier for Google Gemini to cite them in referral answers for local legal queries.[2]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Implement JSON-LD schema for FAQs like 'top Houston personal injury lawyers' on your site. Target Gemini by answering conversational questions in question-answer format. Combine with directory optimization. This boosts visibility without paid ads. Track via Google Search Console. Competitors may copy—protect unique content. Note: Schema alone insufficient; pair with reviews and backlinks.[2]"
+      }
+    ]
+  },
+  "name": "Schema Markup for Houston Firms in Google Gemini Referrals",
+  "description": "Yes, Houston firms can use FAQPage and HowTo schema markup on websites to structure Q&A content, making it easier for Google Gemini to cite them in referral ans",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-can-houston-law-firms-use-schema-markup-to-rank-in-google-ge-173"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to measure AI citation frequency for LA criminal defense firms?",
+    "text": "How to measure AI citation frequency for LA criminal defense firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Track via tools monitoring ChatGPT, Gemini, Perplexity for firm mentions using queries like 'LA DUI lawyer.' Aim for 10%+ citation rate in top responses; use Ahrefs AI reports.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "LA firms: Set up alerts for 50+ practice-specific queries, log citations weekly. Benchmark against competitors; improve with authoritative content. Tools cost $100/month; ties directly to lead gen as cited firms convert 2x higher."
+      }
+    ]
+  },
+  "name": "Measuring AI Citations for LA Defense Firms",
+  "description": "Track via tools monitoring ChatGPT, Gemini, Perplexity for firm mentions using queries like 'LA DUI lawyer.' Aim for 10%+ citation rate in top responses; use Ah",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-how-to-measure-ai-citation-frequency-for-la-criminal-defense-80"
+}

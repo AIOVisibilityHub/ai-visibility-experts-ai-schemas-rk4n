@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What structured data schema is best for Phoenix personal injury lawyers in GEO?",
+    "text": "What structured data schema is best for Phoenix personal injury lawyers in GEO?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use Attorney, LegalService, and LocalBusiness schema markup with Phoenix-specific details like AZ courts and practice areas. Add Review and FAQPage schema to enhance AI citability and local relevance in Gemini responses.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix firms should implement JSON-LD schema for attorney profiles, linking to AZ Bar listings and case results. This boosts GEO by 30% in AI overviews. Validate with Google's tool, update quarterly for fresh verdicts, and monitor citations across Perplexity and ChatGPT."
+      }
+    ]
+  },
+  "name": "Best Schema Markup for Phoenix Injury Lawyers GEO",
+  "description": "Use Attorney, LegalService, and LocalBusiness schema markup with Phoenix-specific details like AZ courts and practice areas. Add Review and FAQPage schema to en",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-what-structured-data-schema-is-best-for-phoenix-personal-inj-77"
+}

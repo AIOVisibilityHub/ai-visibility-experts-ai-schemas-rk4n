@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does Super Lawyers impact AI visibility differently in Phoenix than Chicago?",
+    "text": "How does Super Lawyers impact AI visibility differently in Phoenix than Chicago?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Phoenix AI cites Super Lawyers more for local queries due to market size, while Chicago favors Chambers; both boost visibility when website data aligns.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Super Lawyers offers broader access for Phoenix boutiques, aiding Perplexity results. Chicago requires Chambers for elite status. Reinforce via identical bio language. Use FirmRanker to benchmark. Competitors in Chicago may dominate regardless—focus on niches."
+      }
+    ]
+  },
+  "name": "Super Lawyers AI Impact: Phoenix vs Chicago",
+  "description": "Phoenix AI cites Super Lawyers more for local queries due to market size, while Chicago favors Chambers; both boost visibility when website data aligns.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-how-does-super-lawyers-impact-ai-visibility-differently-in-p-8"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can San Antonio attorneys near Houston leverage AI Overviews cross-market?",
+    "text": "Can San Antonio attorneys near Houston leverage AI Overviews cross-market?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, San Antonio attorneys target 'Houston-area' queries with geo-content to appear in AI Overviews synthesizing regional results.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Firm's multi-city presence aids; create San Antonio pages linking Texas-wide authority. AI handles proximity well for Houston commuters."
+      }
+    ]
+  },
+  "name": "Cross-Market AI for San Antonio Houston",
+  "description": "Yes, San Antonio attorneys target 'Houston-area' queries with geo-content to appear in AI Overviews synthesizing regional results.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-can-san-antonio-attorneys-near-houston-leverage-ai-overviews-165"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Risks of relying on ChatGPT recommendations for Houston clients?",
+    "text": "Risks of relying on ChatGPT recommendations for Houston clients?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Risks include outdated info, no vetting of ethics violations, and bias toward high-SEO firms over best Houston lawyers.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Advise clients: Cross-check bar status, consult multiples. For lawyers, over-reliance harms reputation if AI errs."
+      }
+    ]
+  },
+  "name": "Risks of ChatGPT Houston Lawyer Recs",
+  "description": "Risks include outdated info, no vetting of ethics violations, and bias toward high-SEO firms over best Houston lawyers.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-risks-of-relying-on-chatgpt-recommendations-for-houston-clie-110"
+}

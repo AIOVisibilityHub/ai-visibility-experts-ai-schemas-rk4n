@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to optimize FAQs for Los Angeles employment law in Claude AI?",
+    "text": "How to optimize FAQs for Los Angeles employment law in Claude AI?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Write direct, conversational answers with LA labor code citations; use FAQ schema. Test in Claude for exact match citations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "LA employment: Cover 'wrongful termination LA' with statutes. Structure as Q&A dialogues. Boosts Claude responses 50%; update for new ordinances like AB5."
+      }
+    ]
+  },
+  "name": "FAQ Optimization for LA Employment in Claude",
+  "description": "Write direct, conversational answers with LA labor code citations; use FAQ schema. Test in Claude for exact match citations.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-how-to-optimize-faqs-for-los-angeles-employment-law-in-claud-87"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured lawyer used AI referral badly—what recourse in NY?",
+  "description": "Personal suit + NY fund up to $50k.",
+  "url": "aiovisibility.com/faq/general-uninsured-lawyer-used-ai-referral-badly-what-recourse-in-ny-196",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured lawyer used AI referral badly—what recourse in NY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Personal suit + NY fund up to $50k.",
+        "description": "Sue personally; check bar fund for aid. New York Lawyers' Fund covers up to $50k. Key factors: (1) Asset search; (2) Judgment collection; (3) Fund app. Still pursue."
+      }
+    }
+  ]
+}

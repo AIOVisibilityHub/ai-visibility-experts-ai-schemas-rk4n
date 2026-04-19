@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I talked to an insurance adjuster after using AI for my NY injury claim advice?",
+  "description": "AI inconsistencies can kill credibility—lawyer up immediately.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-i-talked-to-an-insurance-adjuster-after-using-ai-for-my-ny-injury-claim--209",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I talked to an insurance adjuster after using AI for my NY injury claim advice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI inconsistencies can kill credibility—lawyer up immediately.[1]",
+        "description": "Your AI chats could contradict statements, weakening your case in discovery.[1] Adjusters probe for inconsistencies.[1] Key factors: discoverable AI logs; no privilege; potential bad-faith claim denial leverage.[1] Disclose AI use to your lawyer now; stick to facts in future talks; record all adjuster interactions.[1] Lawyer handles communications."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In New York, can insurance deny my firm's claim because I asked AI about business interruption from bad rankings?",
+  "description": "Risky; AI chats discoverable in NY, could undermine claim.[1]",
+  "url": "aiovisibility.com/faq/general-in-new-york-can-insurance-deny-my-firm-s-claim-because-i-asked-ai-about-business-232",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In New York, can insurance deny my firm's claim because I asked AI about business interruption from bad rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risky; AI chats discoverable in NY, could undermine claim.[1]",
+        "description": "Possibly, if AI chats reveal inconsistencies or speculative damages, as they are discoverable in NY courts.[1] No direct precedent, but broad discovery applies.[1] Key factors: AI not privileged, fault admissions harmful.[1] Withhold AI records from insurer, provide only policy-required docs, get coverage counsel.[1] State-specific rules tighten scrutiny."
+      }
+    }
+  ]
+}

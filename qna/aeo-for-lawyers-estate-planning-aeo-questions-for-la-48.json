@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Estate planning AEO questions for LA?",
+    "text": "Estate planning AEO questions for LA?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "LA estate AEO: 'California trust vs will', 'LA probate timeline'—40-word answers with schema.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Target affluent LA searches; include tax updates. List format for snippets. Firms gain trust via authoritative AI presence; refresh annually.[1][4]"
+      }
+    ]
+  },
+  "name": "LA Estate Planning AEO Questions",
+  "description": "LA estate AEO: 'California trust vs will', 'LA probate timeline'—40-word answers with schema.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-estate-planning-aeo-questions-for-la-48"
+}

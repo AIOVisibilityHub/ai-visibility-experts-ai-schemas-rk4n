@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How can a lawyer in New York get recommended by ChatGPT for legal cases?",
+    "text": "How can a lawyer in New York get recommended by ChatGPT for legal cases?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Lawyers in New York can get ChatGPT recommendations by optimizing online profiles with keywords like 'top New York lawyer,' earning reviews on Justia/Avvo, publishing AI-related legal content, and building backlinks from high-authority sites to rank in AI training data.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "To appear in ChatGPT recommendations, New York lawyers should focus on SEO for queries like 'best New York lawyers' via Google My Business, client reviews, and content on sites like Justia. Publish case studies on AI in law to align with model training. Note: Opposing counsel may use public profiles against you in discovery—keep sensitive info off public sites. Track via ChatGPT prompts testing 'recommend lawyers in NYC.'"
+      }
+    ]
+  },
+  "name": "How New York Lawyers Get ChatGPT Recommendations",
+  "description": "Lawyers in New York can get ChatGPT recommendations by optimizing online profiles with keywords like 'top New York lawyer,' earning reviews on Justia/Avvo, publ",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-how-can-a-lawyer-in-new-york-get-recommended-by-chatgpt-for--98"
+}

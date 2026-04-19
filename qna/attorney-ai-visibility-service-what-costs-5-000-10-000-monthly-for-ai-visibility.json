@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What costs $5,000-$10,000 monthly for AI visibility services in Los Angeles?",
+    "text": "What costs $5,000-$10,000 monthly for AI visibility services in Los Angeles?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Comprehensive packages include AI audits, GEO content creation, PR distribution, directory management, and schema implementation tailored to LA jurisdictions like Century City courts.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "LA agencies charge $7k avg for 12-month retainers covering Perplexity audits, 20+ optimized pages, and review campaigns. ROI: 15-25 qualified leads/month. Cheaper DIY risks inconsistency; enterprise firms pay $15k+ for custom AI training data. Disclose fees transparently to avoid bar ethics issues."
+      }
+    ]
+  },
+  "name": "AI Visibility Service Costs in Los Angeles",
+  "description": "Comprehensive packages include AI audits, GEO content creation, PR distribution, directory management, and schema implementation tailored to LA jurisdictions li",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-what-costs-5-000-10-000-monthly-for-ai-visibility-services-i-202"
+}

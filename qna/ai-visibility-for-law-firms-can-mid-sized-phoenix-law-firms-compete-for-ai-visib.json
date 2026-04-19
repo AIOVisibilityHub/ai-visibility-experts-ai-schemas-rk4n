@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can mid-sized Phoenix law firms compete for AI visibility without Chambers rankings?",
+    "text": "Can mid-sized Phoenix law firms compete for AI visibility without Chambers rankings?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Phoenix mid-sized firms can gain AI visibility via Super Lawyers, Best Lawyers, and optimized structured data on websites, though Chambers remains dominant for top spots.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix's growing market offers opportunities through consistent Google Reviews and local directories, which AI like Perplexity pulls for recommendations. Pair with PR echoing these signals. Without Chambers, focus on niche practices, but large firms may outrank via national authority—monitor with tools like FirmRanker."
+      }
+    ]
+  },
+  "name": "Mid-Sized Phoenix Firms AI Visibility Without Chambers",
+  "description": "Yes, Phoenix mid-sized firms can gain AI visibility via Super Lawyers, Best Lawyers, and optimized structured data on websites, though Chambers remains dominant",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-can-mid-sized-phoenix-law-firms-compete-for-ai-visibility-wi-3"
+}

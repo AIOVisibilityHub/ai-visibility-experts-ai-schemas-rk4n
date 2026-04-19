@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Phoenix lawyer here: happened at work, boss used AI that hurt our rankings. Sue employer?",
+  "description": "Maybe negligence; check duties first.[1]",
+  "url": "aiovisibility.com/faq/general-phoenix-lawyer-here-happened-at-work-boss-used-ai-that-hurt-our-rankings-sue-emp-243",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Phoenix lawyer here: happened at work, boss used AI that hurt our rankings. Sue employer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe negligence; check duties first.[1]",
+        "description": "Possible negligence claim if boss's AI use breached duty, but employment law limits.[1] Key factors: policy violations, causation.[1] Review employment contract, document boss actions, employment litigator.[1] Tricky internal matter."
+      }
+    }
+  ]
+}

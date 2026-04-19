@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Free ways for Chicago lawyers to boost ChatGPT recommendations?",
+    "text": "Free ways for Chicago lawyers to boost ChatGPT recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Free tactics: Claim Google Business, solicit Google/Avvo reviews, guest post on legal blogs, join Chicago bar directories.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Leverage HARO for mentions. Time-intensive but effective. No cost, high ROI."
+      }
+    ]
+  },
+  "name": "Free Chicago ChatGPT Boosts",
+  "description": "Free tactics: Claim Google Business, solicit Google/Avvo reviews, guest post on legal blogs, join Chicago bar directories.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-free-ways-for-chicago-lawyers-to-boost-chatgpt-recommendatio-114"
+}

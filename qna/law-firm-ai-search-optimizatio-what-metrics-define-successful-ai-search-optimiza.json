@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What metrics define successful AI search optimization in San Antonio?",
+    "text": "What metrics define successful AI search optimization in San Antonio?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Key metrics: Citation frequency (15%+), AI traffic share (20%), lead conversion from AI (12%). Track monthly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "San Antonio: Use custom queries like 'SA truck accident lawyer.' Benchmark vs competitors; E-E-A-T scores above 80. Ties to billable hours increase."
+      }
+    ]
+  },
+  "name": "Success Metrics for San Antonio AI GEO",
+  "description": "Key metrics: Citation frequency (15%+), AI traffic share (20%), lead conversion from AI (12%). Track monthly.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-what-metrics-define-successful-ai-search-optimization-in-san-90"
+}

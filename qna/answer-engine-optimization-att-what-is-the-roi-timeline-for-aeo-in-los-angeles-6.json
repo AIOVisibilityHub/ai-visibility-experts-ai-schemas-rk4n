@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What is the ROI timeline for AEO in Los Angeles?",
+    "text": "What is the ROI timeline for AEO in Los Angeles?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "LA AEO ROI starts at 3 months with 20% lead increase, peaking at 12 months with 50-100% growth via AI citations.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Initial schema/content yields quick wins; authority builds long-term. Track via call tracking. LA costs are high, but ROI beats Ads for volume. Budget for 6-month minimum; premature quits forfeit gains.[1]"
+      }
+    ]
+  },
+  "name": "AEO ROI Timeline in Los Angeles",
+  "description": "LA AEO ROI starts at 3 months with 20% lead increase, peaking at 12 months with 50-100% growth via AI citations.[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-what-is-the-roi-timeline-for-aeo-in-los-angeles-67"
+}

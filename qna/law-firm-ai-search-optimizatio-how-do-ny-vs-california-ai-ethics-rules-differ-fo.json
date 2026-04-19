@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do NY vs California AI ethics rules differ for law firm marketing?",
+    "text": "How do NY vs California AI ethics rules differ for law firm marketing?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "NY Rule 7.1 bans misleading ads strictly; CA allows more AI disclosure flexibility but requires supervision. Both demand verifiable claims in GEO content.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "NY enforces tighter pre-approval for ads; CA focuses on outcome transparency. For cross-jurisdiction firms, use dual-compliant templates. Audit AI outputs monthly; violations cost $10k+ in fines."
+      }
+    ]
+  },
+  "name": "NY vs CA AI Ethics for Law Firm GEO",
+  "description": "NY Rule 7.1 bans misleading ads strictly; CA allows more AI disclosure flexibility but requires supervision. Both demand verifiable claims in GEO content.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-how-do-ny-vs-california-ai-ethics-rules-differ-for-law-firm--84"
+}

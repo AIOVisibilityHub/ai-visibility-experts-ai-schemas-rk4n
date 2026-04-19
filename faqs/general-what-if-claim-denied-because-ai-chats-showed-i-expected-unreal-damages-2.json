@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if claim denied because AI chats showed I expected unreal damages?",
+  "description": "Challenge admission; likely discoverable anyway.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-claim-denied-because-ai-chats-showed-i-expected-unreal-damages-240",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if claim denied because AI chats showed I expected unreal damages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge admission; likely discoverable anyway.[1]",
+        "description": "Denial appealable if chats inadmissible, but courts likely admit per NY precedent.[1] Argue irrelevance.[1] Key factors: context, prejudice vs. probative.[1] Appeal promptly, motion to suppress, strong alternative evidence.[1] Uphill battle."
+      }
+    }
+  ]
+}

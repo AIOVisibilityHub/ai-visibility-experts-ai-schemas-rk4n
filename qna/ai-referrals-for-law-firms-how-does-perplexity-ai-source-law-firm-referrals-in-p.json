@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does Perplexity AI source law firm referrals in Phoenix?",
+    "text": "How does Perplexity AI source law firm referrals in Phoenix?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Perplexity cross-references directories, reviews, Super Lawyers, and site content for Phoenix firms, prioritizing consistent credibility signals.[3]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Unlike ChatGPT, Perplexity cites sources transparently. Optimize for citation via structured data. Phoenix: local news helps. Test queries weekly. Builds long-term visibility. Insurers verify similarly.[3]"
+      }
+    ]
+  },
+  "name": "Perplexity's Phoenix Law Firm Sourcing",
+  "description": "Perplexity cross-references directories, reviews, Super Lawyers, and site content for Phoenix firms, prioritizing consistent credibility signals.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-how-does-perplexity-ai-source-law-firm-referrals-in-phoenix-185"
+}

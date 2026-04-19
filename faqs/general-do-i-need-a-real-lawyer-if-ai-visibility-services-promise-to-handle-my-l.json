@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a real lawyer if AI visibility services promise to handle my legal visibility case?",
+  "description": "Yes—AI can't practice law or give advice; get a licensed attorney.[5]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-real-lawyer-if-ai-visibility-services-promise-to-handle-my-legal-vis-207",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a real lawyer if AI visibility services promise to handle my legal visibility case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—AI can't practice law or give advice; get a licensed attorney.[5]",
+        "description": "Yes, only licensed attorneys can provide legal advice; AI services cannot represent you.[5] Courts prohibit unlicensed practice, including AI-generated advice.[1][5] Key factors: AI hallucinations risk bad outcomes; privilege issues; ethical rules require verification.[2] Hire a bar-admitted lawyer; use AI visibility tools only for marketing, not litigation; verify all claims.[4] Real counsel ensures compliance."
+      }
+    }
+  ]
+}

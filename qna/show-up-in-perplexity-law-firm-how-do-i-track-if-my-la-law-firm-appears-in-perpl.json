@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How do I track if my LA law firm appears in Perplexity searches?",
+    "text": "How do I track if my LA law firm appears in Perplexity searches?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Track LA law firm Perplexity visibility using alerts for branded queries, manual searches on 'lawyer [practice] Los Angeles,' and tools like Ahrefs AI monitor.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Set Google Alerts for 'yourfirm Perplexity,' query Perplexity weekly, and use SEMrush Position Tracking for AI SERPs. Benchmark against competitors. LA firms should aim for 20% query citation rate within 6 months."
+      }
+    ]
+  },
+  "name": "Tracking Perplexity Rankings for LA Firms",
+  "description": "Track LA law firm Perplexity visibility using alerts for branded queries, manual searches on 'lawyer [practice] Los Angeles,' and tools like Ahrefs AI monitor.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-how-do-i-track-if-my-la-law-firm-appears-in-perplexity-searc-129"
+}

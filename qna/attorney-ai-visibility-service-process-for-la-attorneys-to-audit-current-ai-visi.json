@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Process for LA attorneys to audit current AI visibility?",
+    "text": "Process for LA attorneys to audit current AI visibility?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "1. Query ChatGPT/Perplexity incognito. 2. Check directory consistency. 3. Analyze schema/errors. 4. Review E-E-A-T gaps. Use free tools like SEMrush AI.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "LA firms test 20 queries like 'LA employment lawyer.' Score citations (0-10). Fix top gaps first. Monthly audits prevent drops. Pro services $2k/audit with benchmarks. Competitors use this intel—stay ahead."
+      }
+    ]
+  },
+  "name": "AI Visibility Audit Steps for LA",
+  "description": "1. Query ChatGPT/Perplexity incognito. 2. Check directory consistency. 3. Analyze schema/errors. 4. Review E-E-A-T gaps. Use free tools like SEMrush AI.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-process-for-la-attorneys-to-audit-current-ai-visibility-212"
+}

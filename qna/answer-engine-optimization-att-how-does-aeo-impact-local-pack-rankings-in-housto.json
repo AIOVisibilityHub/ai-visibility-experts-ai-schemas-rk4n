@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How does AEO impact local pack rankings in Houston?",
+    "text": "How does AEO impact local pack rankings in Houston?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AEO enhances Houston local pack via schema signals and question content, indirectly boosting Google Maps visibility for attorneys.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI citations reinforce local authority, feeding pack algorithms. Optimize NAP consistency. Houston's sprawl benefits hybrids; measure via local metrics. Indirect but compounding effects.[3]"
+      }
+    ]
+  },
+  "name": "AEO and Houston Local Pack",
+  "description": "AEO enhances Houston local pack via schema signals and question content, indirectly boosting Google Maps visibility for attorneys.[4]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-how-does-aeo-impact-local-pack-rankings-in-houston-69"
+}

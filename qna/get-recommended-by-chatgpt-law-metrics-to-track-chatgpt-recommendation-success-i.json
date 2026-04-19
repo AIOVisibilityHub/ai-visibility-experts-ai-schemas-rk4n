@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Metrics to track ChatGPT recommendation success in Phoenix?",
+    "text": "Metrics to track ChatGPT recommendation success in Phoenix?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Track query hit rate, position in responses, lead volume from 'ChatGPT suggested' mentions for Phoenix lawyers.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Use UTM tags, surveys. Benchmark monthly."
+      }
+    ]
+  },
+  "name": "Phoenix ChatGPT Success Metrics",
+  "description": "Track query hit rate, position in responses, lead volume from 'ChatGPT suggested' mentions for Phoenix lawyers.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-metrics-to-track-chatgpt-recommendation-success-in-phoenix-120"
+}

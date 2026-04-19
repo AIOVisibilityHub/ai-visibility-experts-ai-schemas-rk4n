@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What role does E-E-A-T play in Perplexity for New York firms?",
+    "text": "What role does E-E-A-T play in Perplexity for New York firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "E-E-A-T is crucial; New York firms need attorney bios, verdicts, and citations to authoritative sources for Perplexity trust.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Display NY Bar numbers, publish op-eds, earn .edu links. Perplexity demotes low-E-E-A-T in regulated fields like law."
+      }
+    ]
+  },
+  "name": "E-E-A-T for NY Perplexity Rankings",
+  "description": "E-E-A-T is crucial; New York firms need attorney bios, verdicts, and citations to authoritative sources for Perplexity trust.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-what-role-does-e-e-a-t-play-in-perplexity-for-new-york-firms-137"
+}

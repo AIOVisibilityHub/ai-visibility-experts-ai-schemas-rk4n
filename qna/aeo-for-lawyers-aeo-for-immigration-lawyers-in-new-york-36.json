@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "AEO for immigration lawyers in New York?",
+    "text": "AEO for immigration lawyers in New York?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "New York immigration lawyers use AEO with FAQ schema on visa timelines, green card queries, targeting 'NYC deportation defense'.[1][4]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Optimize for high-intent: 'EB-5 investor visa NYC requirements'. Use structured data for PAA chains. Federal laws uniform, but NY specifics boost local AI picks; update for policy shifts.[4][8]"
+      }
+    ]
+  },
+  "name": "AEO for NY Immigration Lawyers",
+  "description": "New York immigration lawyers use AEO with FAQ schema on visa timelines, green card queries, targeting 'NYC deportation defense'.[1][4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-aeo-for-immigration-lawyers-in-new-york-36"
+}

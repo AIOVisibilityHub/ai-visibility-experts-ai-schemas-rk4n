@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What content types trigger Google AI Overviews for Chicago divorce attorneys?",
+    "text": "What content types trigger Google AI Overviews for Chicago divorce attorneys?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Chicago divorce attorneys trigger AI Overviews with step-by-step Illinois divorce process guides, cost breakdowns, and mediation explainers optimized for complex queries.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Focus on long-form, structured content with tables for timelines and FAQs. Chicago's competitive scene rewards video integrations. AI synthesizes these for user intent; test with query variations."
+      }
+    ]
+  },
+  "name": "Best Content for Chicago Divorce AI Overviews",
+  "description": "Chicago divorce attorneys trigger AI Overviews with step-by-step Illinois divorce process guides, cost breakdowns, and mediation explainers optimized for comple",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-what-content-types-trigger-google-ai-overviews-for-chicago-d-157"
+}

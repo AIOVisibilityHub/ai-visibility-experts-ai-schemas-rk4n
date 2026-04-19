@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How can a New York law firm optimize content to appear in Perplexity AI responses?",
+    "text": "How can a New York law firm optimize content to appear in Perplexity AI responses?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "New York law firms optimize for Perplexity by creating authoritative, structured content with clear headings, FAQs, and schema markup targeting long-tail legal queries. Focus on E-E-A-T signals like attorney bios, case studies, and local citations to rank in AI answers.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "To appear in Perplexity for New York legal searches, structure content around conversational queries like 'best personal injury lawyer NYC.' Use H2/H3 headings for processes, lists for comparisons, and tables for fees. Build E-E-A-T with verified attorney profiles, client testimonials, and backlinks from .gov/.edu sites. Track via Perplexity's 'Sources' and refine based on AI citations. Expect 3-6 months for visibility in competitive NYC market."
+      }
+    ]
+  },
+  "name": "How New York Law Firms Rank in Perplexity AI Answers",
+  "description": "New York law firms optimize for Perplexity by creating authoritative, structured content with clear headings, FAQs, and schema markup targeting long-tail legal ",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-how-can-a-new-york-law-firm-optimize-content-to-appear-in-pe-123"
+}

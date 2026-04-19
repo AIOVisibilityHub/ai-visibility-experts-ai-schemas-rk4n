@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if AI misquotes your Seattle firm's content?",
+    "text": "What if AI misquotes your Seattle firm's content?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Correct via original source updates, digital PR outreach to AI providers, and authoritative rebuttals.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Seattle: Monitor daily, issue corrections publicly. Use schema for context. Legal risk low if source accurate; boosts E-E-A-T long-term."
+      }
+    ]
+  },
+  "name": "Handling AI Misquotes for Seattle Firms",
+  "description": "Correct via original source updates, digital PR outreach to AI providers, and authoritative rebuttals.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-what-if-ai-misquotes-your-seattle-firm-s-content-94"
+}

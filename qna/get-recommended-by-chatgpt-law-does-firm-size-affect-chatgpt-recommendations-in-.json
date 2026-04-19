@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Does firm size affect ChatGPT recommendations in Houston?",
+    "text": "Does firm size affect ChatGPT recommendations in Houston?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Larger Houston firms get more recommendations due to authority signals, but solo practitioners win with niche rankings.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Size correlates with backlinks. Compensate via specialization."
+      }
+    ]
+  },
+  "name": "Firm Size Impact on Houston Recs",
+  "description": "Larger Houston firms get more recommendations due to authority signals, but solo practitioners win with niche rankings.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-does-firm-size-affect-chatgpt-recommendations-in-houston-115"
+}

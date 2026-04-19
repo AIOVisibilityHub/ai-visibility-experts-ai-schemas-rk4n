@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Deadlines for 2026 AI model updates affecting LA referrals?",
+    "text": "Deadlines for 2026 AI model updates affecting LA referrals?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No fixed deadlines; AI firms like OpenAI update quarterly. LA firms should refresh profiles bi-annually for recrawls.[2][3]",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Monitor OpenAI/Gemini changelogs. Post-update, directories reindex in weeks. LA trends fast—quarterly audits. Misses hurt in competitive markets. Proactive beats reactive.[2]"
+      }
+    ]
+  },
+  "name": "2026 AI Update Deadlines for LA",
+  "description": "No fixed deadlines; AI firms like OpenAI update quarterly. LA firms should refresh profiles bi-annually for recrawls.[2][3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-deadlines-for-2026-ai-model-updates-affecting-la-referrals-187"
+}

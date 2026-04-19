@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Best voice search phrases for Chicago AEO?",
+    "text": "Best voice search phrases for Chicago AEO?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use conversational phrases like 'best employment lawyer near Chicago' or 'Chicago workers comp timeline' for AEO voice optimization.[1][4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Chicago firms target long-tail voice queries with natural language on sites. Schema enhances pickup; examples: 'How long for Chicago personal injury settlement?' Optimize homepages for local intent to capture mobile searches in traffic-heavy area.[4]"
+      }
+    ]
+  },
+  "name": "Voice Search for Chicago AEO",
+  "description": "Use conversational phrases like 'best employment lawyer near Chicago' or 'Chicago workers comp timeline' for AEO voice optimization.[1][4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-best-voice-search-phrases-for-chicago-aeo-33"
+}

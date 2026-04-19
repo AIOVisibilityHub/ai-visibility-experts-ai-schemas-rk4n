@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if AI recommends competitors over my Chicago firm?",
+    "text": "What if AI recommends competitors over my Chicago firm?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Strengthen with more reviews, schema FAQs, and endorsements. AI shifts with updated signals in 3-5 weeks.[3][2]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Competitor edge often reviews/directories. Counter: volume + quality. Chicago market: specialize deeper. Test queries. Long-term: content wins. Don't disparage; elevate self.[3]"
+      }
+    ]
+  },
+  "name": "Outrank Competitors in Chicago AI",
+  "description": "Strengthen with more reviews, schema FAQs, and endorsements. AI shifts with updated signals in 3-5 weeks.[3][2]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-what-if-ai-recommends-competitors-over-my-chicago-firm-192"
+}

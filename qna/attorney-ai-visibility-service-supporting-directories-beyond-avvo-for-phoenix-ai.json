@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Supporting directories beyond Avvo for Phoenix AI?",
+    "text": "Supporting directories beyond Avvo for Phoenix AI?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Justia, Martindale, Yelp, BBB, Arizona Bar, FindLaw. Claim all 15+ for NAP signals and backlinks.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Phoenix visibility needs 100% claims on niche dirs like SuperLawyers. Enrich with Phoenix-specific bios. Boosts domain authority 20%. Neglect risks competitor dominance. Free to claim; monitor changes."
+      }
+    ]
+  },
+  "name": "Key Directories for Phoenix Attorneys",
+  "description": "Justia, Martindale, Yelp, BBB, Arizona Bar, FindLaw. Claim all 15+ for NAP signals and backlinks.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-supporting-directories-beyond-avvo-for-phoenix-ai-215"
+}

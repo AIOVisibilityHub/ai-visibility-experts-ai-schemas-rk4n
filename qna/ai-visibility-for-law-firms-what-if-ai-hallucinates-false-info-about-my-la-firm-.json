@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What if AI hallucinates false info about my LA firm?",
+    "text": "What if AI hallucinates false info about my LA firm?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Audit regularly, issue corrections via PR and directories to overwrite hallucinations with authoritative data.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI pulls stale data; proactive signals prevent. Use FirmRanker alerts. LA's scrutiny heightens risks. Legal recourse rare—focus prevention. Clients may rely on errors detrimentally."
+      }
+    ]
+  },
+  "name": "Handling AI Hallucinations for LA Firms",
+  "description": "Audit regularly, issue corrections via PR and directories to overwrite hallucinations with authoritative data.",
+  "url": "aiovisibility.com/qna/ai-visibility-for-law-firms-what-if-ai-hallucinates-false-info-about-my-la-firm-19"
+}

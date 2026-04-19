@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long does it take for a Chicago law firm to show up in Perplexity results?",
+    "text": "How long does it take for a Chicago law firm to show up in Perplexity results?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Chicago law firms typically see Perplexity visibility in 3-6 months with consistent AEO efforts, or 12-18 months in saturated practice areas like personal injury due to competition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Timeline varies by niche: family law in Chicago may appear faster (2-4 months) via FAQ optimization, while criminal defense needs 6-12 months for authority buildup. Monitor with tools tracking AI mentions; refine content quarterly. High-competition Chicago requires ongoing updates to match evolving Perplexity algorithms."
+      }
+    ]
+  },
+  "name": "Timeline to Rank in Perplexity for Chicago Firms",
+  "description": "Chicago law firms typically see Perplexity visibility in 3-6 months with consistent AEO efforts, or 12-18 months in saturated practice areas like personal injur",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-how-long-does-it-take-for-a-chicago-law-firm-to-show-up-in-p-125"
+}

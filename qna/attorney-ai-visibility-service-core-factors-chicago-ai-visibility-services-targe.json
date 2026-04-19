@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Core factors Chicago AI visibility services target for Claude recommendations?",
+    "text": "Core factors Chicago AI visibility services target for Claude recommendations?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "E-E-A-T via peer endorsements, Illinois case citations, review patterns, and fresh content. Claude prioritizes authoritative, multi-source legal insights.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Chicago services audit for first-party expertise (blogs), experience (verdicts), authoritativeness (bar leadership), trustworthiness (reviews). Target 80/20 content mix. Claude cites comprehensive sources; thin pages ignored. Cost: $4k-8k/quarter. Warn: Inflated claims risk bar scrutiny."
+      }
+    ]
+  },
+  "name": "E-E-A-T Optimization for Chicago Claude AI",
+  "description": "E-E-A-T via peer endorsements, Illinois case citations, review patterns, and fresh content. Claude prioritizes authoritative, multi-source legal insights.",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-core-factors-chicago-ai-visibility-services-target-for-claud-208"
+}

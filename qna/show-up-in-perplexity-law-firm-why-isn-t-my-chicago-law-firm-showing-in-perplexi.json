@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why isn't my Chicago law firm showing in Perplexity despite good Google rankings?",
+    "text": "Why isn't my Chicago law firm showing in Perplexity despite good Google rankings?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Chicago firms miss Perplexity if content lacks conversational tone, structured data, or E-E-A-T; AI favors precise answers over keyword-stuffed pages.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Common gaps: no schema FAQPage, thin answers, missing author bios. Audit top Perplexity sources for Chicago queries; rewrite for snippet length (40-60 words). Chicago's top firms invest in AEO specialists."
+      }
+    ]
+  },
+  "name": "Why Chicago Firms Miss Perplexity",
+  "description": "Chicago firms miss Perplexity if content lacks conversational tone, structured data, or E-E-A-T; AI favors precise answers over keyword-stuffed pages.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-why-isn-t-my-chicago-law-firm-showing-in-perplexity-despite--130"
+}

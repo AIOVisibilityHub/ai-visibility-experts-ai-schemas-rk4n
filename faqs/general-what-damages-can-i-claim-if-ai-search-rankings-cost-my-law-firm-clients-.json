@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What damages can I claim if AI search rankings cost my law firm clients?",
+  "description": "Lost profits if provable; hard causation, need financial proof.[1]",
+  "url": "aiovisibility.com/faq/general-what-damages-can-i-claim-if-ai-search-rankings-cost-my-law-firm-clients-233",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What damages can I claim if AI search rankings cost my law firm clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost profits if provable; hard causation, need financial proof.[1]",
+        "description": "Potential damages include lost profits, proven via financial records, but causation hard against AI platforms.[1][3] Speculative AI estimates inadmissible.[1] Key factors: quantify harm pre/post, expert testimony needed, platforms often immune.[3] Compile 2-3 years financials, client loss affidavits, economic expert report.[1] Realistic valuation key to settlement."
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to measure ROI from Google AI Overviews for Houston immigration attorneys?",
+    "text": "How to measure ROI from Google AI Overviews for Houston immigration attorneys?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Measure ROI by tracking branded queries, form fills from AI referrals, and citation frequency using tools like Semrush for Houston immigration leads.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI drives high-intent traffic; attribute via UTM or console data. Houston attorneys calculate cost-per-lead vs traditional SEO. Focus on conversion-optimized landing pages post-citation."
+      }
+    ]
+  },
+  "name": "ROI Measurement for Houston AI Overviews",
+  "description": "Measure ROI by tracking branded queries, form fills from AI referrals, and citation frequency using tools like Semrush for Houston immigration leads.",
+  "url": "aiovisibility.com/qna/google-ai-overviews-attorneys-how-to-measure-roi-from-google-ai-overviews-for-houston-immi-161"
+}

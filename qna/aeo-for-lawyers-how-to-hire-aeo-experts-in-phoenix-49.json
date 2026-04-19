@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to hire AEO experts in Phoenix?",
+    "text": "How to hire AEO experts in Phoenix?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Hire Phoenix AEO experts via agencies specializing in legal schema/voice; vet with case studies from similar markets.[1][4]",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Local firms like iLawyer Marketing offer AEO; check portfolios for snippet wins. Costs $5K+ projects. DIY viable for solos—experts accelerate in growth hubs.[1][2][4]"
+      }
+    ]
+  },
+  "name": "Hiring AEO Experts in Phoenix",
+  "description": "Hire Phoenix AEO experts via agencies specializing in legal schema/voice; vet with case studies from similar markets.[1][4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-how-to-hire-aeo-experts-in-phoenix-49"
+}

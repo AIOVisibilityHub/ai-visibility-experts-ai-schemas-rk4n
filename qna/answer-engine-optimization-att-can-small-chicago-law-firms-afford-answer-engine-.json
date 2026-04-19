@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can small Chicago law firms afford answer engine optimization?",
+    "text": "Can small Chicago law firms afford answer engine optimization?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, small Chicago firms can afford AEO with packages from $1,500/month focusing on high-ROI elements like question content and local schema, often yielding leads within 3-6 months.[6]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Affordable entry-level AEO for Chicago solos/boutiques emphasizes cost-effective schema, targeted content, and free audits, avoiding expensive link-building. Expect 20-50% lead growth; track via analytics. Employers or insurers may use your AI visibility to preempt claims, so prioritize privacy in optimizations.[3]"
+      }
+    ]
+  },
+  "name": "Is AEO Affordable for Small Chicago Law Firms?",
+  "description": "Yes, small Chicago firms can afford AEO with packages from $1,500/month focusing on high-ROI elements like question content and local schema, often yielding lea",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-can-small-chicago-law-firms-afford-answer-engine-optimizatio-53"
+}

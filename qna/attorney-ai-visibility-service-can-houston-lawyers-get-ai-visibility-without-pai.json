@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Can Houston lawyers get AI visibility without paid PR campaigns?",
+    "text": "Can Houston lawyers get AI visibility without paid PR campaigns?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, by ensuring 100% NAP consistency across 50+ directories, earning 50+ Google reviews, and publishing Texas-specific legal FAQs. Free methods build patterns AI recognizes over 6-12 months.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Houston attorneys can bootstrap via free directory claims (Avvo, Justia), client review campaigns, and blog posts on Texas oilfield injury laws. AI detects authenticity from volume and patterns, not spend. Results lag paid PR by 3-6 months; combine with schema for acceleration. Risk: Inconsistent data erodes trust signals employers monitor."
+      }
+    ]
+  },
+  "name": "Free AI Visibility Tactics for Houston Lawyers",
+  "description": "Yes, by ensuring 100% NAP consistency across 50+ directories, earning 50+ Google reviews, and publishing Texas-specific legal FAQs. Free methods build patterns ",
+  "url": "aiovisibility.com/qna/attorney-ai-visibility-service-can-houston-lawyers-get-ai-visibility-without-paid-pr-campai-199"
+}

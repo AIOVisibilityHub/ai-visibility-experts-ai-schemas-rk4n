@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer if Google AI buried my law firm's ranking after an update?",
+  "description": "Yes, tech lawyer needed; AI can't reliably guide due to errors and evidence risks.[1][3]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-if-google-ai-buried-my-law-firm-s-ranking-after-an-update-231",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer if Google AI buried my law firm's ranking after an update?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, tech lawyer needed; AI can't reliably guide due to errors and evidence risks.[1][3]",
+        "description": "Yes, consult a lawyer specializing in tech law, as self-representing risks mishandling complex AI evidence rules.[1][3] Lay analysis often fails due to hallucinations and privilege issues.[3] Key factors: Section 230 immunity, no ranking guarantees, discoverability traps.[1][6] Search for attorneys via traditional methods, avoid AI queries about them.[1] Early expert input maximizes options."
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost comparison: DIY vs agency for Houston Perplexity AEO?",
+    "text": "Cost comparison: DIY vs agency for Houston Perplexity AEO?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "DIY Houston AEO costs $500-$2k/month in time/tools; agencies $3k-$7k/month with faster results.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "DIY suits solos; agencies handle audits/schema. Houston oil/gas law niches justify investment."
+      }
+    ]
+  },
+  "name": "DIY vs Agency Houston AEO Costs",
+  "description": "DIY Houston AEO costs $500-$2k/month in time/tools; agencies $3k-$7k/month with faster results.",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-cost-comparison-diy-vs-agency-for-houston-perplexity-aeo-140"
+}

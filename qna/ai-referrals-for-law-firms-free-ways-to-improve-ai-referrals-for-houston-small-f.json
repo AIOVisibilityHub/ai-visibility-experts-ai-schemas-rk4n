@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Free ways to improve AI referrals for Houston small firms?",
+    "text": "Free ways to improve AI referrals for Houston small firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Claim/update Avvo/Justia profiles, add FAQ schema, solicit Google reviews, join local bar directories—all free for Houston small firms.[3][2]",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Prioritize consistency across free dirs. Write 10 FAQs with schema. Encourage 5 reviews/month. Houston Bar free listings. No cost, high ROI. Time-intensive; track progress. Larger firms outpace without scale.[3]"
+      }
+    ]
+  },
+  "name": "Free AI Referral Tactics for Houston Small Firms",
+  "description": "Claim/update Avvo/Justia profiles, add FAQ schema, solicit Google reviews, join local bar directories—all free for Houston small firms.[3][2]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-free-ways-to-improve-ai-referrals-for-houston-small-firms-184"
+}

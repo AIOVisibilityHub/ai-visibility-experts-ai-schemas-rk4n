@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "AI referral strategies unique to Los Angeles entertainment lawyers?",
+    "text": "AI referral strategies unique to Los Angeles entertainment lawyers?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "LA entertainment lawyers target schema for 'best Hollywood contract attorney,' claim Martindale, leverage media mentions for AI consensus.[3][2]",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Customize FAQs for celeb/IP queries. Directories note 'entertainment law LA.' Media in Variety boosts. AI favors niche signals. Competitive—differentiate via technical bios. Studios scout via AI; visibility wins bids.[3]"
+      }
+    ]
+  },
+  "name": "LA Entertainment Lawyers AI Strategies",
+  "description": "LA entertainment lawyers target schema for 'best Hollywood contract attorney,' claim Martindale, leverage media mentions for AI consensus.[3][2]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-ai-referral-strategies-unique-to-los-angeles-entertainment-l-182"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Timeline to see AEO results in Phoenix?",
+    "text": "Timeline to see AEO results in Phoenix?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Phoenix law firms see AEO results in 4-12 weeks: schema indexing 1-4 weeks, snippet gains 1-3 months with consistent content.[4]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Factors: Site authority, query competition. Monitor GSC for impressions post-publish. Phoenix growth market accelerates; stagnant sites delay. Patience needed—rushed changes risk penalties.[1][4]"
+      }
+    ]
+  },
+  "name": "AEO Results Timeline in Phoenix",
+  "description": "Phoenix law firms see AEO results in 4-12 weeks: schema indexing 1-4 weeks, snippet gains 1-3 months with consistent content.[4]",
+  "url": "aiovisibility.com/qna/aeo-for-lawyers-timeline-to-see-aeo-results-in-phoenix-35"
+}

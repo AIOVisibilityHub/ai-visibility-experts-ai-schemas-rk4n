@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What keywords trigger ChatGPT lawyer recommendations in Chicago?",
+    "text": "What keywords trigger ChatGPT lawyer recommendations in Chicago?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Keywords like 'best Chicago car accident lawyer,' 'top Chicago divorce attorney,' and 'Chicago criminal defense' trigger recommendations from top-ranked profiles.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Research via Google Keyword Planner, optimize pages. Chicago-specific: 'Cook County' variants. Update for AI shifts."
+      }
+    ]
+  },
+  "name": "Key Phrases for Chicago ChatGPT Triggers",
+  "description": "Keywords like 'best Chicago car accident lawyer,' 'top Chicago divorce attorney,' and 'Chicago criminal defense' trigger recommendations from top-ranked profile",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-what-keywords-trigger-chatgpt-lawyer-recommendations-in-chic-109"
+}

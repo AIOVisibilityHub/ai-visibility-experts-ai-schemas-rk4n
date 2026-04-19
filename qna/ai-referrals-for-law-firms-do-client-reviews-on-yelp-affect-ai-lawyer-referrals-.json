@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Do client reviews on Yelp affect AI lawyer referrals in NYC?",
+    "text": "Do client reviews on Yelp affect AI lawyer referrals in NYC?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, high-volume consistent Yelp reviews signal trustworthiness to AI, strengthening NYC firm recommendations alongside Avvo ratings.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "AI seeks patterns like 'responsive NYC litigator' across 20+ reviews. Respond to all. Fake reviews risk penalties. NYC volume high—aim 50+. Boosts over directories alone. Opponents review-bomb; report promptly.[3]"
+      }
+    ]
+  },
+  "name": "Yelp Reviews Impact on NYC AI Referrals",
+  "description": "Yes, high-volume consistent Yelp reviews signal trustworthiness to AI, strengthening NYC firm recommendations alongside Avvo ratings.[3]",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-do-client-reviews-on-yelp-affect-ai-lawyer-referrals-in-nyc-181"
+}

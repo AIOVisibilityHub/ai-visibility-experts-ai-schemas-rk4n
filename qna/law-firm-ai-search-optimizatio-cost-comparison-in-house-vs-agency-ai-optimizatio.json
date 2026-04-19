@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Cost comparison: In-house vs agency AI optimization for Denver firms?",
+    "text": "Cost comparison: In-house vs agency AI optimization for Denver firms?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In-house: $50k/year staff; agency: $15k-$30k with tools/expertise. Agencies yield 2x faster results.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Denver: Agencies handle multi-AI tracking; in-house suits large firms. Factor training costs; ROI higher with pros per Clutch data."
+      }
+    ]
+  },
+  "name": "In-House vs Agency Costs in Denver",
+  "description": "In-house: $50k/year staff; agency: $15k-$30k with tools/expertise. Agencies yield 2x faster results.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-cost-comparison-in-house-vs-agency-ai-optimization-for-denve-93"
+}

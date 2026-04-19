@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How to recover AI visibility after Google algorithm update in Dallas?",
+    "text": "How to recover AI visibility after Google algorithm update in Dallas?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Re-optimize schema, add fresh Dallas citations, test in 5 AIs. Recovery in 4-8 weeks with citability focus.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Post-update: Audit drop sources, diversify beyond Google. Dallas firms: Emphasize TX dockets. Monitor via SEMrush AI tools; prevent with ongoing GEO."
+      }
+    ]
+  },
+  "name": "Recovering AI Visibility After Updates in Dallas",
+  "description": "Re-optimize schema, add fresh Dallas citations, test in 5 AIs. Recovery in 4-8 weeks with citability focus.",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-how-to-recover-ai-visibility-after-google-algorithm-update-i-91"
+}

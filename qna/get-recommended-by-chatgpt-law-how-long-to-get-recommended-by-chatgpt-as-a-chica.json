@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long to get recommended by ChatGPT as a Chicago lawyer?",
+    "text": "How long to get recommended by ChatGPT as a Chicago lawyer?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Typically 3-6 months for Chicago lawyers with aggressive SEO, reviews, and content; faster if featured in Best Lawyers or top Google results.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Depends on competition—start with local citations, then content. Chicago's market is saturated, so specialize. Track progress weekly. Clients may expect quick wins, but AI lags web indexing."
+      }
+    ]
+  },
+  "name": "Timeline for Chicago ChatGPT Recommendations",
+  "description": "Typically 3-6 months for Chicago lawyers with aggressive SEO, reviews, and content; faster if featured in Best Lawyers or top Google results.",
+  "url": "aiovisibility.com/qna/get-recommended-by-chatgpt-law-how-long-to-get-recommended-by-chatgpt-as-a-chicago-lawyer-104"
+}

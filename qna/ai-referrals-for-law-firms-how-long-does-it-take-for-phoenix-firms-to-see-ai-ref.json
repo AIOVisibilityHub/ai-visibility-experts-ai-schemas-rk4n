@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How long does it take for Phoenix firms to see AI referral traffic after profile updates?",
+    "text": "How long does it take for Phoenix firms to see AI referral traffic after profile updates?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Phoenix firms may see AI referral increases in 2-6 weeks after updating directories and adding schema, as crawlers index changes and review patterns solidify.[3][2]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Timeline varies: immediate for Google indexes, 2-4 weeks for directory propagation to AI models, up to 6 weeks for review signals. Monitor via analytics for 'ChatGPT referral' spikes. Phoenix market competitive—consistent updates needed. Delays if NAP inconsistencies exist. Clients or insurers verify via same AIs; speed builds trust edge.[2][3]"
+      }
+    ]
+  },
+  "name": "Timeline for AI Referral Boost in Phoenix",
+  "description": "Phoenix firms may see AI referral increases in 2-6 weeks after updating directories and adding schema, as crawlers index changes and review patterns solidify.[3",
+  "url": "aiovisibility.com/qna/ai-referrals-for-law-firms-how-long-does-it-take-for-phoenix-firms-to-see-ai-referral-t-175"
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What costs $5,000-$20,000 for AI search optimization packages in New York?",
+    "text": "What costs $5,000-$20,000 for AI search optimization packages in New York?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Entry-level NY GEO packages ($5k-$10k) cover audits and schema; full-service ($15k-$20k+) includes content creation, monitoring 10+ AIs, and quarterly reports tailored to NY regulations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "NY agencies charge based on firm size; budget $10k initial for diagnostics and setup, $2k/month ongoing. ROI via 20-50% lead increase. Compare vendors via Clutch reviews; negotiate for NY Bar compliance audits to avoid hidden ethics fees."
+      }
+    ]
+  },
+  "name": "AI Optimization Costs for New York Law Firms",
+  "description": "Entry-level NY GEO packages ($5k-$10k) cover audits and schema; full-service ($15k-$20k+) includes content creation, monitoring 10+ AIs, and quarterly reports t",
+  "url": "aiovisibility.com/qna/law-firm-ai-search-optimizatio-what-costs-5-000-20-000-for-ai-search-optimization-packages--79"
+}

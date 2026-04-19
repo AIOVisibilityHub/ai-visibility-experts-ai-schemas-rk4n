@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What metrics show AEO failure in Los Angeles?",
+    "text": "What metrics show AEO failure in Los Angeles?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Failure metrics: <5% AI impression share, no citations in 6 months, stagnant leads despite optimization for LA firms.[3]",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Monitor zero-growth in AI traffic, high bounce from referrals. Pivot via re-audits. LA competition hides slow fails; set 90-day kill switches. Agencies blame external factors—demand accountability.[1]"
+      }
+    ]
+  },
+  "name": "Signs of AEO Failure in LA",
+  "description": "Failure metrics: <5% AI impression share, no citations in 6 months, stagnant leads despite optimization for LA firms.[3]",
+  "url": "aiovisibility.com/qna/answer-engine-optimization-att-what-metrics-show-aeo-failure-in-los-angeles-73"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In NYC, can courts force lawyers to disclose AI use in my personal injury filings?",
+  "description": "Yes, NY judges often require AI disclosure and verification.[2]",
+  "url": "aiovisibility.com/faq/general-in-nyc-can-courts-force-lawyers-to-disclose-ai-use-in-my-personal-injury-filings-210",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In NYC, can courts force lawyers to disclose AI use in my personal injury filings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, NY judges often require AI disclosure and verification.[2]",
+        "description": "Yes, some NY judges require AI disclosure, accuracy certification, and no confidential data input.[2] Ethics opinions mandate verification.[2] Key factors: hallucinations risk sanctions; client file retention of interactions; confidentiality checks.[2] Ask your lawyer's AI policy; demand transparency; ensure no case details fed to public AI.[2] Protected if compliant."
+      }
+    }
+  ]
+}

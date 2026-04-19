@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I delete my AI chats about my Phoenix crash before talking to a lawyer?",
+  "description": "No—preserves evidence; deletion = sanctions risk.[1]",
+  "url": "aiovisibility.com/faq/general-should-i-delete-my-ai-chats-about-my-phoenix-crash-before-talking-to-a-lawyer-214",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I delete my AI chats about my Phoenix crash before talking to a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No—preserves evidence; deletion = sanctions risk.[1]",
+        "description": "No, deletion risks spoliation sanctions; preserve everything.[1] Courts view it as hiding evidence.[1] Key factors: discoverability anyway via providers; intent inference; ethical duties.[1] Screenshot and share with counsel; use secure storage; never alter.[1] Transparency builds trust."
+      }
+    }
+  ]
+}

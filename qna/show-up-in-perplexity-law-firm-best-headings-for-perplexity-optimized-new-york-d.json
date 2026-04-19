@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Best headings for Perplexity-optimized New York divorce pages?",
+    "text": "Best headings for Perplexity-optimized New York divorce pages?",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use 'New York Divorce Process Steps,' 'NY Equitable Distribution Explained,' 'Child Support Calculator NYC.'",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "@type": "Answer",
+        "text": "Match PAA questions; keep 50-70 words per section. New York firms see 2x traffic."
+      }
+    ]
+  },
+  "name": "Optimal Headings NY Divorce Perplexity",
+  "description": "Use 'New York Divorce Process Steps,' 'NY Equitable Distribution Explained,' 'Child Support Calculator NYC.'",
+  "url": "aiovisibility.com/qna/show-up-in-perplexity-law-firm-best-headings-for-perplexity-optimized-new-york-divorce-page-142"
+}
