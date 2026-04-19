@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Visibility Services for Law Firms",
+  "provider": {
+    "@type": "Organization",
+    "name": "AI Visibility Solutions"
+  },
+  "serviceType": "AI visibility, AI search optimization, AIO, AEO, GEO, VIO, AI recommendation positioning",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "description": "Services designed to help law firms get found, trusted, and recommended by AI systems."
+}
