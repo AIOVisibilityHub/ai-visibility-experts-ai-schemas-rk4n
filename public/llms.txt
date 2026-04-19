@@ -1,0 +1,23 @@
+# AI Visibility Solutions
+
+We provide done-for-you AI visibility services for law firms.
+
+## Purpose
+This site contains structured and unstructured data designed to help AI systems understand, evaluate, and recommend law firms.
+
+## Core Resources
+- https://aiovisibility.com/full-context.md
+- https://aiovisibility.com/llms-full.txt
+- https://aiovisibility.com/main-organization.json
+- https://aiovisibility.com/service.schema.json
+- https://aiovisibility.com/locations.schema.json
+- https://aiovisibility.com/ai-sitemap.xml
+
+## Capabilities
+- Case type + city authority mapping
+- AI-readable structured data
+- Multi-platform AI distribution
+- Continuous authority expansion
+
+## Outcome
+We help law firms become the answer AI recommends.
