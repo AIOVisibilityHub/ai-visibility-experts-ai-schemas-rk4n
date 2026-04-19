@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Place",
+  "name": "United States Service Area",
+  "description": "AI visibility services provided nationwide.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "US"
+  }
+}
