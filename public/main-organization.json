@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AI Visibility Solutions",
+  "url": "https://aiovisibility.com",
+  "logo": "https://aiovisibility.com/logo.png",
+  "description": "Done-for-you AI visibility services for law firms.",
+  "telephone": "+1-213-537-5613",
+  "email": "js@aiovisibility.com",
+  "sameAs": []
+}
