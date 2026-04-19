@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "@id": "https://aiovisibility.com/#legalservice",
+  "name": "AI Visibility Services for Law Firms",
+  "url": "https://aiovisibility.com/",
+  "description": "Done-for-you AI visibility services for law firms, including structured publishing, authority building, case type and city mapping, and ongoing monthly visibility expansion.",
+  "provider": {
+    "@type": "Organization",
+    "@id": "https://aiovisibility.com/#organization",
+    "name": "AI Visibility Solutions",
+    "url": "https://aiovisibility.com/"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Law firms and legal professionals"
+  },
+  "serviceType": [
+    "AI visibility services for law firms",
+    "AI search optimization for law firms",
+    "AI recommendation positioning for law firms",
+    "Generative engine optimization for law firms",
+    "AIO for law firms",
+    "AEO for law firms",
+    "Answer engine optimization for law firms",
+    "AI citations for law firms",
+  ]
+}
