@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No documentation of Google AI prompts in Houston—case dead?",
+  "description": "Reconstruct via history/subpoena; viable.[4]",
+  "url": "aiovisibility.com/faq/general-no-documentation-of-google-ai-prompts-in-houston-case-dead-170",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No documentation of Google AI prompts in Houston—case dead?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reconstruct via history/subpoena; viable.[4]",
+        "description": "No, reconstruct via browser history, account logs, subpoenas to Google if needed; courts accept secondary evidence.[4] Factors: partner testimony. Expert recreates likely outputs."
+      }
+    }
+  ]
+}

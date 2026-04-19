@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I breach AEO accidentally?",
+  "description": "**Report immediately**, face sanctions.[3]",
+  "url": "aiovisibility.com/faq/general-what-if-i-breach-aeo-accidentally-46",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I breach AEO accidentally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Report immediately**, face sanctions.[3]",
+        "description": "**Immediate self-report, seek protective order amendment; risks contempt, sanctions.**[3]\n\nViolations serious due to sensitivity.[5]\n\n- **No publication**: Core limit.[3]\n- **Court discretion**: Mitigate with candor.\n- **Ethics hit**: Client harm possible.\n\nNotify court/opponent fast; clawback protocol."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My Chicago firm's website is SEO-optimized but invisible to AI—why?",
+  "description": "AI skips websites; needs Chambers/Best Lawyers citations in Chicago.[3]",
+  "url": "aiovisibility.com/faq/general-my-chicago-firm-s-website-is-seo-optimized-but-invisible-to-ai-why-5",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My Chicago firm's website is SEO-optimized but invisible to AI—why?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI skips websites; needs Chambers/Best Lawyers citations in Chicago.[3]",
+        "description": "**AI ignores firm websites as direct sources in large markets like Chicago, citing only authoritative directories instead.** Results pull from Chambers, Best Lawyers, etc., not self-optimized pages. Visibility requires external validation patterns. **Key factors:** 1) No third-party citations; 2) AI favors 'ask/receive' synthesis; 3) Tiered by practice (consumer vs. corporate); 4) PR reinforcement needed. Shift to building directory rankings and cross-verified claims; test Perplexity queries weekly. SEO alone fails here.[3]"
+      }
+    }
+  ]
+}

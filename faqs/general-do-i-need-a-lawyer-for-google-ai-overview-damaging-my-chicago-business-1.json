@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for Google AI Overview damaging my Chicago business?",
+  "description": "Yes, for navigating Section 230 and evidence rules.",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-for-google-ai-overview-damaging-my-chicago-business-166",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for Google AI Overview damaging my Chicago business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for navigating Section 230 and evidence rules.",
+        "description": "Yes, due to complex Section 230 defenses and tech-specific issues.[3] Self-filing risks dismissal. Key factors: Jurisdiction nuances (IL consumer laws); evidence burden; Google’s resources. Start with free consults from IL tech attorneys. Early advice prevents mistakes."
+      }
+    }
+  ]
+}

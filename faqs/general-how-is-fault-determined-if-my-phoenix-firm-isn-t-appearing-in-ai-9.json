@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined if my Phoenix firm isn't appearing in AI?",
+  "description": "Missing third-party authority; audit and apply now.[3]",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-if-my-phoenix-firm-isn-t-appearing-in-ai-9",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined if my Phoenix firm isn't appearing in AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Missing third-party authority; audit and apply now.[3]",
+        "description": "**Primarily by lacking cross-verified authority; AI 'faults' unpatterned self-claims.** No independent signals mean exclusion from recommendations. **Key factors:** 1) Missing Chambers-tier; 2) Isolated website; 3) No PR echo; 4) Practice mismatch. Diagnose via AI queries, fix with targeted recognitions. Fault is fixable fast.[3]"
+      }
+    }
+  ]
+}

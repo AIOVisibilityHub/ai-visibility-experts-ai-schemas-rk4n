@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Delayed business losses from Google AI Overview - claim still good?",
+  "description": "Yes, under discovery rule typically.",
+  "url": "aiovisibility.com/faq/general-delayed-business-losses-from-google-ai-overview-claim-still-good-178",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Delayed business losses from Google AI Overview - claim still good?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, under discovery rule typically.",
+        "description": "Yes, if within statute and provable causation.[3] Key factors: Discovery rule; ongoing harm. Track longitudinally."
+      }
+    }
+  ]
+}

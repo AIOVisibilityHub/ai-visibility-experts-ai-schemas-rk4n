@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is using AI for legal research the same as getting advice from a lawyer?",
+  "description": "No privilege or relationship—AI isn't a lawyer.[1]",
+  "url": "aiovisibility.com/faq/general-is-using-ai-for-legal-research-the-same-as-getting-advice-from-a-lawyer-218",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is using AI for legal research the same as getting advice from a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No privilege or relationship—AI isn't a lawyer.[1]",
+        "description": "No, AI isn't a lawyer, forms no privilege, and its 'advice' can be evidence against you.[1][5] Courts ruled AI disclaims legal roles.[1] Key factors: Research okay if verified; advice-giving unauthorized for non-lawyers; access-to-justice tools emerging but limited.[2][5] Use AI as a starting point only, then consult an attorney. Never rely solely on it."
+      }
+    }
+  ]
+}

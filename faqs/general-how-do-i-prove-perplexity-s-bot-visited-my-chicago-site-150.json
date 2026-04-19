@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove Perplexity's bot visited my Chicago site?",
+  "description": "Server logs + output matches.[1][6]",
+  "url": "aiovisibility.com/faq/general-how-do-i-prove-perplexity-s-bot-visited-my-chicago-site-150",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove Perplexity's bot visited my Chicago site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Server logs + output matches.[1][6]",
+        "description": "Check server logs for PerplexityBot/Perplexity-User user-agents, matching outputs.[1][2] Tribune alleged same.[6] Key factors: IP traces, timestamps align with queries. Wayback for baselines. Expert forensics if disputed. Chicago venue possible via contacts.[1]"
+      }
+    }
+  ]
+}

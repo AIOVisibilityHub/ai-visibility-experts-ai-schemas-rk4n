@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My Phoenix personal injury case—insurance denied citing my ChatGPT use, now what?",
+  "description": "Get lawyer to appeal, emphasize real evidence over AI chats—they're just one piece.[1]",
+  "url": "aiovisibility.com/faq/general-my-phoenix-personal-injury-case-insurance-denied-citing-my-chatgpt-use-now-what-241",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My Phoenix personal injury case—insurance denied citing my ChatGPT use, now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get lawyer to appeal, emphasize real evidence over AI chats—they're just one piece.[1]",
+        "description": "Appeal denial with attorney, arguing AI irrelevance or context.[1] *Heppner*-like rulings make AI chats admissible for inconsistencies, but not sole denial basis.[1][2] Arizona follows discovery norms.\n\n**Key factors:**\n- Prove chats don't admit fault.\n- Strong medical/witness evidence overrides.\n- Bad faith if denial pretextual.\n\nDemand policy copy, file suit if bad faith; counter with non-AI proof. Avoid adjuster solo talks.[1] Escalate to lawyer immediately."
+      }
+    }
+  ]
+}

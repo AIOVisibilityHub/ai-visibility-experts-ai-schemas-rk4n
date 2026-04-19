@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My opponent marked everything AEO - is that allowed?",
+  "description": "**Overuse of AEO is sanctionable** - must be sparing for real trade secrets only.[1]",
+  "url": "aiovisibility.com/faq/general-my-opponent-marked-everything-aeo-is-that-allowed-27",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My opponent marked everything AEO - is that allowed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Overuse of AEO is sanctionable** - must be sparing for real trade secrets only.[1]",
+        "description": "**No, overuse of AEO designations is not allowed and can lead to sanctions, as ruled in New York courts.**[1]\n\nCourts require AEO for truly sensitive info like trade secrets, not routine docs or tactics.[1][2] Google was sanctioned for mass designations later withdrawn.[1]\n\n- **Sparingly used**: Per court guidelines.[1]\n- **Evidence of tactic**: Large volumes, delayed de-designations signal abuse.[1]\n- **Federal/NY parallel**: Stresses competitor harm.[2]\n\nChallenge via motion, meet/confer first, cite specific over-designations. Track patterns for sanctions argument."
+      }
+    }
+  ]
+}

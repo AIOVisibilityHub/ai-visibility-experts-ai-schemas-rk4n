@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if AEO is misused in discovery?",
+  "description": "**Sanctions, forced de-designation** - NY courts punish tactical overuse.[1]",
+  "url": "aiovisibility.com/faq/general-what-happens-if-aeo-is-misused-in-discovery-29",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if AEO is misused in discovery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Sanctions, forced de-designation** - NY courts punish tactical overuse.[1]",
+        "description": "**Misuse like overuse leads to sanctions, de-designation, and court warnings on confidentiality abuse.**[1]\n\nNY court sanctioned Google for tactical AEO on non-sensitive docs, despite later fixes.[1] Federal cases limit to competitor risks.[2]\n\n- **Sanctions possible**: Monetary or adverse inferences.[1]\n- **De-designation**: Bulk removal ordered.[1]\n- **Broader caution**: All confidentiality overuse risky.[1]\n\nObject promptly in meet/confer, motion to compel if needed. Document opponent's delays."
+      }
+    }
+  ]
+}

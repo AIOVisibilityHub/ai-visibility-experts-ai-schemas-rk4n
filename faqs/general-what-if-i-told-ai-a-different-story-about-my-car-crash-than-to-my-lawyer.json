@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I told AI a different story about my car crash than to my lawyer?",
+  "description": "Contradictions kill credibility—disclose to lawyer now.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-i-told-ai-a-different-story-about-my-car-crash-than-to-my-lawyer-221",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I told AI a different story about my car crash than to my lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contradictions kill credibility—disclose to lawyer now.[1]",
+        "description": "Inconsistencies become weapons in deposition or trial via discovery.[1] AI records prove contradictions.[1] Key factors: Speculations on fault or events are quotable; no deletion helps.[1] Disclose to your lawyer ASAP for damage control. Align your narrative professionally."
+      }
+    }
+  ]
+}

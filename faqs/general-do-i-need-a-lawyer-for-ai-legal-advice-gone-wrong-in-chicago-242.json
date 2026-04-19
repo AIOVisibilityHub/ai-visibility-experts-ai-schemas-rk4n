@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for AI legal advice gone wrong in Chicago?",
+  "description": "Yes—AI risks + privilege issues make lawyer essential.[1][4]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-for-ai-legal-advice-gone-wrong-in-chicago-242",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for AI legal advice gone wrong in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—AI risks + privilege issues make lawyer essential.[1][4]",
+        "description": "Yes, especially with discoverability risks.[1][4] Self-representing amplifies *Heppner* harms, as pro se lacks privilege claims.[1][3] Illinois courts likely follow federal AI rulings.\n\n**Key factors:**\n- Privilege harder without counsel.\n- Hallucinations common (1/6+).[4]\n- Costly mistakes in discovery.\n\nHire experienced in tech evidence; free consults common. Don't pro se complex AI-tainted cases.[4] Act before evidence used against you."
+      }
+    }
+  ]
+}

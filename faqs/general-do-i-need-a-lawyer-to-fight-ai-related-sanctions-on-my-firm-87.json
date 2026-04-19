@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer to fight AI-related sanctions on my firm?",
+  "description": "Yes, get ethics lawyer for sanctions defense.[1]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-to-fight-ai-related-sanctions-on-my-firm-87",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer to fight AI-related sanctions on my firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, get ethics lawyer for sanctions defense.[1]",
+        "description": "Yes, specialized ethics counsel to navigate bar, appeals, malpractice risks. Levidow needed representation post-sanction.[1] Key factors: complexity, precedents. Don't self-represent; hire early. Protects firm reputation."
+      }
+    }
+  ]
+}

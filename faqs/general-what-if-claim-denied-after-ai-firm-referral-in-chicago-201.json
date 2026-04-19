@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if claim denied after AI firm referral in Chicago?",
+  "description": "Sue referrer; IL 2 years; link denial to AI.[5]",
+  "url": "aiovisibility.com/faq/general-what-if-claim-denied-after-ai-firm-referral-in-chicago-201",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if claim denied after AI firm referral in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue referrer; IL 2 years; link denial to AI.[5]",
+        "description": "Appeal internally then sue referrer for negligence; IL 2-year malpractice limit. AI intake errors common pitfalls.[5] Factors: denial reasons tied to referral flaws. Gather underwriting docs. New lawyer essential."
+      }
+    }
+  ]
+}

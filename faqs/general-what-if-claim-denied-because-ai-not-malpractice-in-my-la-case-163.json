@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if claim denied because 'AI not malpractice' in my LA case?",
+  "description": "Appeal with AI negligence precedents like NY sanctions.[2]",
+  "url": "aiovisibility.com/faq/general-what-if-claim-denied-because-ai-not-malpractice-in-my-la-case-163",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if claim denied because 'AI not malpractice' in my LA case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal with AI negligence precedents like NY sanctions.[2]",
+        "description": "Appeal denial citing NY cases holding lawyers accountable for unverified AI, proving negligence standard applies regardless of tool.[1][2] Factors: policy language, exhaustion of internal appeals. File bad faith if unreasonable denial. Switch to malpractice suit if uninsured."
+      }
+    }
+  ]
+}

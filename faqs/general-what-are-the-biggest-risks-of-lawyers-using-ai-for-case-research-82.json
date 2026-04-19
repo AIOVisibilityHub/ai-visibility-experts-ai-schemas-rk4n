@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest risks of lawyers using AI for case research?",
+  "description": "Sanctions, suits, discipline; always verify AI output.[1][2]",
+  "url": "aiovisibility.com/faq/general-what-are-the-biggest-risks-of-lawyers-using-ai-for-case-research-82",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest risks of lawyers using AI for case research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sanctions, suits, discipline; always verify AI output.[1][2]",
+        "description": "Sanctions, malpractice suits, bar discipline for fake citations or privilege waiver. NY courts sanctioned Levidow for ChatGPT fakes and ruled AI outputs non-privileged in Heppner.[1][2][3] Key factors: no verification, third-party disclosure. Train staff, use human review. Risks rising with AI scrutiny."
+      }
+    }
+  ]
+}

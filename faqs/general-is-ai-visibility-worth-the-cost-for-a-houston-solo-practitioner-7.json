@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI visibility worth the cost for a Houston solo practitioner?",
+  "description": "Yes for consumer law; $500+ listings yield free leads.[3]",
+  "url": "aiovisibility.com/faq/general-is-ai-visibility-worth-the-cost-for-a-houston-solo-practitioner-7",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI visibility worth the cost for a Houston solo practitioner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for consumer law; $500+ listings yield free leads.[3]",
+        "description": "**Yes, if targeting consumer practices, as AI drives client leads without ad spend.** Direct recommendations convert high since users trust synthesized results. Costs for key listings range $500-$5K/year. **Key factors:** 1) Practice area (PI/family high ROI); 2) Local competition; 3) Lead volume vs. expense; 4) Measurable audits. Weigh against current leads, start with affordable Avvo/Super Lawyers, track ROI via unique queries. Skip if institutional-only.[3]"
+      }
+    }
+  ]
+}

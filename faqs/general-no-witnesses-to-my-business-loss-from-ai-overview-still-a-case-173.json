@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my business loss from AI Overview - still a case?",
+  "description": "Yes, use traffic data as proxy evidence.",
+  "url": "aiovisibility.com/faq/general-no-witnesses-to-my-business-loss-from-ai-overview-still-a-case-173",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my business loss from AI Overview - still a case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, use traffic data as proxy evidence.",
+        "description": "Circumstantial evidence like analytics suffices if strong.[1] Key factors: Before/after data; market comparisons. Build digital trail. Viable nationwide."
+      }
+    }
+  ]
+}

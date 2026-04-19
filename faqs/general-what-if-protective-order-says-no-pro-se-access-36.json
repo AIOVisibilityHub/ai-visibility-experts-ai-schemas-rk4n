@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if protective order says no pro se access?",
+  "description": "**Motion with letter + declaration** to modify.[3]",
+  "url": "aiovisibility.com/faq/general-what-if-protective-order-says-no-pro-se-access-36",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if protective order says no pro se access?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Motion with letter + declaration** to modify.[3]",
+        "description": "**File a motion to modify, with letter request and declaration of refusal.**[3]\n\nCourts adapt for pro se as own counsel, adding use limits.[3]\n\n- **Penalty of perjury**: Attach evidence.[3]\n- **Prep need**: Argue trial impairment.[3]\n- **No self-help**: Avoid violations.\n\nDraft letter explaining necessity; escalate to court promptly."
+      }
+    }
+  ]
+}

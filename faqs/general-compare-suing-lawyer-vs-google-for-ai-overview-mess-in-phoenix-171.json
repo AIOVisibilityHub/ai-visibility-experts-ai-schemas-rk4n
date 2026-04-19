@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare suing lawyer vs. Google for AI Overview mess in Phoenix?",
+  "description": "Lawyer easier win; Google TOS blocks.[7]",
+  "url": "aiovisibility.com/faq/general-compare-suing-lawyer-vs-google-for-ai-overview-mess-in-phoenix-171",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare suing lawyer vs. Google for AI Overview mess in Phoenix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lawyer easier win; Google TOS blocks.[7]",
+        "description": "Sue lawyer easier—direct duty, precedents; Google protected by TOS/immunity harder.[7] Factors: Google's Section 230 shield. Lawyer suit faster recovery."
+      }
+    }
+  ]
+}

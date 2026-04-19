@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a case against a Houston firm for bad AI referral?",
+  "description": "2 years from discovery in TX; don't delay.",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-file-a-case-against-a-houston-firm-for-bad-ai-referral-179",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a case against a Houston firm for bad AI referral?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2 years from discovery in TX; don't delay.",
+        "description": "In Texas, the statute for legal malpractice is 2 years from when you knew or should have known of the error. Act fast as discovery rule applies. Key factors: (1) Date harm discovered; (2) Continuous representation tolling; (3) Written notice required pre-suit. Track timelines meticulously. Consult a Texas malpractice expert immediately to avoid missing deadlines."
+      }
+    }
+  ]
+}

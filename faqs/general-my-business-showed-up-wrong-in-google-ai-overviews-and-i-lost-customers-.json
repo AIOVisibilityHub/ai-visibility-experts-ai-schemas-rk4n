@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My business showed up wrong in Google AI Overviews and I lost customers - can I sue Google?",
+  "description": "Unlikely due to Section 230 immunity; document losses and seek tech liability counsel.",
+  "url": "aiovisibility.com/faq/general-my-business-showed-up-wrong-in-google-ai-overviews-and-i-lost-customers-can-i-su-160",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My business showed up wrong in Google AI Overviews and I lost customers - can I sue Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlikely due to Section 230 immunity; document losses and seek tech liability counsel.",
+        "description": "No, you likely cannot sue Google successfully for business losses from inaccurate AI Overviews, as Section 230 of the Communications Decency Act immunizes them from liability for user-generated content summaries.[1][4] Courts have not recognized viable claims against Google for AI hallucinations in search features, similar to past SEO disputes. Key factors: Prove direct causation between AI error and losses; Section 230 bars most claims; no precedent for AI Overview-specific damages. Document all lost revenue evidence immediately, consult a lawyer experienced in tech liability, and consider reputation management alternatives. Nationwide applicability, but state consumer laws may offer limited angles."
+      }
+    }
+  ]
+}

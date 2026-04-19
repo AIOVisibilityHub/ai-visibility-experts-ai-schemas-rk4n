@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I qualify for free consult on AI referral malpractice in Seattle?",
+  "description": "Yes, free evals standard.[3]",
+  "url": "aiovisibility.com/faq/general-do-i-qualify-for-free-consult-on-ai-referral-malpractice-in-seattle-209",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I qualify for free consult on AI referral malpractice in Seattle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, free evals standard.[3]",
+        "description": "Yes, most malpractice lawyers offer free evals nationwide. WA 3-year limit, AI competence required.[3] Factors: clear harm evidence. Search 'AI legal malpractice attorney'. No upfront cost typical."
+      }
+    }
+  ]
+}

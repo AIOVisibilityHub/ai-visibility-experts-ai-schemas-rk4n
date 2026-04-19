@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can ChatGPT really give me legal advice for my New York rental dispute or is it dangerous?",
+  "description": "No, it can't give reliable advice; verify with a real NY lawyer to avoid errors.[1]",
+  "url": "aiovisibility.com/faq/general-can-chatgpt-really-give-me-legal-advice-for-my-new-york-rental-dispute-or-is-it--104",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can ChatGPT really give me legal advice for my New York rental dispute or is it dangerous?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it can't give reliable advice; verify with a real NY lawyer to avoid errors.[1]",
+        "description": "ChatGPT cannot provide accurate legal advice and may hallucinate facts or laws, making it dangerous for real cases.[1] It's useful for overviews or brainstorming but requires lawyer verification, especially in jurisdiction-specific matters like New York contracts.[1] Key factors: Lacks judgment and ethical duties; privacy risks with client data; past cases show fabricated citations.[2] Use it only for initial research, then see a New York-barred attorney; never file AI outputs directly. Lawyers remain essential."
+      }
+    }
+  ]
+}

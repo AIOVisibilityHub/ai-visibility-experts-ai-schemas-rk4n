@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm partially at fault for relying on Google AI Overview advice - can I still sue?",
+  "description": "Yes, but reduced by your fault percentage.",
+  "url": "aiovisibility.com/faq/general-i-m-partially-at-fault-for-relying-on-google-ai-overview-advice-can-i-still-sue-172",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm partially at fault for relying on Google AI Overview advice - can I still sue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but reduced by your fault percentage.",
+        "description": "Comparative fault reduces recovery; must prove Google's negligence outweighed yours.[4] No direct precedent. Key factors: Reliance reasonableness; warnings ignored. Assess with attorney."
+      }
+    }
+  ]
+}

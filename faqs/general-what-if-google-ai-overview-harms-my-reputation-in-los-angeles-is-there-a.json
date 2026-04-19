@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if Google AI Overview harms my reputation in Los Angeles - is there a CA lawsuit?",
+  "description": "Section 230 blocks most claims; check CA-specific torts with local attorney.",
+  "url": "aiovisibility.com/faq/general-what-if-google-ai-overview-harms-my-reputation-in-los-angeles-is-there-a-ca-laws-163",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if Google AI Overview harms my reputation in Los Angeles - is there a CA lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Section 230 blocks most claims; check CA-specific torts with local attorney.",
+        "description": "Limited options; Section 230 likely shields Google, but CA right of publicity or false light claims might apply narrowly.[2] No AI Overview-specific CA precedent yet. Key factors: Public figure status; falsity and harm proof; immunity challenges. Screenshot errors, notify Google, explore insurance for reputation damage. Seek LA business litigation counsel."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "NY vs California AI legal evidence rules different?",
+  "description": "Very similar—AI not privileged either place.[1][4]",
+  "url": "aiovisibility.com/faq/general-ny-vs-california-ai-legal-evidence-rules-different-257",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "NY vs California AI legal evidence rules different?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Very similar—AI not privileged either place.[1][4]",
+        "description": "Similar; both follow *Heppner* privilege denial, state bars AI guidance.[1][4] Fed rules apply.\n\n**Key factors:**\n- No priv self-AI.\n- CA/NY supervision duty.\n- Discovery broad.\n\nNat'l consistency; local bar check. Lawyer per state.[4] Uniform risk."
+      }
+    }
+  ]
+}

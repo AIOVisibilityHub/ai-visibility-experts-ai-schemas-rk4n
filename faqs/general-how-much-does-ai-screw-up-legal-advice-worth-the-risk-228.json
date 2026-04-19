@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI screw up legal advice—worth the risk?",
+  "description": "Often hallucinates—too risky for advice.[3]",
+  "url": "aiovisibility.com/faq/general-how-much-does-ai-screw-up-legal-advice-worth-the-risk-228",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI screw up legal advice—worth the risk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often hallucinates—too risky for advice.[3]",
+        "description": "High hallucination rates make it unreliable; verification mandatory but risky without expertise.[3][5] Courts punish errors.[3] Key factors: No privilege amplifies dangers; better for low-risk research.[2] Skip for case specifics. Use lawyers only."
+      }
+    }
+  ]
+}

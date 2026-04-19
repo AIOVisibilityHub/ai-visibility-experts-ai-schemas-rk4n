@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need if Google AI Overview gave my Phoenix lawyer bogus case law?",
+  "description": "AI logs, fake citations in filings, harm proof like dismissal.[2]",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-if-google-ai-overview-gave-my-phoenix-lawyer-bogus-case--156",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need if Google AI Overview gave my Phoenix lawyer bogus case law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI logs, fake citations in filings, harm proof like dismissal.[2]",
+        "description": "Collect the court filing with fake citations, AI chat logs/screenshots, original prompts, and proof of case harm like dismissal or adverse ruling. NY cases show courts sanction unverified AI hallucinations, strengthening negligence claims.[2] Factors: expert testimony on AI unreliability, damages quantification. Preserve metadata. Compare to verified research showing fakes. This builds causation proof; share with malpractice counsel early."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Delayed symptoms: firm visibility dropped post-AI update—what now?",
+  "description": "Fresh audit + listings.[1]",
+  "url": "aiovisibility.com/faq/general-delayed-symptoms-firm-visibility-dropped-post-ai-update-what-now-22",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Delayed symptoms: firm visibility dropped post-AI update—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fresh audit + listings.[1]",
+        "description": "**Re-audit sources; AI shifts favor fresh, multi-cited authorities.** Updates reset weights. **Key factors:** 1) New listings; 2) PR refresh; 3) Competitor scan; 4) Schema tweaks. Act fast, monitor daily initially. Recover quickly.[1]"
+      }
+    }
+  ]
+}

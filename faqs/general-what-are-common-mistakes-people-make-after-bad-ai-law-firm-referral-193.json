@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common mistakes people make after bad AI law firm referral?",
+  "description": "Not asking about AI, delaying action, poor documentation.[3][4]",
+  "url": "aiovisibility.com/faq/general-what-are-common-mistakes-people-make-after-bad-ai-law-firm-referral-193",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common mistakes people make after bad AI law firm referral?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not asking about AI, delaying action, poor documentation.[3][4]",
+        "description": "Signing retainers without AI questions, delaying complaints, talking to adjusters without lawyer. Many ignore AI role until case fails, per ethics cases.[3] Key factors: not documenting intake, assuming human vetting, missing referral fee disclosures.[4] Immediately consult independent counsel, preserve all docs. Avoid firm pressure to continue."
+      }
+    }
+  ]
+}

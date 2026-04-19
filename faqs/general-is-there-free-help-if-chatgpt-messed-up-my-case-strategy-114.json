@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there free help if ChatGPT messed up my case strategy?",
+  "description": "Try legal aid; disclose AI use.[6]",
+  "url": "aiovisibility.com/faq/general-is-there-free-help-if-chatgpt-messed-up-my-case-strategy-114",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there free help if ChatGPT messed up my case strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Try legal aid; disclose AI use.[6]",
+        "description": "Legal aid societies or pro bono clinics assist low-income users, but explain AI involvement fully.[6] No AI-specific free fixes.[1] Key factors: Income eligibility; case merit; location. Search local bar pro bono; act before deadlines. Verify all advice received."
+      }
+    }
+  ]
+}

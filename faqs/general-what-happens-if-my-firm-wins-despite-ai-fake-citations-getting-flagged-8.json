@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my firm wins despite AI fake citations getting flagged?",
+  "description": "Sanctions persist; Rule 11 independent of case outcome.[1]",
+  "url": "aiovisibility.com/faq/general-what-happens-if-my-firm-wins-despite-ai-fake-citations-getting-flagged-83",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my firm wins despite AI fake citations getting flagged?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sanctions persist; Rule 11 independent of case outcome.[1]",
+        "description": "Sanctions still apply independently; victory doesn't erase Rule 11 violation. Levidow persisted post-flagging, earning bad faith finding.[1] Key factors: initial submission intent, response to scrutiny. Argue good faith, but courts prioritize integrity. Expect fines regardless."
+      }
+    }
+  ]
+}

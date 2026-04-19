@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to prove a law firm used faulty AI for my referral?",
+  "description": "Retainers, emails, firm AI admissions; NY mandates disclosure.[5][8]",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-to-prove-a-law-firm-used-faulty-ai-for-my-referral-191",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to prove a law firm used faulty AI for my referral?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retainers, emails, firm AI admissions; NY mandates disclosure.[5][8]",
+        "description": "Retainer agreements, emails showing AI intake questions, firm website admitting AI use, and case denial letters linking to mismatches. Firms use AI like Finch for pre-litigation autopilot, which can err.[5] Key factors: screenshots of AI chats if accessible, witness statements, expert testimony on AI flaws. NY courts require AI disclosure in filings.[8] Subpoena firm records in suit."
+      }
+    }
+  ]
+}

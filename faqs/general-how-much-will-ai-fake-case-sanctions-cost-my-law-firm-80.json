@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much will AI fake case sanctions cost my law firm?",
+  "description": "$5K+ fines typical, plus defense fees; Levidow example $5K.[1]",
+  "url": "aiovisibility.com/faq/general-how-much-will-ai-fake-case-sanctions-cost-my-law-firm-80",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much will AI fake case sanctions cost my law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$5K+ fines typical, plus defense fees; Levidow example $5K.[1]",
+        "description": "Fines range $1K-$10K per incident plus legal fees; Levidow paid $5K jointly.[1] Key factors: bad faith extent, harm caused, jurisdiction. Budget for bar defense ($10K+), insurance review. Costs escalate with appeals or malpractice claims."
+      }
+    }
+  ]
+}

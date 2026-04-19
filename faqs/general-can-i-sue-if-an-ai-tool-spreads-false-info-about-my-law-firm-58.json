@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue if an AI tool spreads false info about my law firm?",
+  "description": "Possible via defamation/product liability; prove harm.[1]",
+  "url": "aiovisibility.com/faq/general-can-i-sue-if-an-ai-tool-spreads-false-info-about-my-law-firm-58",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue if an AI tool spreads false info about my law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible via defamation/product liability; prove harm.[1]",
+        "description": "**Yes, potentially under defamation, fraud, or product liability if AI outputs provably false, harmful info traceable to biased training.**[1] Attorneys verify creator liability for defects or false info.[1] **Key factors:** 1. Prove intent or negligence in AI design.[1] 2. NY courts address AI fairness.[10] 3. Hard due to black-box models. **Document outputs, notify platform, consult specialist; class actions emerging.**[1] Viable but challenging.[1]"
+      }
+    }
+  ]
+}

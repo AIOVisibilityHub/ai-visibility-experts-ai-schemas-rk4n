@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I asked ChatGPT about my car accident case and it gave me advice - can I get in trouble for using that in court?",
+  "description": "You won't be sanctioned for asking ChatGPT, but filing its unverified outputs risks penalties like in NY cases with fake citations.[2]",
+  "url": "aiovisibility.com/faq/general-i-asked-chatgpt-about-my-car-accident-case-and-it-gave-me-advice-can-i-get-in-tr-101",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I asked ChatGPT about my car accident case and it gave me advice - can I get in trouble for using that in court?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You won't be sanctioned for asking ChatGPT, but filing its unverified outputs risks penalties like in NY cases with fake citations.[2]",
+        "description": "No, you won't get sanctioned just for asking ChatGPT about your case, but submitting unverified AI-generated content like fake case law can lead to penalties.[2] Courts have sanctioned lawyers in New York for filing briefs with fabricated citations from ChatGPT, as in the 2023 Peter LoDuca case where nonexistent cases were cited.[2] Key factors: AI 'hallucinations' create fake legal references; always verify outputs; prompts and AI documents may be discoverable in litigation.[4][5] Consult a licensed attorney immediately to review any AI-assisted materials before filing; do not rely on ChatGPT for legal filings. Human lawyers provide verified advice essential for court."
+      }
+    }
+  ]
+}

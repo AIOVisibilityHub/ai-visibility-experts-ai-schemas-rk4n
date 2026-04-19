@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my case worth if AI Overview tanked my site traffic?",
+  "description": "Quantify losses; expect low settlement value.",
+  "url": "aiovisibility.com/faq/general-how-much-is-my-case-worth-if-ai-overview-tanked-my-site-traffic-183",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my case worth if AI Overview tanked my site traffic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quantify losses; expect low settlement value.",
+        "description": "Lost profits x duration, plus reputational; often $10k-$100k small claims, but 230 kills most.[3] Key factors: Projections; experts. Get valuation."
+      }
+    }
+  ]
+}

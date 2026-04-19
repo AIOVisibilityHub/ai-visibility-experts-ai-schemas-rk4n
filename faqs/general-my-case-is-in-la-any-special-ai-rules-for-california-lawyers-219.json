@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My case is in LA—any special AI rules for California lawyers?",
+  "description": "Verify accuracy and confidentiality like everywhere.[3]",
+  "url": "aiovisibility.com/faq/general-my-case-is-in-la-any-special-ai-rules-for-california-lawyers-219",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My case is in LA—any special AI rules for California lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify accuracy and confidentiality like everywhere.[3]",
+        "description": "California follows national ethics trends: verify AI, protect confidentiality, disclose use where required.[3] No state-specific bans yet, but federal precedents apply.[1] Key factors: Hallucination checks mandatory; secure data; court notifications possible.[3] Confirm your lawyer's compliance. Nationwide consistency grows.[6]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI sanction risk higher in NY federal courts vs state?",
+  "description": "Higher in NY federal; stricter Rule 11 enforcement.[1]",
+  "url": "aiovisibility.com/faq/general-is-ai-sanction-risk-higher-in-ny-federal-courts-vs-state-84",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI sanction risk higher in NY federal courts vs state?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Higher in NY federal; stricter Rule 11 enforcement.[1]",
+        "description": "Yes, federal courts like SDNY aggressively sanction AI misuse per Levidow and Heppner. State courts follow but federal sets precedents.[1][2] Key factors: FRCP 11 strictness, judge discretion. Federal demands higher verification. Tailor practices by venue."
+      }
+    }
+  ]
+}

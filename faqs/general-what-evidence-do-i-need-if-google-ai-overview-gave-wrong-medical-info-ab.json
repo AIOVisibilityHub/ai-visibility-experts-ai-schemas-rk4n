@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need if Google AI Overview gave wrong medical info about my Houston clinic?",
+  "description": "Screenshots, loss metrics, expert links to harm.",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-if-google-ai-overview-gave-wrong-medical-info-about-my-h-167",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need if Google AI Overview gave wrong medical info about my Houston clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Screenshots, loss metrics, expert links to harm.",
+        "description": "Screenshots of AI output, traffic/revenue drop data, patient complaints, expert testimony on harm.[1][2] Key factors: Direct link to losses; falsity proof; no immunity exception. Preserve all digital records now. TX business tort lawyers can assess."
+      }
+    }
+  ]
+}

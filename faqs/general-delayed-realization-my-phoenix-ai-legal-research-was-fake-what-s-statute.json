@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Delayed realization my Phoenix AI legal research was fake—what's statute?",
+  "description": "From discovery of fake research; 2 yrs AZ.[2]",
+  "url": "aiovisibility.com/faq/general-delayed-realization-my-phoenix-ai-legal-research-was-fake-what-s-statute-166",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Delayed realization my Phoenix AI legal research was fake—what's statute?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From discovery of fake research; 2 yrs AZ.[2]",
+        "description": "Discovery rule starts clock when you reasonably learn of harm, e.g., opposing motion; AZ 2 years typical for malpractice.[2] Factors: diligence in checking. Document discovery date. File soon to avoid bars."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured lawyer in Chicago used bad AI—recover anything?",
+  "description": "Personal assets or bar fund; check solvency.[2]",
+  "url": "aiovisibility.com/faq/general-uninsured-lawyer-in-chicago-used-bad-ai-recover-anything-168",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured lawyer in Chicago used bad AI—recover anything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Personal assets or bar fund; check solvency.[2]",
+        "description": "Pursue personal assets or bar fund if available; IL Lawyers Assistance rare for malpractice. Focus judgment collection.[2] Factors: net worth check. Small claims viable under $10K."
+      }
+    }
+  ]
+}

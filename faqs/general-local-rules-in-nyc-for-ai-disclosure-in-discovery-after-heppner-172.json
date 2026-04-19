@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Local rules in NYC for AI disclosure in discovery after Heppner?",
+  "description": "Fully discoverable per SDNY; no privilege.[1]",
+  "url": "aiovisibility.com/faq/general-local-rules-in-nyc-for-ai-disclosure-in-discovery-after-heppner-172",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Local rules in NYC for AI disclosure in discovery after Heppner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fully discoverable per SDNY; no privilege.[1]",
+        "description": "SDNY requires treating AI outputs as discoverable non-privileged; produce prompts/responses if relevant.[1][4] Factors: no auto-protection. Update ESI protocols. Opponents can demand."
+      }
+    }
+  ]
+}

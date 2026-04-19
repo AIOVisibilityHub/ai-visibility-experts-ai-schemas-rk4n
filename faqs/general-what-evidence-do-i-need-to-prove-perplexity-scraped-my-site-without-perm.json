@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to prove Perplexity scraped my site without permission?",
+  "description": "Screenshots, bot logs, query matches—block crawlers now.[1]",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-to-prove-perplexity-scraped-my-site-without-permission-131",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to prove Perplexity scraped my site without permission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Screenshots, bot logs, query matches—block crawlers now.[1]",
+        "description": "Screenshots of AI outputs reproducing your content, server logs showing PerplexityBot crawlers, and query recreations form core evidence.[1] NYT detailed two-stage scraping and output generation.[1] Key factors: crawler user-agent logs, verbatim matches, volume of copies.[1] Use tools like Cloudflare to block bots; subpoena Perplexity's training data if litigating. Solid evidence drives settlements."
+      }
+    }
+  ]
+}

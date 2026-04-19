@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My law firm isn't showing up in AI answers anymore, what happened to our visibility?",
+  "description": "Switch to GEO: structure content for AI citations with local details and FAQs.[2][3]",
+  "url": "aiovisibility.com/faq/general-my-law-firm-isn-t-showing-up-in-ai-answers-anymore-what-happened-to-our-visibili-51",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My law firm isn't showing up in AI answers anymore, what happened to our visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Switch to GEO: structure content for AI citations with local details and FAQs.[2][3]",
+        "description": "**AI search engines now prioritize Generative Engine Optimization (GEO) over traditional SEO, reducing visibility for non-optimized sites.**[2][3] Law firms must adapt by structuring content to answer common client questions directly, as AI tools like Perplexity or ChatGPT cite trusted, authoritative sources in summaries.[3][6] **Key factors:** 1. GEO focuses on AI recommendations, not just rankings.[3] 2. Content needs procedural references, local details, and author attribution for EEAT (Experience, Expertise, Authoritativeness, Trustworthiness).[3] 3. Outdated SEO ignores how users query AI conversationally.[2] **Update your site with FAQs matching real questions like 'DUI process in Phoenix,' add attorney bios, and link local resources; test with AI tools weekly.**[3][4] Early adopters gain 6X-7X ROI in leads.[2]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What damages for trademark harm from Perplexity hallucinations?",
+  "description": "Profits, actual/treble damages, injunction.[1]",
+  "url": "aiovisibility.com/faq/general-what-damages-for-trademark-harm-from-perplexity-hallucinations-138",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What damages for trademark harm from Perplexity hallucinations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Profits, actual/treble damages, injunction.[1]",
+        "description": "Actual damages, defendant's profits, treble for willfulness under Lanham Act.[1] NYT claims false origin confuses users.[1] Key factors: survey evidence of confusion, reputational surveys.[1] Injunctions primary; quantify lost goodwill. High if trademarks registered."
+      }
+    }
+  ]
+}

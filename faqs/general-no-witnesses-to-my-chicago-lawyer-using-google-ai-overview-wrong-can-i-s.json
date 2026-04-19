@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my Chicago lawyer using Google AI Overview wrong—can I still sue?",
+  "description": "Yes, use filings/AI logs as evidence.[2]",
+  "url": "aiovisibility.com/faq/general-no-witnesses-to-my-chicago-lawyer-using-google-ai-overview-wrong-can-i-still-sue-164",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my Chicago lawyer using Google AI Overview wrong—can I still sue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, use filings/AI logs as evidence.[2]",
+        "description": "Yes, circumstantial evidence like filings with hallucinations, AI logs, and expert opinion on standard practice suffice, as in Mata v. Avianca where fakes were proven.[2] Factors: digital trails strong. Courts infer negligence from errors. Bolster with bar complaints."
+      }
+    }
+  ]
+}

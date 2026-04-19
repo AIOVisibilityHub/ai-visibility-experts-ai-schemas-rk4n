@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my case worth if AI referral cost me a big settlement?",
+  "description": "Lost fees + damages; $100k-$500k typical for AI malpractice.[3]",
+  "url": "aiovisibility.com/faq/general-how-much-is-my-case-worth-if-ai-referral-cost-me-a-big-settlement-196",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my case worth if AI referral cost me a big settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost fees + damages; $100k-$500k typical for AI malpractice.[3]",
+        "description": "Value based on lost recovery (e.g., 33% contingency fee times settlement) plus emotional distress; averages $200k+ for clear negligence. Mata-like errors devalue cases.[3] Factors: documented losses, jurisdiction caps (none in NY). Use expert to appraise. Free evals common."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get money if an AI referral from my NY firm cost me my case?",
+  "description": "Recoverable if negligence proven; focus on economic damages in NY.",
+  "url": "aiovisibility.com/faq/general-can-i-get-money-if-an-ai-referral-from-my-ny-firm-cost-me-my-case-181",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get money if an AI referral from my NY firm cost me my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recoverable if negligence proven; focus on economic damages in NY.",
+        "description": "Yes, if malpractice proven, damages include lost settlement value and fees paid. New York caps non-economic damages. Key factors: (1) But-for causation; (2) Expert testimony on AI standards; (3) Mitigation efforts. Calculate economic losses precisely. Hire a quant expert for case valuation."
+      }
+    }
+  ]
+}

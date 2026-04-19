@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My lawyer cited fake AI cases in court and got sanctioned in NY, what happens now?",
+  "description": "Lawyers face $5K fines, judge notifications, bar review; verify all AI output before filing.[1]",
+  "url": "aiovisibility.com/faq/general-my-lawyer-cited-fake-ai-cases-in-court-and-got-sanctioned-in-ny-what-happens-now-76",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My lawyer cited fake AI cases in court and got sanctioned in NY, what happens now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lawyers face $5K fines, judge notifications, bar review; verify all AI output before filing.[1]",
+        "description": "The lawyers and firm face monetary fines, court orders to notify judges, and potential bar discipline. In the Levidow case, Judge Castel imposed a $5,000 fine and required letters to affected judges for citing non-existent ChatGPT-generated cases.[1] Bad faith Rule 11 violations led to sanctions as they failed to verify citations. Key factors: failure to check AI output, ignoring judicial scrutiny, firm liability. Immediately consult bar counsel, disclose to clients, implement AI verification protocols; retain independent counsel for defense. These precedents heighten scrutiny on AI use in NY federal courts."
+      }
+    }
+  ]
+}

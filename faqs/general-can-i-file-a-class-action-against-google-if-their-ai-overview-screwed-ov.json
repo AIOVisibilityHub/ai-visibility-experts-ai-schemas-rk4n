@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I file a class action against Google if their AI Overview screwed over my Chicago business with wrong legal info?",
+  "description": "Unlikely class action success; pursue individual claims against your lawyer instead.[7]",
+  "url": "aiovisibility.com/faq/general-can-i-file-a-class-action-against-google-if-their-ai-overview-screwed-over-my-ch-154",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I file a class action against Google if their AI Overview screwed over my Chicago business with wrong legal info?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlikely class action success; pursue individual claims against your lawyer instead.[7]",
+        "description": "Class actions against Google for AI Overviews are unlikely to succeed due to terms of service disclaimers and lack of precedent for general negligence claims, unlike copyright cases.[7] Heppner and similar rulings highlight AI risks but focus on user responsibility for verification, not platform liability.[1] Factors: prove widespread harm, reliance, and Google's direct fault beyond warnings. Individual malpractice suits against your own lawyers may be stronger. Review Google's TOS; consider small claims for direct losses first. Outcomes favor users verifying AI outputs."
+      }
+    }
+  ]
+}

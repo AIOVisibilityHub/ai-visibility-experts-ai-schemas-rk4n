@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer if AI says my claim is straightforward?",
+  "description": "Yes—AI lacks privilege and accuracy guarantees.[1]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-if-ai-says-my-claim-is-straightforward-222",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer if AI says my claim is straightforward?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—AI lacks privilege and accuracy guarantees.[1]",
+        "description": "Yes, AI can't provide privileged advice or represent you; ignore its assessments.[1][5] Unauthorized practice risks apply.[5] Key factors: AI hallucinates; no relationship forms; courts value human oversight.[1] Get a real attorney for strategy. AI is no substitute."
+      }
+    }
+  ]
+}

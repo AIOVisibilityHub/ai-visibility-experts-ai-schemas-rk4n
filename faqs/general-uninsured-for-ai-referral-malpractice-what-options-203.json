@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured for AI referral malpractice—what options?",
+  "description": "Sue firm assets; most insured via referrals.[4]",
+  "url": "aiovisibility.com/faq/general-uninsured-for-ai-referral-malpractice-what-options-203",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured for AI referral malpractice—what options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue firm assets; most insured via referrals.[4]",
+        "description": "Sue firm directly; most carry malpractice insurance, but if not, assets at risk. Referral fees often insured.[4] Factors: firm size (larger like multi-city have coverage). Small claims if under $10k. Bar disciplinary still free."
+      }
+    }
+  ]
+}

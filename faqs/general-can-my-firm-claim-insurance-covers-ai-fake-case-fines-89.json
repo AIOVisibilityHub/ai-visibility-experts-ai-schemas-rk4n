@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my firm claim insurance covers AI fake case fines?",
+  "description": "Maybe, if negligence not intentional; check policy.[1]",
+  "url": "aiovisibility.com/faq/general-can-my-firm-claim-insurance-covers-ai-fake-case-fines-89",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my firm claim insurance covers AI fake case fines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe, if negligence not intentional; check policy.[1]",
+        "description": "Possibly under malpractice policy if negligence covered, not intentional. Levidow $5K likely insurable minus bad faith.[1] Key factors: policy exclusions, intent finding. Notify carrier immediately, review terms. Expect scrutiny."
+      }
+    }
+  ]
+}

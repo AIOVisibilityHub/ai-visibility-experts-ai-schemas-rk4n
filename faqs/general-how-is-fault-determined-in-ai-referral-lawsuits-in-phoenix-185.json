@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in AI referral lawsuits in Phoenix?",
+  "description": "Expert testimony on standards proves fault in AZ.",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-in-ai-referral-lawsuits-in-phoenix-185",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in AI referral lawsuits in Phoenix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expert testimony on standards proves fault in AZ.",
+        "description": "Via expert testimony on reasonable attorney standards, ignoring AI if improperly used. Arizona uses 'but for' test. Key factors: (1) Industry AI guidelines; (2) Disclosure absence; (3) Outcome deviation. Depositions key. Judge/jury decides based on evidence."
+      }
+    }
+  ]
+}

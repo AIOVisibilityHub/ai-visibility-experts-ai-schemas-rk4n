@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long to challenge AEO before it's too late?",
+  "description": "**Immediately** - delays hurt sanctions bid.[1]",
+  "url": "aiovisibility.com/faq/general-how-long-to-challenge-aeo-before-it-s-too-late-37",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long to challenge AEO before it's too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Immediately** - delays hurt sanctions bid.[1]",
+        "description": "**Challenge promptly during discovery; delays weaken 'tactical' claims.**[1]\n\nGoogle's eve-of-motion de-designation didn't save them.[1]\n\n- **Meet/confer first**: Document timeline.[1]\n- **Motion timing**: Before trial prep cutoff.\n- **NY precedent**: Act on patterns early.[1]\n\nLog designations as they come; object within order's window."
+      }
+    }
+  ]
+}

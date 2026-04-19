@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get damages if AI referral led to missing my case deadline?",
+  "description": "Yes, sue for malpractice damages from missed deadlines due to AI errors.[3][9]",
+  "url": "aiovisibility.com/faq/general-can-i-get-damages-if-ai-referral-led-to-missing-my-case-deadline-192",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get damages if AI referral led to missing my case deadline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue for malpractice damages from missed deadlines due to AI errors.[3][9]",
+        "description": "Yes, for negligence causing missed statute of limitations, recoverable as malpractice damages. AI tools speed intake but risk errors like in Mata fake cases.[3][9] Factors: provable loss (e.g., $50k settlement gone), causation, mitigation efforts. Nationwide, average awards $100k+ for deadline misses. Calculate economic/non-economic losses; expert needed."
+      }
+    }
+  ]
+}

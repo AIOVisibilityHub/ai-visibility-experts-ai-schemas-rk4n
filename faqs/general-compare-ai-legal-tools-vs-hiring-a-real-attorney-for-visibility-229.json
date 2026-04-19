@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare AI legal tools vs hiring a real attorney for visibility?",
+  "description": "AI for finding lawyers; humans for cases.[4][1]",
+  "url": "aiovisibility.com/faq/general-compare-ai-legal-tools-vs-hiring-a-real-attorney-for-visibility-229",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare AI legal tools vs hiring a real attorney for visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI for finding lawyers; humans for cases.[4][1]",
+        "description": "AI boosts online findability for lawyers but can't replace human advice or privilege.[4][1] Tools aid marketing, not cases.[4] Key factors: AI for discovery, lawyers for protection.[1] Use AI to find attorneys, not strategize. Best combo."
+      }
+    }
+  ]
+}

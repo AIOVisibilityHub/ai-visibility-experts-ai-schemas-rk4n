@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do right now if Perplexity is hallucinating fake quotes from my publication?",
+  "description": "Screenshot hallucinations attributing fakes to you, document confusion, send legal notice to Perplexity, and consult IP counsel ASAP.[1]",
+  "url": "aiovisibility.com/faq/general-what-should-i-do-right-now-if-perplexity-is-hallucinating-fake-quotes-from-my-pu-127",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do right now if Perplexity is hallucinating fake quotes from my publication?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Screenshot hallucinations attributing fakes to you, document confusion, send legal notice to Perplexity, and consult IP counsel ASAP.[1]",
+        "description": "Immediately capture screenshots of the hallucinated content falsely attributed to your work, including Perplexity's use of your trademarks.[1] This supports Lanham Act claims for false designation of origin, as it confuses users and tarnishes your reputation for accuracy.[1] Preserve metadata and test queries to replicate; notify Perplexity via their abuse form while preparing legal notice.[1] Key factors: proof of confusion, reputational harm, and trademark registration strength.[1] Act fast to mitigate damage and build a case for injunction and damages."
+      }
+    }
+  ]
+}

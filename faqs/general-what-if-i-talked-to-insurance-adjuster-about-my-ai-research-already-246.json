@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I talked to insurance adjuster about my AI research already?",
+  "description": "Stop talking, get lawyer—adjusters use AI chats against you.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-i-talked-to-insurance-adjuster-about-my-ai-research-already-246",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I talked to insurance adjuster about my AI research already?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stop talking, get lawyer—adjusters use AI chats against you.[1]",
+        "description": "Recorded statements may haunt; AI adds inconsistency risk.[1] Adjusters probe for *Heppner*-style admissions.\n\n**Key factors:**\n- Statements binding.\n- AI diffs exploitable.\n- Lowball offers incoming.\n\nHalt contact, lawyer-up; review statement transcript. Counter with facts.[1] Don't volunteer more."
+      }
+    }
+  ]
+}

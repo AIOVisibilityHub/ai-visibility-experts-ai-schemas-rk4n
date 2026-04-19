@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In New York, do courts force lawyers to reveal they used AI in my filings?",
+  "description": "Some NY judges mandate AI disclosure and confidentiality certifications.[3]",
+  "url": "aiovisibility.com/faq/general-in-new-york-do-courts-force-lawyers-to-reveal-they-used-ai-in-my-filings-214",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In New York, do courts force lawyers to reveal they used AI in my filings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some NY judges mandate AI disclosure and confidentiality certifications.[3]",
+        "description": "Some New York judges require attorneys to certify no confidential info went to AI and disclose AI-assisted sections.[3] This stems from ethics opinions on maintaining confidentiality and accuracy.[3] Key factors: Check if info shared with AI is visible to providers; retain interactions for client files; hallucinations must be caught.[3] Ask your lawyer their AI protocol upfront. New York leads in AI governance for legal services.[2]"
+      }
+    }
+  ]
+}

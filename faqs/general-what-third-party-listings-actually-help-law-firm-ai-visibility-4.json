@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What third-party listings actually help law firm AI visibility?",
+  "description": "Chambers, Best Lawyers, Super Lawyers, Avvo—peer-verified only.[1][3]",
+  "url": "aiovisibility.com/faq/general-what-third-party-listings-actually-help-law-firm-ai-visibility-4",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What third-party listings actually help law firm AI visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chambers, Best Lawyers, Super Lawyers, Avvo—peer-verified only.[1][3]",
+        "description": "**Chambers, Best Lawyers, Super Lawyers, Legal 500, and Avvo drive most AI citations, especially in major markets.** These have transparent methodologies and peer trust that AI systems confidence-weight. Consumer practices favor Avvo/Justia; institutional lean Chambers. **Key factors:** 1) Independent evaluation; 2) Multi-source references; 3) Practice-area relevance; 4) Established reputation. Prioritize applications to these, highlight wins on your site/PR, and audit AI outputs quarterly. Skip low-authority directories.[1][3]"
+      }
+    }
+  ]
+}

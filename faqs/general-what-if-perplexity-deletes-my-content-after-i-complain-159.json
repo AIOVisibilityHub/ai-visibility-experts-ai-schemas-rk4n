@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if Perplexity deletes my content after I complain?",
+  "description": "Past copies still infringe.[1][2]",
+  "url": "aiovisibility.com/faq/general-what-if-perplexity-deletes-my-content-after-i-complain-159",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if Perplexity deletes my content after I complain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Past copies still infringe.[1][2]",
+        "description": "Still liable for past infringement; sue for damages.[1] Key factors: Prove prior use via caches/screenshots. Spoliation sanctions possible. Like NYT pre-suit.[2] Act before wipe."
+      }
+    }
+  ]
+}

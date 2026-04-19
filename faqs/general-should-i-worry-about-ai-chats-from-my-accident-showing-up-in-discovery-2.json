@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I worry about AI chats from my accident showing up in discovery?",
+  "description": "Yes, AI chats are discoverable and can contradict your case.[1]",
+  "url": "aiovisibility.com/faq/general-should-i-worry-about-ai-chats-from-my-accident-showing-up-in-discovery-216",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I worry about AI chats from my accident showing up in discovery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI chats are discoverable and can contradict your case.[1]",
+        "description": "Yes, insurance lawyers can subpoena your AI records if they differ from your story, turning speculations into ammunition.[1] No privilege protects solo AI use.[1] Key factors: Fault admissions or damage guesses harm credibility; only lawyer-directed AI might be shielded.[1] Delete nothing—tampering worsens it; tell your attorney everything. Get professional advice now."
+      }
+    }
+  ]
+}

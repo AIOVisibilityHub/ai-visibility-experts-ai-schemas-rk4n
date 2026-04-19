@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Phoenix, can judges sanction non-lawyers for bad AI advice?",
+  "description": "Possible for frivolous filings; verify always.[2]",
+  "url": "aiovisibility.com/faq/general-in-phoenix-can-judges-sanction-non-lawyers-for-bad-ai-advice-121",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Phoenix, can judges sanction non-lawyers for bad AI advice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible for frivolous filings; verify always.[2]",
+        "description": "Rare for pro se litigants, but courts penalize frivolous filings regardless of source.[2] AZ follows accuracy rules.[2] Key factors: Bad faith; prejudice; self-representation duties. Verify independently; cite real law. Use court self-help resources."
+      }
+    }
+  ]
+}

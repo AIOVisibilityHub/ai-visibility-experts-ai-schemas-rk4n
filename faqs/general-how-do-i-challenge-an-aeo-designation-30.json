@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I challenge an AEO designation?",
+  "description": "**Meet/confer + motion**: Prove no real confidentiality need.[1][5]",
+  "url": "aiovisibility.com/faq/general-how-do-i-challenge-an-aeo-designation-30",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I challenge an AEO designation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Meet/confer + motion**: Prove no real confidentiality need.[1][5]",
+        "description": "**Challenge by meet/confer, then motion showing designation lacks justification like no trade secret risk.**[1][5]\n\nCourts balance protection against defense rights; plaintiffs can't prejudice defendants.[5]\n\n- **Gather evidence**: Content doesn't warrant AEO.[1]\n- **Show pattern**: Mass designations, late changes.[1]\n- **Pro se extra step**: Protective order modification.[3]\n\nList specific docs, explain harm to your case. Seek costs if opponent over-designated."
+      }
+    }
+  ]
+}

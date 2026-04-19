@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if no witnesses to the AI referral discussion in Phoenix?",
+  "description": "Emails/logs prove it; witnesses not required in AZ.",
+  "url": "aiovisibility.com/faq/general-what-if-no-witnesses-to-the-ai-referral-discussion-in-phoenix-190",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if no witnesses to the AI referral discussion in Phoenix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Emails/logs prove it; witnesses not required in AZ.",
+        "description": "Circumstantial evidence like emails, logs suffices. Arizona allows digital proof. Key factors: (1) Metadata trails; (2) Firm admissions; (3) Expert reconstruction. Subpoena AI usage data. Your testimony counts."
+      }
+    }
+  ]
+}

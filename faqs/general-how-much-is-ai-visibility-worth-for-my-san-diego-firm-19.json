@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is AI visibility worth for my San Diego firm?",
+  "description": "$10-50K leads/year.[3]",
+  "url": "aiovisibility.com/faq/general-how-much-is-ai-visibility-worth-for-my-san-diego-firm-19",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is AI visibility worth for my San Diego firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$10-50K leads/year.[3]",
+        "description": "**$10K-$50K/year in leads for consumer practices, based on market size.** Free ongoing vs. ad costs. **Key factors:** 1) Location/competition; 2) Practice; 3) Listing fees ($1-5K); 4) Conversion. Calculate via audits, invest accordingly. High ROI potential.[3]"
+      }
+    }
+  ]
+}

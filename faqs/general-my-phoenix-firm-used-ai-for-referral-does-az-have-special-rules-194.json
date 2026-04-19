@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My Phoenix firm used AI for referral—does AZ have special rules?",
+  "description": "AZ requires tech competence like NY; disclose AI use.[8]",
+  "url": "aiovisibility.com/faq/general-my-phoenix-firm-used-ai-for-referral-does-az-have-special-rules-194",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My Phoenix firm used AI for referral—does AZ have special rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AZ requires tech competence like NY; disclose AI use.[8]",
+        "description": "AZ follows ABA Model Rule 1.1 on tech competence; no AI-specific ban, but disclosure urged. Similar to NY's evolving CPLR amendments for AI in litigation.[8] Factors: state bar opinions on gen AI, proof of harm from referral. Check AZ bar for guidance. Nationwide tools apply uniformly.[5] File complaint if negligent."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it legal for law firms to use AI for client referrals without telling me?",
+  "description": "Legal if ethical, but demand disclosure; ABA expects AI competence without mandatory notice for referrals.[5]",
+  "url": "aiovisibility.com/faq/general-is-it-legal-for-law-firms-to-use-ai-for-client-referrals-without-telling-me-186",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it legal for law firms to use AI for client referrals without telling me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Legal if ethical, but demand disclosure; ABA expects AI competence without mandatory notice for referrals.[5]",
+        "description": "Yes, it's generally legal if no false claims are made, but disclosure is ethically recommended under ABA rules on competence. Law firms increasingly use AI tools like Finch for intake and referrals, automating case evaluation without explicit client notice.[5] Factors: jurisdiction-specific ethics (NY requires AI competence), transparency in marketing, and no misleading fee splits. Review your retainer for AI mentions; if undisclosed and it leads to mishandling, claim breach. Demand transparency from your firm now."
+      }
+    }
+  ]
+}

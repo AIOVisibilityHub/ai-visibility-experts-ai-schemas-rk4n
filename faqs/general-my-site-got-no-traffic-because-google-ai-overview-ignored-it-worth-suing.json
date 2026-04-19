@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My site got no traffic because Google AI Overview ignored it - worth suing?",
+  "description": "Low value; focus on SEO recovery over lawsuit.",
+  "url": "aiovisibility.com/faq/general-my-site-got-no-traffic-because-google-ai-overview-ignored-it-worth-suing-165",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My site got no traffic because Google AI Overview ignored it - worth suing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Low value; focus on SEO recovery over lawsuit.",
+        "description": "Probably not; no duty for Google to feature your site, and antitrust claims require market harm proof.[4] SEO losses aren't actionable. Key factors: Causation evidence; Section 230; class action viability low. Track analytics, optimize content, consider paid ads. Nationwide issue."
+      }
+    }
+  ]
+}

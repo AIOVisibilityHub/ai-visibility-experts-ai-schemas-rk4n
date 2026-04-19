@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my firm has no Super Lawyers but competitors do—can I still rank?",
+  "description": "Yes, use Best Lawyers + PR; diversify signals.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-my-firm-has-no-super-lawyers-but-competitors-do-can-i-still-rank-8",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my firm has no Super Lawyers but competitors do—can I still rank?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, use Best Lawyers + PR; diversify signals.[1]",
+        "description": "**Yes, via alternative signals like Best Lawyers or consistent PR patterns, though harder in saturated markets.** AI weighs multiple authorities, not one. Competitors dominate without diversification. **Key factors:** 1) Cross-directory presence; 2) Review strength; 3) Niche expertise claims; 4) Phoenix-specific tweaks. Pursue 2-3 listings, align messaging, audit gaps. Diversify to compete.[1][3]"
+      }
+    }
+  ]
+}

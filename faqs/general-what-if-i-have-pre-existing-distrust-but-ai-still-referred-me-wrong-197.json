@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I have pre-existing distrust but AI still referred me wrong?",
+  "description": "Claim still viable if AI caused added harm.[3]",
+  "url": "aiovisibility.com/faq/general-what-if-i-have-pre-existing-distrust-but-ai-still-referred-me-wrong-197",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I have pre-existing distrust but AI still referred me wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Claim still viable if AI caused added harm.[3]",
+        "description": "Pre-existing issues don't bar claims if AI referral worsened outcome; prove incremental harm. Ethics require competence regardless.[3] Factors: records showing AI ignored your specifics. Nationwide consistency. Strengthen with psych records if distress."
+      }
+    }
+  ]
+}

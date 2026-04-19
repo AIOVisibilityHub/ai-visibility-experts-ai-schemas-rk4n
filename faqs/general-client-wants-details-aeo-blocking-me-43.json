@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Client wants details - AEO blocking me?",
+  "description": "**Summarize only** - ethics vs AEO tension.[2]",
+  "url": "aiovisibility.com/faq/general-client-wants-details-aeo-blocking-me-43",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Client wants details - AEO blocking me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Summarize only** - ethics vs AEO tension.[2]",
+        "description": "**Summarize without disclosure to comply with ethics (Rule 1.4); challenge AEO if possible.**[2]\n\nAEO limits info to counsel.[2]\n\n- **Ethics duty**: Keep informed reasonably.[2]\n- **Risk violation**: Direct sharing.[2]\n- **Negotiate tiers**: Client view for non-comp.\n\nUse high-level strategy talks; motion for relief."
+      }
+    }
+  ]
+}

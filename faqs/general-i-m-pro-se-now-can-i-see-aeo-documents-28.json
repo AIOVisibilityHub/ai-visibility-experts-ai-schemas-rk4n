@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm pro se now - can I see AEO documents?",
+  "description": "**Motion to modify protective order** - letter first, then court with declaration.[3]",
+  "url": "aiovisibility.com/faq/general-i-m-pro-se-now-can-i-see-aeo-documents-28",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm pro se now - can I see AEO documents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Motion to modify protective order** - letter first, then court with declaration.[3]",
+        "description": "**As pro se, you likely need a court motion to access AEO docs, depending on protective order language.**[3]\n\nOrders often limit to licensed attorneys; pro se status changes this, but courts may modify with use restrictions.[3]\n\n- **Start with letter**: Request access explaining trial prep need.[3]\n- **If denied, motion**: Include declaration, their refusal.[3]\n- **Limits apply**: No public sharing.[3]\n\nSend polite letter to counsel, then file motion if refused. Avoid self-help breaches."
+      }
+    }
+  ]
+}

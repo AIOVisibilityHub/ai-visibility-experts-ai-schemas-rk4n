@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My lawyer in NYC used some AI chatbot to refer me to another firm—can I sue if they messed up my case?",
+  "description": "You can sue for malpractice if AI referral negligence harmed your case, proving deviation from care standards in NY.",
+  "url": "aiovisibility.com/faq/general-my-lawyer-in-nyc-used-some-ai-chatbot-to-refer-me-to-another-firm-can-i-sue-if-t-176",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My lawyer in NYC used some AI chatbot to refer me to another firm—can I sue if they messed up my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can sue for malpractice if AI referral negligence harmed your case, proving deviation from care standards in NY.",
+        "description": "No automatic right to sue exists solely for AI referrals, but you can pursue a malpractice claim if negligence caused harm. In New York, legal malpractice requires proving the attorney deviated from standard care, causing damages. Key factors: (1) Was the referral based on inaccurate AI output? (2) Did it lead to missed deadlines or poor representation? (3) Document all communications. (4) AI use doesn't waive attorney responsibility. Gather referral emails, AI screenshots, and harm evidence; consult a malpractice attorney promptly as NY has a 3-year statute. Seek firms experienced in tech-related legal errors."
+      }
+    }
+  ]
+}

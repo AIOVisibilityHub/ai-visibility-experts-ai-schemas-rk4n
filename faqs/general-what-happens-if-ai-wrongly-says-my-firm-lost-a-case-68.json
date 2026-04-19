@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if AI wrongly says my firm lost a case?",
+  "description": "Defamation suit possible; demand correction.[1]",
+  "url": "aiovisibility.com/faq/general-what-happens-if-ai-wrongly-says-my-firm-lost-a-case-68",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if AI wrongly says my firm lost a case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Defamation suit possible; demand correction.[1]",
+        "description": "**Sue for defamation if false and damaging; prove malice/negligence.**[1] **Key factors:** 1. Retract demand first. 2. NY AI rules emerging.[10] **Document, notify, litigate if persists.**[1] Outcomes vary.[1]"
+      }
+    }
+  ]
+}

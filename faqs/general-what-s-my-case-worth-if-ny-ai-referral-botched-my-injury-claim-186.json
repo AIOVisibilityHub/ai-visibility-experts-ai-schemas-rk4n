@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my case worth if NY AI referral botched my injury claim?",
+  "description": "Lost value + fees; $50k+ typical for strong cases in NY.",
+  "url": "aiovisibility.com/faq/general-what-s-my-case-worth-if-ny-ai-referral-botched-my-injury-claim-186",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my case worth if NY AI referral botched my injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost value + fees; $50k+ typical for strong cases in NY.",
+        "description": "Varies; often lost settlement (e.g., $50k-$500k) plus fees, minus contributory fault. NY follows case-by-case valuation. Key factors: (1) Original case strength; (2) AI error impact; (3) Comparables. Get free eval from malpractice firm."
+      }
+    }
+  ]
+}

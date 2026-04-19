@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied by bar after AI sanction, what next?",
+  "description": "Appeal bar decision, pursue civil suit.[1]",
+  "url": "aiovisibility.com/faq/general-claim-denied-by-bar-after-ai-sanction-what-next-92",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied by bar after AI sanction, what next?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal bar decision, pursue civil suit.[1]",
+        "description": "Appeal internally, then judicial review; sue for malpractice separately. Post-Levidow bars investigate rigorously.[1] Key factors: new evidence, procedure. Hire review counsel. Persistence key."
+      }
+    }
+  ]
+}

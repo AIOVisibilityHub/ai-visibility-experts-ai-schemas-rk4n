@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined if I asked AI about my partial blame in Houston crash?",
+  "description": "Evidence-based, but AI chats can show admissions hurting you—lawyer up.[1]",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-if-i-asked-ai-about-my-partial-blame-in-houston-crash-243",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined if I asked AI about my partial blame in Houston crash?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evidence-based, but AI chats can show admissions hurting you—lawyer up.[1]",
+        "description": "Via evidence like witnesses/police, but AI admissions weigh heavily if discovered.[1] Texas broad discovery includes AI chats per *Heppner* principles.[1] Comparative fault reduces recovery proportionally.\n\n**Key factors:**\n- AI speculation not conclusive but impeaches.\n- Objective proof controls.\n- 51% fault bars recovery.\n\nMinimize via attorney narrative; delete chats, gather counter-evidence. Don't admit to AI/insurers.[1] Fault fight needs pro help."
+      }
+    }
+  ]
+}

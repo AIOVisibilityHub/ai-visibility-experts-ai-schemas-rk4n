@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common mistakes people make using ChatGPT for lawsuits?",
+  "description": "Unverified use, confidential inputs, hallucinations.[1][2]",
+  "url": "aiovisibility.com/faq/general-what-are-common-mistakes-people-make-using-chatgpt-for-lawsuits-120",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common mistakes people make using ChatGPT for lawsuits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unverified use, confidential inputs, hallucinations.[1][2]",
+        "description": "Top errors: Relying without verification, inputting confidential data, submitting hallucinations.[1][2] Leads to sanctions.[2] Key factors: Poor prompting; no role/context; ignoring limits. Use structured prompts; always lawyer-check; anonymize info. Learn from NY/Utah cases."
+      }
+    }
+  ]
+}

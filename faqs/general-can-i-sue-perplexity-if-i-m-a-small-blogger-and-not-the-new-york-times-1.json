@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue Perplexity if I'm a small blogger and not the New York Times?",
+  "description": "Absolutely, size doesn't matter; prove copying and consult an IP lawyer.[1]",
+  "url": "aiovisibility.com/faq/general-can-i-sue-perplexity-if-i-m-a-small-blogger-and-not-the-new-york-times-129",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue Perplexity if I'm a small blogger and not the New York Times?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely, size doesn't matter; prove copying and consult an IP lawyer.[1]",
+        "description": "Yes, any copyright holder can sue for infringement regardless of size if substantial copying occurs.[1] The NYT case sets precedent for scraping and output reproduction claims applicable to creators universally.[1] Key factors: ownership proof, amount/substantiality copied, market harm, and fair use rejection.[1] Gather query examples showing your content in responses; small claims court may suffice for modest damages. This levels the field against AI giants."
+      }
+    }
+  ]
+}

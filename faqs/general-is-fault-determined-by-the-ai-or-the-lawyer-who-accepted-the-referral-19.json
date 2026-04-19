@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is fault determined by the AI or the lawyer who accepted the referral?",
+  "description": "Lawyer liable for not verifying AI referral; AI not at fault.[3][9]",
+  "url": "aiovisibility.com/faq/general-is-fault-determined-by-the-ai-or-the-lawyer-who-accepted-the-referral-195",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is fault determined by the AI or the lawyer who accepted the referral?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lawyer liable for not verifying AI referral; AI not at fault.[3][9]",
+        "description": "The lawyer is liable for accepting flawed AI referral without due diligence. Courts hold attorneys responsible, as in ChatGPT sanctions.[3][9] Key factors: duty to verify, shared fault in referral fees.[4] AI is tool, not decision-maker. Prove lawyer ignored red flags."
+      }
+    }
+  ]
+}

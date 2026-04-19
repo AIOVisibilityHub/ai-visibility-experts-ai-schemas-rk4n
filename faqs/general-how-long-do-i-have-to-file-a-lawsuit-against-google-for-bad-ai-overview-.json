@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a lawsuit against Google for bad AI Overview advice that hurt me?",
+  "description": "1-3 years typically; varies by state and claim type.",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-file-a-lawsuit-against-google-for-bad-ai-overview-advice-t-164",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a lawsuit against Google for bad AI Overview advice that hurt me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1-3 years typically; varies by state and claim type.",
+        "description": "Statutes of limitations vary: 1-3 years for defamation or negligence nationwide, starting from discovery of harm.[1] Heppner doesn't set timelines but underscores urgency in AI evidence preservation. Key factors: Jurisdiction (e.g., NY 1-year defamation); tolling for hidden harm; federal claims longer. Act fast to gather evidence before deletion. Consult attorney immediately."
+      }
+    }
+  ]
+}

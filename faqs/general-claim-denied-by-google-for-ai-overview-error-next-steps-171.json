@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied by Google for AI Overview error - next steps?",
+  "description": "Appeal first; lawsuit unlikely to succeed.",
+  "url": "aiovisibility.com/faq/general-claim-denied-by-google-for-ai-overview-error-next-steps-171",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied by Google for AI Overview error - next steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal first; lawsuit unlikely to succeed.",
+        "description": "Appeal internally, then consider lawsuit if viable, but expect Section 230 bar.[2] Key factors: Policy terms; harm proof; jurisdiction. Document denial. Nationwide."
+      }
+    }
+  ]
+}

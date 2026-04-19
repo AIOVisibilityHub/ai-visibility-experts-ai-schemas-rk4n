@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can in-house lawyers see AEO docs?",
+  "description": "**Often yes** for corporate in-house counsel.[6]",
+  "url": "aiovisibility.com/faq/general-can-in-house-lawyers-see-aeo-docs-34",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can in-house lawyers see AEO docs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Often yes** for corporate in-house counsel.[6]",
+        "description": "**Yes, if both parties have in-house counsel, AEO provisions can allow their review.**[6]\n\nFeasible in corporate disputes with mutual counsel.[6]\n\n- **Corporate context**: Standard for peers.[6]\n- **Protective order**: Specifies access.[3]\n- **Competitor limit**: Core rationale.[2]\n\nReview order language; negotiate if asymmetric. Common in B2B litigation."
+      }
+    }
+  ]
+}

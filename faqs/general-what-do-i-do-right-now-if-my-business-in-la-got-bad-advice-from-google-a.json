@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do right now if my business in LA got bad advice from Google AI Overview on a contract?",
+  "description": "Stop using AI, document error, consult CA lawyer immediately to fix contract and limit harm.[3]",
+  "url": "aiovisibility.com/faq/general-what-do-i-do-right-now-if-my-business-in-la-got-bad-advice-from-google-ai-overvi-153",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do right now if my business in LA got bad advice from Google AI Overview on a contract?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stop using AI, document error, consult CA lawyer immediately to fix contract and limit harm.[3]",
+        "description": "Immediately stop relying on the AI advice, document the prompt/output/error, and consult a licensed California attorney to review and correct the contract. AI lacks privilege protection and can hallucinate inaccurate legal analysis, risking enforceability issues similar to NY rulings on AI unreliability.[3] Key factors: assess if the bad advice caused financial loss or liability exposure; preserve AI chat logs as evidence. Time-sensitive: contracts may have short cure periods. Get professional legal review to mitigate damages before disputes arise."
+      }
+    }
+  ]
+}

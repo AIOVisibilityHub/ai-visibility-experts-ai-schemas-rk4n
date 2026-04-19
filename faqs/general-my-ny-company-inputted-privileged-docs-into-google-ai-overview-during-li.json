@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My NY company inputted privileged docs into Google AI Overview during litigation—did I just waive privilege?",
+  "description": "Yes, waived per NY Heppner—AI is third party, no protection.[1]",
+  "url": "aiovisibility.com/faq/general-my-ny-company-inputted-privileged-docs-into-google-ai-overview-during-litigation-157",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My NY company inputted privileged docs into Google AI Overview during litigation—did I just waive privilege?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, waived per NY Heppner—AI is third party, no protection.[1]",
+        "description": "Yes, per the SDNY Heppner ruling, inputting privileged info into consumer AI like Google AI Overviews waives attorney-client privilege and work product protection due to third-party disclosure via privacy policies.[1][4] Court treated AI as non-confidential third party. Factors: AI terms allow data retention/training, no legal advice purpose, independent client use. Immediately notify counsel, assess disclosure risks, prohibit further AI use. Implement AI governance policies now."
+      }
+    }
+  ]
+}

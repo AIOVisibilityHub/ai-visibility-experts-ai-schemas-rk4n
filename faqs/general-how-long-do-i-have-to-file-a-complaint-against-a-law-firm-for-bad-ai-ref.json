@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a complaint against a law firm for bad AI referral?",
+  "description": "2-3 years in NY/CA from discovery for malpractice; bar complaints unlimited.[3]",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-file-a-complaint-against-a-law-firm-for-bad-ai-referral-190",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a complaint against a law firm for bad AI referral?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2-3 years in NY/CA from discovery for malpractice; bar complaints unlimited.[3]",
+        "description": "Typically 1-6 years depending on state; NY/CAL malpractice is 2.5-3 years from discovery. No specific AI referral statute, but general negligence timelines apply.[3] Factors: discovery rule (when you knew of AI error), written vs oral referral. In Chicago/Houston, similar 2-4 year limits. File bar complaint anytime for ethics, but sue civilly within limits. Check your state bar site."
+      }
+    }
+  ]
+}

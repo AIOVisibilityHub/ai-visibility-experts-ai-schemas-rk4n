@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the risks if my law firm ignores AEO?",
+  "description": "Lost leads, competitors dominate AI; act fast.[4][7]",
+  "url": "aiovisibility.com/faq/general-what-are-the-risks-if-my-law-firm-ignores-aeo-57",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the risks if my law firm ignores AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost leads, competitors dominate AI; act fast.[4][7]",
+        "description": "**Firms ignoring AEO lose 70%+ of AI-driven traffic to optimized rivals, shrinking client pipelines.**[4][7] AI reshapes discovery, sidelining non-EEAT sites.[3][7] **Key factors:** 1. Clients get instant AI answers elsewhere. 2. No recourse for 'invisibility.' 3. Wasted prior SEO investment. **Pivot now: allocate 10% marketing to GEO experiments in Phoenix.** Risk is obsolescence.[3]"
+      }
+    }
+  ]
+}

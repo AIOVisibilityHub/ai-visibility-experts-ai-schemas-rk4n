@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a case if AI evidence hurts my claim in New York?",
+  "description": "Usually 3 years in NY for injury claims—AI evidence doesn't extend it, file soon.[1]",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-file-a-case-if-ai-evidence-hurts-my-claim-in-new-york-239",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a case if AI evidence hurts my claim in New York?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually 3 years in NY for injury claims—AI evidence doesn't extend it, file soon.[1]",
+        "description": "Generally 3 years from injury for personal injury in NY, but consult for your facts.[1] AI evidence like *Heppner* doesn't toll statutes; discovery issues arise during litigation.[1][3] Federal courts apply state limits.\n\n**Key factors:**\n- NY CPLR §214: 3 years negligence.\n- Discovery rule rare for injuries.\n- AI chats may accelerate defenses.\n\nFile promptly to control narrative before AI records surface. Lawyer review essential pre-statute expiration.[1] Track all deadlines tightly."
+      }
+    }
+  ]
+}

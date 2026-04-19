@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is stuff I tell Google AI Overview protected like lawyer talks? I'm scared after reading about that NY case.",
+  "description": "No, AI inputs waive privilege per NY Heppner ruling—treat AI as third party, no protection.[1][4]",
+  "url": "aiovisibility.com/faq/general-is-stuff-i-tell-google-ai-overview-protected-like-lawyer-talks-i-m-scared-after--152",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is stuff I tell Google AI Overview protected like lawyer talks? I'm scared after reading about that NY case.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, AI inputs waive privilege per NY Heppner ruling—treat AI as third party, no protection.[1][4]",
+        "description": "No, inputs to consumer AI tools like Google AI Overviews are not protected by attorney-client privilege, as ruled in the Southern District of New York Heppner case where AI was deemed a third party with no confidentiality expectation.[1][3][4] The court held that AI platforms' privacy policies allow data use for training and disclosure, waiving privilege even if inputs were originally privileged. Factors: AI disclaims legal advice, no attorney relationship exists, and independent use doesn't qualify as work product. Avoid inputting sensitive legal info into public AI; use lawyer-directed secure tools instead. Save all records if litigation involves AI use."
+      }
+    }
+  ]
+}

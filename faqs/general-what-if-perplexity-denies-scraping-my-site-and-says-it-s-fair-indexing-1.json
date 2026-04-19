@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if Perplexity denies scraping my site and says it's fair indexing?",
+  "description": "Subpoena logs; scraping proven via bots/outputs.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-perplexity-denies-scraping-my-site-and-says-it-s-fair-indexing-135",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if Perplexity denies scraping my site and says it's fair indexing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Subpoena logs; scraping proven via bots/outputs.[1]",
+        "description": "Demand preservation letter; subpoena logs to prove scraping vs. indexing—NYT distinguishes unlawful copying.[1][7] Key factors: crawler evidence, output verbatimity.[1] Indexing may fair use, but training/output infringement separate.[7] Escalate to litigation for discovery. Truth emerges in court."
+      }
+    }
+  ]
+}

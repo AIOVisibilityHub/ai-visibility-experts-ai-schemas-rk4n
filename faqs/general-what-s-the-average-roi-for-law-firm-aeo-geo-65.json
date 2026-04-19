@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the average ROI for law firm AEO/GEO?",
+  "description": "6X-7X ROI proven.[2]",
+  "url": "aiovisibility.com/faq/general-what-s-the-average-roi-for-law-firm-aeo-geo-65",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the average ROI for law firm AEO/GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "6X-7X ROI proven.[2]",
+        "description": "**6X-7X reported for optimized Am Law firms; small firms see similar lead boosts.**[2] **Key factors:** 1. Lead conversion. 2. Niche focus. **Track pre/post leads; invest $5K test.**[9] High potential.[2]"
+      }
+    }
+  ]
+}

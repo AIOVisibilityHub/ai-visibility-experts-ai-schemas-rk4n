@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is every confidential doc AEO?",
+  "description": "**No, AEO is top tier only**.[1]",
+  "url": "aiovisibility.com/faq/general-is-every-confidential-doc-aeo-45",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is every confidential doc AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**No, AEO is top tier only**.[1]",
+        "description": "**No, AEO is stricter tier for highest sensitivity; regular Confidential allows parties.**[1][2]\n\nOveruse of AEO sanctioned.[1]\n\n- **Tiers common**: Confidential < AEO.[1]\n- **Justify level**: Competitor harm.[2]\n- **Abuse warning**: All designations.[1]\n\nPropose tiered order early; downgrade via motion."
+      }
+    }
+  ]
+}

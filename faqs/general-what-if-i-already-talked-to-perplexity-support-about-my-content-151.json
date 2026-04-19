@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I already talked to Perplexity support about my content?",
+  "description": "Save chats; doesn't bar suit.[2][3]",
+  "url": "aiovisibility.com/faq/general-what-if-i-already-talked-to-perplexity-support-about-my-content-151",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I already talked to Perplexity support about my content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Save chats; doesn't bar suit.[2][3]",
+        "description": "Their responses may admit use or create estoppel; save all communications.[2] Doesn't waive rights, unlike publishers' ignored pleas.[3] Key factors: No settlement implied. Use in suit for willfulness. Avoid further talks sans lawyer. Strengthens case."
+      }
+    }
+  ]
+}

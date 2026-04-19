@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make my law firm visible in ChatGPT lawyer searches?",
+  "description": "Secure third-party recognitions and align PR/website; AI prioritizes patterns.[1][2]",
+  "url": "aiovisibility.com/faq/general-how-do-i-make-my-law-firm-visible-in-chatgpt-lawyer-searches-2",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make my law firm visible in ChatGPT lawyer searches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secure third-party recognitions and align PR/website; AI prioritizes patterns.[1][2]",
+        "description": "**Build authority through third-party recognitions and consistent PR-website alignment that AI can pattern-match.** Prospective clients use AI like ChatGPT for direct recommendations, favoring verifiable signals over links. Firms with peer-reviewed distinctions appear due to cross-source confidence. **Key factors:** 1) Independent listings (Best Lawyers, Super Lawyers); 2) Structured bios and data; 3) Matching PR claims online; 4) Audit current AI surfacing. Tailor profiles to be distinctive, optimize schema markup, and secure mentions in trusted directories to boost inclusion in synthesized responses. Start with an AI audit today.[1][2]"
+      }
+    }
+  ]
+}

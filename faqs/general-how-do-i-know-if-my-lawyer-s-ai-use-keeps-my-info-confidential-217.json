@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my lawyer's AI use keeps my info confidential?",
+  "description": "Ask about data visibility to AI providers.[3]",
+  "url": "aiovisibility.com/faq/general-how-do-i-know-if-my-lawyer-s-ai-use-keeps-my-info-confidential-217",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my lawyer's AI use keeps my info confidential?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask about data visibility to AI providers.[3]",
+        "description": "Ask if data shared with AI is visible to providers or strangers—ethics demand secure handling.[3] Lawyers must assess confidentiality risks before AI input.[3] Key factors: No sharing sensitive client data; verify provider policies; retain interactions.[3] Request their AI ethics policy in writing. Choose lawyers with strong governance.[2]"
+      }
+    }
+  ]
+}

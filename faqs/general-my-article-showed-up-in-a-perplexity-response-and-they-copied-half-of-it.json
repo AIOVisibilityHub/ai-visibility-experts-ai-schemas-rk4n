@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My article showed up in a Perplexity response and they copied half of it word for word - is that copyright infringement?",
+  "description": "Yes, verbatim copying of substantial portions in Perplexity outputs is likely copyright infringement per NYT lawsuit; save evidence and contact a copyright lawy",
+  "url": "aiovisibility.com/faq/general-my-article-showed-up-in-a-perplexity-response-and-they-copied-half-of-it-word-fo-126",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My article showed up in a Perplexity response and they copied half of it word for word - is that copyright infringement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, verbatim copying of substantial portions in Perplexity outputs is likely copyright infringement per NYT lawsuit; save evidence and contact a copyright lawyer immediately.[1]",
+        "description": "Yes, reproducing substantial portions of your copyrighted article verbatim or near-verbatim in AI outputs likely constitutes direct copyright infringement.[1] The New York Times lawsuit alleges Perplexity's responses provide 'identical or substantially similar' content, substituting for original articles and undermining the creator's market.[1] Key factors include the amount copied (beyond fair use snippets), lack of transformation, and commercial substitution effect.[1] Document all instances with screenshots, timestamps, and links; consult a copyright attorney to assess fair use defenses and pursue statutory damages up to $150,000 per work.[1] This positions you to seek injunctions and profits disgorgement effectively."
+      }
+    }
+  ]
+}

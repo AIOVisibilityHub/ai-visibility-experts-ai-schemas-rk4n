@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My small business contract was reviewed by ChatGPT - what now if there's a dispute?",
+  "description": "Get lawyer re-review ASAP; AI isn't reliable alone.[1]",
+  "url": "aiovisibility.com/faq/general-my-small-business-contract-was-reviewed-by-chatgpt-what-now-if-there-s-a-dispute-107",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My small business contract was reviewed by ChatGPT - what now if there's a dispute?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get lawyer re-review ASAP; AI isn't reliable alone.[1]",
+        "description": "Immediately have a lawyer re-review the contract, as AI misses nuances like force majeure clauses.[1] ChatGPT aids initial reviews but can't replace due diligence.[1] Key factors: Jurisdiction-specific laws; hallucinated advice; discoverability in disputes.[4] Disclose AI use to counsel; gather all original prompts/outputs as evidence. Act fast to amend if errors found."
+      }
+    }
+  ]
+}

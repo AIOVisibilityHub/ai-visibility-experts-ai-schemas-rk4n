@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO just for competitors?",
+  "description": "**Mainly for competitors** - trade secret focus.[2]",
+  "url": "aiovisibility.com/faq/general-is-aeo-just-for-competitors-35",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO just for competitors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Mainly for competitors** - trade secret focus.[2]",
+        "description": "**Primarily yes, AEO shields from competitor parties, not general prejudice.**[2]\n\nFederal/NY cases stress trade secret/competitive harm.[2]\n\n- **Narrow use**: Not routine sensitivity.[2]\n- **Ethics overlay**: Client communication limits.[2]\n- **Sanction risk**: Broader abuse.[1]\n\nPush back if no competitive dynamic; suggest Confidential tier."
+      }
+    }
+  ]
+}

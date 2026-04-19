@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing distrust of lawyers, now AI hallucination in Houston—how's this different?",
+  "description": "AI verification failure is key negligence proof.[2]",
+  "url": "aiovisibility.com/faq/general-pre-existing-distrust-of-lawyers-now-ai-hallucination-in-houston-how-s-this-diff-165",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing distrust of lawyers, now AI hallucination in Houston—how's this different?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI verification failure is key negligence proof.[2]",
+        "description": "AI adds specific negligence layer: failure to verify hallucinations, distinct from general distrust, actionable per sanctions precedents.[2] Factors: tie harm to AI error. Prove deviation from care standard. Stronger case with tech evidence."
+      }
+    }
+  ]
+}

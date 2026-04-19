@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to put details of my personal injury claim into ChatGPT?",
+  "description": "No, risks confidentiality; anonymize or avoid.[1][2]",
+  "url": "aiovisibility.com/faq/general-is-it-safe-to-put-details-of-my-personal-injury-claim-into-chatgpt-106",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to put details of my personal injury claim into ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, risks confidentiality; anonymize or avoid.[1][2]",
+        "description": "No, avoid inputting confidential case details due to data security risks and lack of privilege.[1][2] Prompts with sensitive info could breach confidentiality and become discoverable.[5] Key factors: No encryption for legal data; compliance issues with HIPAA/GDPR; potential for model training use. Use anonymized facts only; rely on secure legal AI tools or lawyers. Consult attorney before any AI use on your claim."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to sue my Houston attorney for using Google AI Overview fake citations that tanked my case?",
+  "description": "4 years in TX from malpractice/discovery; act fast with evidence.[2]",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-sue-my-houston-attorney-for-using-google-ai-overview-fake--155",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to sue my Houston attorney for using Google AI Overview fake citations that tanked my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4 years in TX from malpractice/discovery; act fast with evidence.[2]",
+        "description": "In Texas, you generally have 4 years from the malpractice act or discovery of harm to file a legal malpractice suit involving AI errors like fake citations from Google AI Overviews. Courts expect verification, per NY precedents on AI sanctions.[2] Key factors: date of filing error, when you discovered harm, tolling for fraud/concealment. Start clock runs from injury awareness. Gather docket, briefs, AI evidence quickly. Consult TX malpractice specialist before deadline; missing it bars your claim permanently."
+      }
+    }
+  ]
+}

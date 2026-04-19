@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my case was referred via AI and now it's denied—can I sue the referring firm?",
+  "description": "Sue for malpractice if AI referral negligence caused denial; track via tools like CloudLex.[4]",
+  "url": "aiovisibility.com/faq/general-what-if-my-case-was-referred-via-ai-and-now-it-s-denied-can-i-sue-the-referring--188",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my case was referred via AI and now it's denied—can I sue the referring firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue for malpractice if AI referral negligence caused denial; track via tools like CloudLex.[4]",
+        "description": "Yes, if the AI referral was negligent (e.g., overlooked key facts), you may have a malpractice claim against the referring firm. Referral networks like CloudLex track fees but hold referrers liable for bad faith.[4] Factors: proof of inaccurate AI assessment, financial loss, state rules (CA/NY 3-year limit). Evidence includes intake forms showing AI input errors. Switch firms and document losses before suing."
+      }
+    }
+  ]
+}

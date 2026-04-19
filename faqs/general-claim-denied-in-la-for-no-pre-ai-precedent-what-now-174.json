@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied in LA for 'no pre-AI precedent'—what now?",
+  "description": "Cite recent NY AI sanctions cases.[2]",
+  "url": "aiovisibility.com/faq/general-claim-denied-in-la-for-no-pre-ai-precedent-what-now-174",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied in LA for 'no pre-AI precedent'—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cite recent NY AI sanctions cases.[2]",
+        "description": "Counter with 2026 NY Heppner/Mata establishing AI duties; demand reconsideration or litigate.[1][2] Factors: update adjuster on cases. Bad faith leverage."
+      }
+    }
+  ]
+}

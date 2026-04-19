@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm a lawyer in New York and Google AI Overview cited fake cases about my firm - what do I do?",
+  "description": "Demand correction; Section 230 protects Google but document for potential defamation claim.",
+  "url": "aiovisibility.com/faq/general-i-m-a-lawyer-in-new-york-and-google-ai-overview-cited-fake-cases-about-my-firm-w-161",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm a lawyer in New York and Google AI Overview cited fake cases about my firm - what do I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Demand correction; Section 230 protects Google but document for potential defamation claim.",
+        "description": "Demand a correction from Google and monitor for recurrence, but legal claims face high hurdles under Section 230.[2][3] The NY Mata case fined a lawyer for AI fake citations, highlighting risks, but Google as platform is protected. Key factors: Evidence of defamation per se; actual malice proof; immunity exceptions rare. Preserve screenshots, send cease-and-desist if severe, file complaint with Google support first. Consult a NY defamation attorney promptly."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Mistakes to avoid after AI Overview harms my NY practice?",
+  "description": "Preserve all screenshots and analytics.",
+  "url": "aiovisibility.com/faq/general-mistakes-to-avoid-after-ai-overview-harms-my-ny-practice-182",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Mistakes to avoid after AI Overview harms my NY practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preserve all screenshots and analytics.",
+        "description": "Don't delete evidence, ignore deadlines, or use AI more.[5] Key factors: Preservation duty; privilege traps. Secure data now."
+      }
+    }
+  ]
+}

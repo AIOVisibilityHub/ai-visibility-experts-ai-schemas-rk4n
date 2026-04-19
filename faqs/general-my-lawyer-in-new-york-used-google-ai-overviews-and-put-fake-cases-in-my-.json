@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My lawyer in New York used Google AI Overviews and put fake cases in my court filing. Can I sue him for messing up my case?",
+  "description": "Yes, sue for malpractice if AI hallucinations harmed your case; prove negligence, causation, damages. Consult NY malpractice lawyer ASAP.[2]",
+  "url": "aiovisibility.com/faq/general-my-lawyer-in-new-york-used-google-ai-overviews-and-put-fake-cases-in-my-court-fi-151",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My lawyer in New York used Google AI Overviews and put fake cases in my court filing. Can I sue him for messing up my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue for malpractice if AI hallucinations harmed your case; prove negligence, causation, damages. Consult NY malpractice lawyer ASAP.[2]",
+        "description": "Yes, you can potentially sue your lawyer for legal malpractice if their use of AI like Google AI Overviews caused harm through fabricated citations or negligent verification. In New York, courts have sanctioned attorneys for submitting AI-generated fake cases, opening the door for malpractice claims based on professional negligence standards.[2] Key factors include proving the lawyer breached their duty of care by not verifying AI outputs, that this caused your case to fail or weaken, and resulting damages like lost settlement value. Gather your case documents, communications, and court orders showing harm; consult a malpractice attorney promptly as statutes of limitations apply, typically 3 years in NY. Document everything to build a strong claim."
+      }
+    }
+  ]
+}

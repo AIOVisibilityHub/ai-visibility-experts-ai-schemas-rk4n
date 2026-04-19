@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence proves AI was lawyer-directed for protection?",
+  "description": "Written directions and strategy integration.[1]",
+  "url": "aiovisibility.com/faq/general-what-evidence-proves-ai-was-lawyer-directed-for-protection-225",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence proves AI was lawyer-directed for protection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Written directions and strategy integration.[1]",
+        "description": "Attorney's affirmative instructions and integration into strategy.[1] Court analogs like investigators.[1] Key factors: Documentation key; client solo use fails.[1] Request records from lawyer. Builds defensible record."
+      }
+    }
+  ]
+}

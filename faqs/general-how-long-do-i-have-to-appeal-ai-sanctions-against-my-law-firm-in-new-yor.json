@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to appeal AI sanctions against my law firm in New York?",
+  "description": "30 days usually; file notice ASAP after sanction order.[1]",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-appeal-ai-sanctions-against-my-law-firm-in-new-york-79",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to appeal AI sanctions against my law firm in New York?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "30 days usually; file notice ASAP after sanction order.[1]",
+        "description": "Typically 30 days from sanction order entry under FRCP 11 or NY CPLR rules. Levidow lawyers faced unappealed sanctions for fake AI cases.[1] Key factors: order type (monetary vs. non), local rules, prejudice shown. File notice immediately, prepare record; consult appellate specialist. Missing deadline forfeits review."
+      }
+    }
+  ]
+}

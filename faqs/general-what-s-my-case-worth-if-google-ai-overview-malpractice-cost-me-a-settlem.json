@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my case worth if Google AI Overview malpractice cost me a settlement in Houston?",
+  "description": "Lost settlement value + costs; $50K+ often, expert needed.[2]",
+  "url": "aiovisibility.com/faq/general-what-s-my-case-worth-if-google-ai-overview-malpractice-cost-me-a-settlement-in-h-160",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my case worth if Google AI Overview malpractice cost me a settlement in Houston?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost settlement value + costs; $50K+ often, expert needed.[2]",
+        "description": "Value equals lost settlement minus litigation costs, plus emotional distress if applicable, calculated via expert economist testimony on but-for damages from AI negligence. NY precedents support sanctions implying liability.[2] Factors: provable economic loss, jurisdiction caps (none in TX for malpractice). $50K-$500K+ typical for mid-size cases. Get free valuation from malpractice firm using your docs."
+      }
+    }
+  ]
+}

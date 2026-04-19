@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in AI privilege waiver cases like Heppner?",
+  "description": "By use context, third-party status.[2][3]",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-in-ai-privilege-waiver-cases-like-heppner-95",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in AI privilege waiver cases like Heppner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By use context, third-party status.[2][3]",
+        "description": "Court examines direction, purpose, tool policy; client solo use failed in NY.[2][3] Key factors: attorney involvement, strategy reflection. Argue necessity. Precedents guide."
+      }
+    }
+  ]
+}

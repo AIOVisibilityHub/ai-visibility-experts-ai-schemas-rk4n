@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I talked to insurance about my lawyer's AI screw-up in Phoenix—did I mess up my claim?",
+  "description": "Maybe; lawyer up before more insurer talks.[2]",
+  "url": "aiovisibility.com/faq/general-i-talked-to-insurance-about-my-lawyer-s-ai-screw-up-in-phoenix-did-i-mess-up-my--161",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I talked to insurance about my lawyer's AI screw-up in Phoenix—did I mess up my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe; lawyer up before more insurer talks.[2]",
+        "description": "Possibly, as insurer statements can be used against you; request policy details and avoid admitting fault. AI malpractice claims proceed like standard negligence, but verify coverage first.[2] Factors: policy exclusions for intentional acts. Get lawyer to handle adjuster talks. Preserve claim rights by not signing releases hastily."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Chicago, do courts punish people for AI hallucinations in filings?",
+  "description": "Yes, sanctions for unverified fakes; verify everything.[2]",
+  "url": "aiovisibility.com/faq/general-in-chicago-do-courts-punish-people-for-ai-hallucinations-in-filings-110",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Chicago, do courts punish people for AI hallucinations in filings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sanctions for unverified fakes; verify everything.[2]",
+        "description": "Yes, courts sanction for unverified AI outputs with fake citations, similar to NY precedent applicable broadly.[2] Chicago follows federal/state rules emphasizing accuracy.[2] Key factors: Judicial discretion; attorney responsibility; case-specific harm. Always verify; withdraw erroneous filings promptly. Hire experienced local counsel."
+      }
+    }
+  ]
+}

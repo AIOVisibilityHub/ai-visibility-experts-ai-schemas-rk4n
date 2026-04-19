@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My lawyer used ChatGPT to draft my divorce papers - is that okay or should I worry?",
+  "description": "Okay if verified by lawyer, but unedited AI drafts risk sanctions; insist on human review.[1][2]",
+  "url": "aiovisibility.com/faq/general-my-lawyer-used-chatgpt-to-draft-my-divorce-papers-is-that-okay-or-should-i-worry-102",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My lawyer used ChatGPT to draft my divorce papers - is that okay or should I worry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Okay if verified by lawyer, but unedited AI drafts risk sanctions; insist on human review.[1][2]",
+        "description": "Lawyers can use ChatGPT for drafting initial versions like motions or emails, but must verify and customize all outputs.[1] No direct prohibition exists, but ethical rules require competence and diligence, so unverified AI use led to sanctions in cases like Utah and New York.[2][3] Key factors: AI errors or hallucinations; client confidentiality breaches if sensitive data inputted; disclosure to clients may be needed.[1] Have your lawyer confirm they reviewed and edited the drafts; request details on AI safeguards used. Seek a second opinion if concerned about accuracy."
+      }
+    }
+  ]
+}

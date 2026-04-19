@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Step-by-step: How to optimize my site for AI legal answers?",
+  "description": "Research Qs, direct answers, EEAT, test.[3][6]",
+  "url": "aiovisibility.com/faq/general-step-by-step-how-to-optimize-my-site-for-ai-legal-answers-63",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Step-by-step: How to optimize my site for AI legal answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research Qs, direct answers, EEAT, test.[3][6]",
+        "description": "**1. Research questions via 'People Also Ask.' 2. Write concise answers with local refs. 3. Add bios/links. 4. Update monthly.**[3][4][6] **Key factors:** 1. Match query phrasing. 2. Signal expertise. 3. Test in AI. **Launch FAQ section today; Phoenix example: cite specific jails.**[3] Follow through.[4]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do outcomes differ suing in NY vs. Texas for Google AI lawyer errors?",
+  "description": "NY stronger AI precedent; TX longer time.[1]",
+  "url": "aiovisibility.com/faq/general-do-outcomes-differ-suing-in-ny-vs-texas-for-google-ai-lawyer-errors-175",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do outcomes differ suing in NY vs. Texas for Google AI lawyer errors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NY stronger AI precedent; TX longer time.[1]",
+        "description": "Similar negligence standards, but NY federal precedents stronger for AI waiver; TX 4yr SOL longer.[1][2] Factors: venue choice. NY tougher sanctions."
+      }
+    }
+  ]
+}

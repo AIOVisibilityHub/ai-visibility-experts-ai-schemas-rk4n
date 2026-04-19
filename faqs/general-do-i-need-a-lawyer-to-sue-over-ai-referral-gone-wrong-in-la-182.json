@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer to sue over AI referral gone wrong in LA?",
+  "description": "Yes, mandatory for success due to complexities in CA.",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-to-sue-over-ai-referral-gone-wrong-in-la-182",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer to sue over AI referral gone wrong in LA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, mandatory for success due to complexities in CA.",
+        "description": "Strongly recommended; malpractice cases are complex with procedural hurdles. California 'certificate of merit' requires attorney review. Key factors: (1) Technical AI evidence; (2) Expert witnesses needed; (3) Discovery battles. Self-rep risks dismissal. Find a tech-savvy malpractice specialist."
+      }
+    }
+  ]
+}

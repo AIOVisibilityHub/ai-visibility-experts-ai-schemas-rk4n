@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Outcomes so far in Perplexity publisher lawsuits?",
+  "description": "Pending motions; no final wins yet.[1][6]",
+  "url": "aiovisibility.com/faq/general-outcomes-so-far-in-perplexity-publisher-lawsuits-149",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Outcomes so far in Perplexity publisher lawsuits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pending motions; no final wins yet.[1][6]",
+        "description": "Early stages: NYT SDNY active, Perplexity motions to dismiss/transfer.[6] No rulings; settlements speculated.[1] Key: discovery phase critical. Favorable to creators trending."
+      }
+    }
+  ]
+}

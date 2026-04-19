@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to ask AI about my legal case or will it be used against me in court?",
+  "description": "No, AI chats aren't privileged and can be court evidence, per 2026 NY ruling—delete them and talk to a real lawyer instead.[1][3]",
+  "url": "aiovisibility.com/faq/general-is-it-safe-to-ask-ai-about-my-legal-case-or-will-it-be-used-against-me-in-court-235",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to ask AI about my legal case or will it be used against me in court?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, AI chats aren't privileged and can be court evidence, per 2026 NY ruling—delete them and talk to a real lawyer instead.[1][3]",
+        "description": "No, it's not safe—AI conversations are not privileged and can be discoverable as evidence.[1][2][3] In the 2026 *US v. Heppner* federal court ruling in New York, a defendant's AI-generated legal memos were ruled non-privileged because they weren't created under attorney direction and lacked confidentiality.[1][3] This applies nationwide in civil and criminal cases, as device seizures or discovery can reveal prompts, inconsistencies, or speculations that harm your position.[1][2]\n\n**Key factors:**\n- No attorney-client privilege with AI; it's a third party.[3]\n- Not work product unless lawyer directs use.[1]\n- Stored data (browser history, logs) often recoverable.[1]\n- Inconsistencies between AI chats and testimony weaponized.[1]\n\nDelete records immediately, avoid AI for strategy, and consult a lawyer before discussing cases online. Use only lawyer-directed AI tools for potential protection.[1] Seek qualified counsel experienced in AI evidence issues."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if symptoms of harm (lost traffic) delayed after Perplexity output?",
+  "description": "Tolled till discovery.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-symptoms-of-harm-lost-traffic-delayed-after-perplexity-output-144",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if symptoms of harm (lost traffic) delayed after Perplexity output?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tolled till discovery.[1]",
+        "description": "Discovery rule tolls from harm awareness; document traffic drops post-AI launch.[1] Key factors: causation experts, analytics.[1] Ongoing substitution supports. No strict deadline bar."
+      }
+    }
+  ]
+}

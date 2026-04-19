@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Perplexity partially transformed my content. Still sueable?",
+  "description": "Yes, if substitutes original.[2][4]",
+  "url": "aiovisibility.com/faq/general-perplexity-partially-transformed-my-content-still-sueable-156",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Perplexity partially transformed my content. Still sueable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if substitutes original.[2][4]",
+        "description": "Yes if substantial similarity and market harm; publishers claim even 'answers' infringe.[2][3] Key factors: Not fair use per courts.[4] Minimal change = copying. Prove substitution."
+      }
+    }
+  ]
+}

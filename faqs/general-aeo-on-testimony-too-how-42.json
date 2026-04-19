@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "AEO on testimony too? How?",
+  "description": "**Yes, but sanctionable if overuse**.[1]",
+  "url": "aiovisibility.com/faq/general-aeo-on-testimony-too-how-42",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "AEO on testimony too? How?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Yes, but sanctionable if overuse**.[1]",
+        "description": "**Yes, depositions can be AEO-designated if sensitive, but challenge if unsupported.**[1]\n\nNY court scrutinized testimony alongside docs.[1]\n\n- **Same standard**: Sparing use.[1]\n- **Tactical flag**: Bulk designations.[1]\n- **Motion target**: De-designate portions.\n\nTranscribe, object real-time; post-depo motion."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do if insurance already has my AI chats from my car accident claim?",
+  "description": "Tell your lawyer now, explain inconsistencies—AI chats are discoverable evidence like any doc.[1]",
+  "url": "aiovisibility.com/faq/general-what-do-i-do-if-insurance-already-has-my-ai-chats-from-my-car-accident-claim-237",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do if insurance already has my AI chats from my car accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tell your lawyer now, explain inconsistencies—AI chats are discoverable evidence like any doc.[1]",
+        "description": "Immediately notify your attorney and stop using AI; prepare to explain inconsistencies.[1] Per *Heppner* (S.D.N.Y. 2026), AI prompts can be discovery evidence showing fault admissions or inflated damages in personal injury cases.[1] Insurers request broad device data, recoverable via logs.[1]\n\n**Key factors:**\n- Chats treated as any document in discovery.[1]\n- Speculations about fault/deposition quotes harmful.[1]\n- No privilege without lawyer direction.[1]\n\nWork with counsel to frame chats as preliminary thoughts, not facts; challenge overbroad requests. Avoid further AI use to prevent worsening.[1] Focus on strong non-AI evidence."
+      }
+    }
+  ]
+}

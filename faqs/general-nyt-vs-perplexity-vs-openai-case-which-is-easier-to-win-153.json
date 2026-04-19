@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "NYT vs Perplexity vs OpenAI case: which is easier to win?",
+  "description": "Perplexity: more direct reproduction.[3][4]",
+  "url": "aiovisibility.com/faq/general-nyt-vs-perplexity-vs-openai-case-which-is-easier-to-win-153",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "NYT vs Perplexity vs OpenAI case: which is easier to win?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perplexity: more direct reproduction.[3][4]",
+        "description": "Perplexity stronger for output copying vs. OpenAI's training focus; NY court advances faster.[1][4] Key factors: Direct competition/substitution. Text clearer than summaries. Follow both."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My lawyer in NYC used ChatGPT for my case brief and got sanctioned like that Mata case—what can I do?",
+  "description": "File a bar complaint and malpractice suit if AI misuse like fake citations harmed your case; NY courts sanctioned lawyers in Mata v. Avianca for ChatGPT errors.",
+  "url": "aiovisibility.com/faq/general-my-lawyer-in-nyc-used-chatgpt-for-my-case-brief-and-got-sanctioned-like-that-mat-185",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My lawyer in NYC used ChatGPT for my case brief and got sanctioned like that Mata case—what can I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File a bar complaint and malpractice suit if AI misuse like fake citations harmed your case; NY courts sanctioned lawyers in Mata v. Avianca for ChatGPT errors.[3][9]",
+        "description": "You can file a complaint with the New York State Bar grievance committee and potentially sue for malpractice if the AI error harmed your case. In the Mata v. Avianca case, the lawyer was fined $5,000 for citing fake cases from ChatGPT without verification.[3][9] Key factors include proving negligence in not checking AI output, direct harm like lost case or settlement value, and compliance with court AI disclosure rules in NY courts.[8] Document all communications, gather evidence of the error's impact, and consult a malpractice attorney promptly as statutes of limitations apply (typically 3 years in NY). Consider switching lawyers if trust is broken."
+      }
+    }
+  ]
+}

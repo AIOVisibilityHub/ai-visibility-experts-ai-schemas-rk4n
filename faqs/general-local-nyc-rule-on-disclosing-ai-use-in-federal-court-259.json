@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Local NYC rule on disclosing AI use in federal court?",
+  "description": "Disclose per judge orders—NY feds strict.[4]",
+  "url": "aiovisibility.com/faq/general-local-nyc-rule-on-disclosing-ai-use-in-federal-court-259",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Local NYC rule on disclosing AI use in federal court?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disclose per judge orders—NY feds strict.[4]",
+        "description": "Yes, many judges require AI disclosure/monitoring per standing orders.[4] S.D.NY *Heppner* context.\n\n**Key factors:**\n- Certify no hallucinations.\n- Supervise duty.\n- Sanctions for fakes.\n\nComply or risk; attorney handles. Check docket.[4] Transparent use."
+      }
+    }
+  ]
+}

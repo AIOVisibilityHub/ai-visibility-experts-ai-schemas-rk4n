@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer to fight if my LA firm's Google AI use got our work product discovered?",
+  "description": "Yes, get e-discovery lawyer; pro se too risky in privilege fights.[4]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-to-fight-if-my-la-firm-s-google-ai-use-got-our-work-product-d-158",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer to fight if my LA firm's Google AI use got our work product discovered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, get e-discovery lawyer; pro se too risky in privilege fights.[4]",
+        "description": "Yes, hire a litigation attorney experienced in e-discovery and privilege disputes, as self-representation risks further waivers like in Heppner where AI outputs were ruled discoverable.[3][4] Factors: complexity of motions to quash, opposing arguments on waiver. Pro se harder in federal court. Costs may be recoverable if you prevail. Start with consult to evaluate motion chances."
+      }
+    }
+  ]
+}

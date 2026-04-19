@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing bad reviews + AI Overview harm - how to prove Google caused it?",
+  "description": "Use analytics to show AI-specific drop.",
+  "url": "aiovisibility.com/faq/general-pre-existing-bad-reviews-ai-overview-harm-how-to-prove-google-caused-it-174",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing bad reviews + AI Overview harm - how to prove Google caused it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use analytics to show AI-specific drop.",
+        "description": "Isolate AI impact via timestamps, A/B traffic analysis.[3] Key factors: Causation experts; baseline data. Tough but possible."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What damages from low AI visibility for my LA practice?",
+  "description": "Major lead loss to competitors.[3]",
+  "url": "aiovisibility.com/faq/general-what-damages-from-low-ai-visibility-for-my-la-practice-11",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What damages from low AI visibility for my LA practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Major lead loss to competitors.[3]",
+        "description": "**Lost client inquiries as AI directs traffic to visible competitors, potentially 50-80% fewer leads.** Shift to AI search amplifies this. **Key factors:** 1) Market size; 2) Practice consumer-focus; 3) Competitor dominance; 4) Recovery time. Quantify via lead tracking, prioritize high-ROI listings. Damages compound without action.[3]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is answer engine optimization and do lawyers really need it?",
+  "description": "AEO/GEO gets your firm cited in AI answers; vital as traditional SEO fades.[3][4]",
+  "url": "aiovisibility.com/faq/general-what-is-answer-engine-optimization-and-do-lawyers-really-need-it-52",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is answer engine optimization and do lawyers really need it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO/GEO gets your firm cited in AI answers; vital as traditional SEO fades.[3][4]",
+        "description": "**Answer Engine Optimization (AEO) or GEO optimizes law firm content to be cited by AI tools like Google AI Overviews, not just search rankings.**[3][4] Traditional SEO ranks pages; AEO/GEO makes your firm the recommended source in AI responses to legal queries.[2][6] **Key factors:** 1. AI answers 70%+ of searches directly.[4] 2. Lawyers win by addressing client FAQs precisely.[6] 3. EEAT signals boost AI trust.[3] 4. Proven ROI for Am Law firms.[2] **Audit your site for question-based content, add New York court specifics if local, and track AI mentions; ignore it and lose to optimized competitors.**[3] GEO is essential as SEO evolves.[3]"
+      }
+    }
+  ]
+}

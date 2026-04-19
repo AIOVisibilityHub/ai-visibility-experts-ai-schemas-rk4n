@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What damages can I claim if AI Overview defames my Phoenix law firm?",
+  "description": "Lost revenue mainly; punitive hard due to immunity.",
+  "url": "aiovisibility.com/faq/general-what-damages-can-i-claim-if-ai-overview-defames-my-phoenix-law-firm-169",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What damages can I claim if AI Overview defames my Phoenix law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost revenue mainly; punitive hard due to immunity.",
+        "description": "Compensatory for lost clients, punitive if malice shown, but Section 230 caps most.[4] Key factors: Quantifiable losses; reputational harm proof; rare exceptions. Use economic experts. AZ defamation statutes apply."
+      }
+    }
+  ]
+}

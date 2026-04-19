@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI referral different from human referral legally in Houston?",
+  "description": "No difference; attorneys liable for AI errors in TX.",
+  "url": "aiovisibility.com/faq/general-is-ai-referral-different-from-human-referral-legally-in-houston-189",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI referral different from human referral legally in Houston?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No difference; attorneys liable for AI errors in TX.",
+        "description": "Same liability standards apply; AI doesn't shield negligence. Texas holds attorneys accountable for tools used. Key factors: (1) Competence in AI; (2) Output verification; (3) No privilege waiver. Courts treat AI as assistant."
+      }
+    }
+  ]
+}

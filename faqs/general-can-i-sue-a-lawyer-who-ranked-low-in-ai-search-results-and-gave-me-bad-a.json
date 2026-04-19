@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue a lawyer who ranked low in AI search results and gave me bad advice?",
+  "description": "Maybe for malpractice, but AI rank doesn't prove bad lawyering—need breach + harm evidence.[4]",
+  "url": "aiovisibility.com/faq/general-can-i-sue-a-lawyer-who-ranked-low-in-ai-search-results-and-gave-me-bad-advice-238",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue a lawyer who ranked low in AI search results and gave me bad advice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe for malpractice, but AI rank doesn't prove bad lawyering—need breach + harm evidence.[4]",
+        "description": "Possibly, if malpractice proven, but low AI ranking isn't direct evidence of negligence.[4] Legal malpractice requires showing breach of duty causing harm; AI rankings reflect visibility, not competence.[1][4] Courts sanction lawyers for AI hallucinations (e.g., fake cases), but client suits need expert testimony.[4]\n\n**Key factors:**\n- Prove substandard advice caused loss.[4]\n- AI ranking irrelevant to standard of care.\n- NY/California bars require AI supervision.[4]\n\nDocument advice, outcomes, and consult malpractice attorney within statutes (e.g., 3 years NY). Check bar complaints first.[4] Don't rely on AI rankings for lawyer selection."
+      }
+    }
+  ]
+}

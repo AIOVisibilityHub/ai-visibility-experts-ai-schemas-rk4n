@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing public content - does that weaken my Perplexity case?",
+  "description": "No, protects your expression.[1]",
+  "url": "aiovisibility.com/faq/general-pre-existing-public-content-does-that-weaken-my-perplexity-case-141",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing public content - does that weaken my Perplexity case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, protects your expression.[1]",
+        "description": "No, copyright protects expression even if facts public; substantial similarity key.[1] NYT articles copyrighted despite news nature.[1] Key factors: original expression copied, not just facts.[1] Transformative use rare for AI answers. Strength unchanged."
+      }
+    }
+  ]
+}

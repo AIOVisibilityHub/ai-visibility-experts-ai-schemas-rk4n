@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Happened at work - can employer sue Google for AI Overview?",
+  "description": "Employer has standing for business losses.",
+  "url": "aiovisibility.com/faq/general-happened-at-work-can-employer-sue-google-for-ai-overview-180",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Happened at work - can employer sue Google for AI Overview?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employer has standing for business losses.",
+        "description": "Yes, if business harm; employee claims separate.[4] Key factors: Standing; indemnity. Coordinate."
+      }
+    }
+  ]
+}

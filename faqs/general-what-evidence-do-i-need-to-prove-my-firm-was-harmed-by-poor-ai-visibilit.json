@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to prove my firm was harmed by poor AI visibility?",
+  "description": "Analytics drops, AI screenshots, lead logs.[3][6]",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-to-prove-my-firm-was-harmed-by-poor-ai-visibility-56",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to prove my firm was harmed by poor AI visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Analytics drops, AI screenshots, lead logs.[3][6]",
+        "description": "**Document lost leads via Google Analytics traffic drops and AI query tests showing competitors cited.**[3] Compare pre/post-AI rankings and client inquiries.[6] **Key factors:** 1. Screenshots of AI responses excluding you. 2. Revenue tied to organic search. 3. Expert testimony on GEO standards. **Gather 6 months data, consult antitrust if platforms bias against small firms; rare lawsuits but builds case.**[1] Track diligently.[3]"
+      }
+    }
+  ]
+}

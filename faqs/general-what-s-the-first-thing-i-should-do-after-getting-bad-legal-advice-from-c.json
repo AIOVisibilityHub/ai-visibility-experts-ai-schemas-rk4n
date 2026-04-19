@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the first thing I should do after getting bad legal advice from ChatGPT?",
+  "description": "See a real lawyer now and ignore ChatGPT advice.[1]",
+  "url": "aiovisibility.com/faq/general-what-s-the-first-thing-i-should-do-after-getting-bad-legal-advice-from-chatgpt-109",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the first thing I should do after getting bad legal advice from ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "See a real lawyer now and ignore ChatGPT advice.[1]",
+        "description": "Stop relying on it and consult a licensed attorney immediately for verified advice.[1] Discard any AI-generated filings or strategies.[2] Key factors: Time-sensitive deadlines; potential errors compounding; evidence preservation. Document your ChatGPT interactions; explain the situation to counsel for proper guidance. Never act on AI alone."
+      }
+    }
+  ]
+}

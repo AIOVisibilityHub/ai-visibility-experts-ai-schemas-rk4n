@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if the other side finds out I used ChatGPT prompts in my lawsuit?",
+  "description": "Prompts are discoverable if relevant; treat like any case document and consult lawyer.[4][5]",
+  "url": "aiovisibility.com/faq/general-what-happens-if-the-other-side-finds-out-i-used-chatgpt-prompts-in-my-lawsuit-103",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if the other side finds out I used ChatGPT prompts in my lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prompts are discoverable if relevant; treat like any case document and consult lawyer.[4][5]",
+        "description": "AI prompts and generated documents are potentially discoverable as evidence in litigation.[4][5] Courts may compel production if relevant, similar to other work product, raising concerns over data scraping and regurgitation by models like ChatGPT.[4] Key factors: No privilege for AI inputs unless protected; relevance to case strategy; subpoenas possible but require justification.[3] Preserve all prompts and outputs now; consult a lawyer on privilege assertions before responding to discovery. Avoid inputting confidential info into public AI tools."
+      }
+    }
+  ]
+}

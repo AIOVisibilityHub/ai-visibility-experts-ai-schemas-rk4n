@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my employer fires me after I used ChatGPT for a work legal issue?",
+  "description": "Check retaliation laws; see employment lawyer.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-my-employer-fires-me-after-i-used-chatgpt-for-a-work-legal-issue-115",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my employer fires me after I used ChatGPT for a work legal issue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check retaliation laws; see employment lawyer.[1]",
+        "description": "Retaliation claims possible if protected activity, but AI use complicates; consult employment lawyer.[1] No direct link in results.[2] Key factors: At-will employment; documentation; policy violations. Document everything; file EEOC if discriminatory. Avoid AI for work legal matters."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In LA, can courts sanction for AI-generated fake cases like NY?",
+  "description": "Yes, CA follows Rule 11; fake AI risks sanctions.[1]",
+  "url": "aiovisibility.com/faq/general-in-la-can-courts-sanction-for-ai-generated-fake-cases-like-ny-85",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In LA, can courts sanction for AI-generated fake cases like NY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, CA follows Rule 11; fake AI risks sanctions.[1]",
+        "description": "Yes, California courts mirror federal Rule 11 sanctions for bad faith filings. NY Levidow precedent influences nationwide.[1] Key factors: unverified AI, harm caused. Expect similar fines, orders. Implement CA-specific AI ethics checks."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for AI visibility disputes? No—it's marketing.",
+  "description": "No, pure marketing fix.[4]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-for-ai-visibility-disputes-no-it-s-marketing-24",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for AI visibility disputes? No—it's marketing.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, pure marketing fix.[4]",
+        "description": "**No legal cases exist; treat as business strategy, not litigation.** No precedents for 'AI denial' suits. **Key factors:** 1) Non-justiciable; 2) Source-dependent; 3) DIY fixes; 4) Pro help optional. Focus internal audits over courts. Zero legal recourse.[4]"
+      }
+    }
+  ]
+}

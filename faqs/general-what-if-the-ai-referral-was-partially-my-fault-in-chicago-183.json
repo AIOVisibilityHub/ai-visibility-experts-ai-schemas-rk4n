@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the AI referral was partially my fault in Chicago?",
+  "description": "Partial fault reduces but doesn't eliminate claim in IL.",
+  "url": "aiovisibility.com/faq/general-what-if-the-ai-referral-was-partially-my-fault-in-chicago-183",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the AI referral was partially my fault in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Partial fault reduces but doesn't eliminate claim in IL.",
+        "description": "Comparative fault may reduce recovery but not bar it if firm primarily negligent. Illinois applies modified comparative negligence. Key factors: (1) Your actions vs. firm's duty; (2) AI oversight failure; (3) Proportional fault allocation. Disclose honestly to your new lawyer. Courts weigh attorney standards higher."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get damages if partially my fault for telling my NY lawyer to use Google AI Overview?",
+  "description": "Yes, reduced by your fault % in NY comparative negligence.[2]",
+  "url": "aiovisibility.com/faq/general-can-i-get-damages-if-partially-my-fault-for-telling-my-ny-lawyer-to-use-google-a-162",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get damages if partially my fault for telling my NY lawyer to use Google AI Overview?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, reduced by your fault % in NY comparative negligence.[2]",
+        "description": "Yes, under comparative negligence, damages reduce by your fault percentage if you directed unverified AI use, but lawyer still liable for breach. NY follows pure comparative fault.[2] Factors: proof of your instructions vs. duty to verify. Courts prioritize lawyer diligence. Argue shared responsibility in settlement."
+      }
+    }
+  ]
+}

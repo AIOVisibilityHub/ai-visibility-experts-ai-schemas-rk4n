@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if insurance finds out I asked AI how much my injury claim is worth?",
+  "description": "AI damage estimates can hurt your case in discovery—avoid it.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-insurance-finds-out-i-asked-ai-how-much-my-injury-claim-is-worth-212",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if insurance finds out I asked AI how much my injury claim is worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI damage estimates can hurt your case in discovery—avoid it.[1]",
+        "description": "Your AI prompts estimating damages can be requested in discovery and used to argue your expectations were unrealistic or inconsistent.[1] Opposing counsel could quote speculations about fault or events differing from your testimony.[1] Key factors: No privilege applies; AI disclaims legal advice; every prompt is potentially evidence.[1] Stop using AI for case strategy now; document everything through your attorney instead. Switch to privileged channels immediately."
+      }
+    }
+  ]
+}

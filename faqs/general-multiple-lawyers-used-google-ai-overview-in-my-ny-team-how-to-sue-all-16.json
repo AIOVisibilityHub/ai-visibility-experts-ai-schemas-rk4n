@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple lawyers used Google AI Overview in my NY team—how to sue all?",
+  "description": "Joint suit on firm; prove shared fault.[1]",
+  "url": "aiovisibility.com/faq/general-multiple-lawyers-used-google-ai-overview-in-my-ny-team-how-to-sue-all-167",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple lawyers used Google AI Overview in my NY team—how to sue all?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Joint suit on firm; prove shared fault.[1]",
+        "description": "Sue jointly/severally if shared negligence caused harm; parse firm liability vs. individuals via partnership docs.[1] Factors: who filed fakes. Joinder simplifies. Settle firm-wide often."
+      }
+    }
+  ]
+}

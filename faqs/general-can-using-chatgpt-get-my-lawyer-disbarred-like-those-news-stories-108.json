@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can using ChatGPT get my lawyer disbarred like those news stories?",
+  "description": "No, only unverified misuse leads to sanctions, not use itself.[2]",
+  "url": "aiovisibility.com/faq/general-can-using-chatgpt-get-my-lawyer-disbarred-like-those-news-stories-108",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can using ChatGPT get my lawyer disbarred like those news stories?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, only unverified misuse leads to sanctions, not use itself.[2]",
+        "description": "Disbarment is unlikely for mere use; sanctions occur for submitting unverified fabricated content, as in 2023 NY and Utah cases.[2][3] Misuse, not use, triggers discipline.[2] Key factors: Failure to verify; ethical violations; client harm. Ensure your lawyer verifies all AI outputs; report concerns to bar if needed. Proper use enhances efficiency safely."
+      }
+    }
+  ]
+}

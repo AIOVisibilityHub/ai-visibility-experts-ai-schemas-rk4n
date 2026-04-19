@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My content partially at fault? Perplexity linked back - still sueable?",
+  "description": "Yes, links don't excuse substitution copying.[1]",
+  "url": "aiovisibility.com/faq/general-my-content-partially-at-fault-perplexity-linked-back-still-sueable-134",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My content partially at fault? Perplexity linked back - still sueable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, links don't excuse substitution copying.[1]",
+        "description": "Links don't immunize; NYT notes users skip sources due to full reproductions.[1] Partial attribution irrelevant if substantial copying substitutes.[1] Key factors: output completeness, user behavior surveys for market harm.[1] Test if links deter visits; claim dilution persists. Links weaken but don't defeat claims."
+      }
+    }
+  ]
+}

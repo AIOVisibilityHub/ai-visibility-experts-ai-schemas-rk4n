@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my firm's AI invisibility—how to prove need?",
+  "description": "Query AI yourself; log results.[1]",
+  "url": "aiovisibility.com/faq/general-no-witnesses-to-my-firm-s-ai-invisibility-how-to-prove-need-14",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my firm's AI invisibility—how to prove need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Query AI yourself; log results.[1]",
+        "description": "**Self-audit: query AI for your practice/city; zero mentions confirm issue.** Track competitor appearances as evidence. **Key factors:** 1) Direct tests; 2) Lead logs; 3) Directory gaps; 4) PR scans. Document weekly, share with partners. Proof is data-driven.[1][3]"
+      }
+    }
+  ]
+}

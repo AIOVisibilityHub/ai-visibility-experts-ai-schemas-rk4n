@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing condition + AI fault chat—will they lowball my Chicago claim?",
+  "description": "Yes, but prove aggravation with docs—AI hurts cred.[1]",
+  "url": "aiovisibility.com/faq/general-pre-existing-condition-ai-fault-chat-will-they-lowball-my-chicago-claim-247",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing condition + AI fault chat—will they lowball my Chicago claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but prove aggravation with docs—AI hurts cred.[1]",
+        "description": "Likely, as AI may suggest exaggeration.[1][4] Courts apportion aggravation; AI discoverable.\n\n**Key factors:**\n- Medical causation key.\n- AI harms credibility.\n- IL comparative fault.\n\nExpert IME counters; delete AI. Strong records win value.[1] Negotiate hard via counsel."
+      }
+    }
+  ]
+}

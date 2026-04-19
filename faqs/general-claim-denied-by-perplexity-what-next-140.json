@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied by Perplexity - what next?",
+  "description": "Cease/desist, then sue in federal court.[1]",
+  "url": "aiovisibility.com/faq/general-claim-denied-by-perplexity-what-next-140",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied by Perplexity - what next?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cease/desist, then sue in federal court.[1]",
+        "description": "Send cease/desist with evidence; file suit if ignored—NYT proceeded post-notice.[1] Key factors: response timeline (30 days typical), escalation path.[1] Preserve for spoliation claims. Litigation often prompts settlement."
+      }
+    }
+  ]
+}

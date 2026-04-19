@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Houston, are AI prompts protected from discovery in family court?",
+  "description": "No privilege; discoverable if relevant.[4]",
+  "url": "aiovisibility.com/faq/general-in-houston-are-ai-prompts-protected-from-discovery-in-family-court-117",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Houston, are AI prompts protected from discovery in family court?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No privilege; discoverable if relevant.[4]",
+        "description": "Generally discoverable if relevant; no automatic privilege for AI unlike attorney work product.[4][5] Texas courts follow similar rules.[4] Key factors: Case relevance; overbreadth objections; protective orders. Assert privilege narrowly; get lawyer advice. Minimize sensitive inputs."
+      }
+    }
+  ]
+}

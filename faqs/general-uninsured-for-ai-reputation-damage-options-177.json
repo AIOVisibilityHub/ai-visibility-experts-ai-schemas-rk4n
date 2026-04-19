@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured for AI reputation damage - options?",
+  "description": "Direct claim unlikely; get cyber insurance.",
+  "url": "aiovisibility.com/faq/general-uninsured-for-ai-reputation-damage-options-177",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured for AI reputation damage - options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Direct claim unlikely; get cyber insurance.",
+        "description": "Pursue Google directly (low odds) or cyber insurance add-ons.[1] Key factors: Policy gaps; self-help PR. Shop coverage now."
+      }
+    }
+  ]
+}

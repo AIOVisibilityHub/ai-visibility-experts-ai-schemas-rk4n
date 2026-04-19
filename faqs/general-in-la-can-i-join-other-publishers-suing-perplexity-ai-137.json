@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In LA, can I join other publishers suing Perplexity AI?",
+  "description": "Possible class if common issues; watch WSJ case.[2]",
+  "url": "aiovisibility.com/faq/general-in-la-can-i-join-other-publishers-suing-perplexity-ai-137",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In LA, can I join other publishers suing Perplexity AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible class if common issues; watch WSJ case.[2]",
+        "description": "Class actions possible if common scraping harms; monitor WSJ/NY Post suit for consolidation.[2] Key factors: numerosity, typicality, CA jurisdiction (Perplexity HQ).[2] Individual suits faster; CA federal court viable. Check dockets for opt-in opportunities."
+      }
+    }
+  ]
+}

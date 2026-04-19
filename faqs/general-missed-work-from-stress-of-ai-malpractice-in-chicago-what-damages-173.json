@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed work from stress of AI malpractice in Chicago—what damages?",
+  "description": "Wages + distress with proof.[2]",
+  "url": "aiovisibility.com/faq/general-missed-work-from-stress-of-ai-malpractice-in-chicago-what-damages-173",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed work from stress of AI malpractice in Chicago—what damages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wages + distress with proof.[2]",
+        "description": "Lost wages + emotional distress if severe, provable via medical/employer records; secondary to main negligence claim.[2] Factors: causation link. Caps unlikely."
+      }
+    }
+  ]
+}

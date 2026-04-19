@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My firm got a denial from Best Lawyers—now what for AI?",
+  "description": "Switch to Avvo/Super; PR backup.[1]",
+  "url": "aiovisibility.com/faq/general-my-firm-got-a-denial-from-best-lawyers-now-what-for-ai-13",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My firm got a denial from Best Lawyers—now what for AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Switch to Avvo/Super; PR backup.[1]",
+        "description": "**Apply to Super Lawyers/Avvo alternatives and build PR patterns for partial visibility.** One denial doesn't block; AI uses multiples. **Key factors:** 1) Backup directories; 2) Review building; 3) Niche wins; 4) Houston tweaks. Reapply next cycle, reinforce elsewhere. Recovery in 3 months.[1][3]"
+      }
+    }
+  ]
+}

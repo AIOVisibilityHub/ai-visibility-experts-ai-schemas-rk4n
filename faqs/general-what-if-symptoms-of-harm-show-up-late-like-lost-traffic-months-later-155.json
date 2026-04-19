@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if symptoms of harm show up late, like lost traffic months later?",
+  "description": "3 years from harm discovery.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-symptoms-of-harm-show-up-late-like-lost-traffic-months-later-155",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if symptoms of harm show up late, like lost traffic months later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3 years from harm discovery.[1]",
+        "description": "Discovery rule applies; sue within 3 years of realizing harm.[1] Key factors: Link to Perplexity via analytics drop post-outputs. Like delayed paywall breaches.[2] Document trends. Courts accept."
+      }
+    }
+  ]
+}

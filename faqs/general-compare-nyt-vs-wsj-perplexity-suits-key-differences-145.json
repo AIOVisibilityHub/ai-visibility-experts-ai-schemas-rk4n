@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare NYT vs WSJ Perplexity suits - key differences?",
+  "description": "NYT adds TM/hallucinations; similar core IP.[1][2]",
+  "url": "aiovisibility.com/faq/general-compare-nyt-vs-wsj-perplexity-suits-key-differences-145",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare NYT vs WSJ Perplexity suits - key differences?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NYT adds TM/hallucinations; similar core IP.[1][2]",
+        "description": "NYT emphasizes hallucinations/trademarks; WSJ/NY Post focus scraping substitution.[1][2] Both seek injunctions/damages; NYT in SDNY, others pending.[2] Key: broader claims in NYT. Follow all for precedent."
+      }
+    }
+  ]
+}

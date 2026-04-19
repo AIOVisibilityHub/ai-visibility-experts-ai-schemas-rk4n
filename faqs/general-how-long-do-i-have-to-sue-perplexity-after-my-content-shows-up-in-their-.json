@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to sue Perplexity after my content shows up in their AI answers?",
+  "description": "3 years for copyright from discovery; act sooner to avoid defenses like laches.[1]",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-sue-perplexity-after-my-content-shows-up-in-their-ai-answe-128",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to sue Perplexity after my content shows up in their AI answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3 years for copyright from discovery; act sooner to avoid defenses like laches.[1]",
+        "description": "You generally have three years from discovering the infringement to file a copyright claim under U.S. law.[1] For trademarks, four years from harm accrual applies in many jurisdictions.[1] The NYT suit was filed promptly after scraping detection, emphasizing timely action to avoid laches defenses.[1] Key factors: accrual date (discovery), ongoing infringement tolling, and jurisdiction nuances like NY's six-year contract limit if applicable.[1] Track all instances continuously; file before evidence degrades or defenses strengthen."
+      }
+    }
+  ]
+}

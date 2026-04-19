@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue if AI referral firm in LA ghosted me after taking case?",
+  "description": "Sue for abandonment if harmed; demand letter first in CA.",
+  "url": "aiovisibility.com/faq/general-can-i-sue-if-ai-referral-firm-in-la-ghosted-me-after-taking-case-187",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue if AI referral firm in LA ghosted me after taking case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue for abandonment if harmed; demand letter first in CA.",
+        "description": "Yes, for abandonment/breach if harm resulted. California requires diligent representation. Key factors: (1) Referral agreement terms; (2) Communication logs; (3) Prejudice shown. Send demand letter first. Statute 1-4 years."
+      }
+    }
+  ]
+}

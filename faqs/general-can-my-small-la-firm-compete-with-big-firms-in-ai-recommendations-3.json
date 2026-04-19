@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my small LA firm compete with big firms in AI recommendations?",
+  "description": "Yes, target Avvo/Super Lawyers for consumer tiers in LA; ignore website SEO.[3]",
+  "url": "aiovisibility.com/faq/general-can-my-small-la-firm-compete-with-big-firms-in-ai-recommendations-3",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my small LA firm compete with big firms in AI recommendations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, target Avvo/Super Lawyers for consumer tiers in LA; ignore website SEO.[3]",
+        "description": "**Yes, by focusing on niche recognitions and consumer-tier directories like Avvo or Super Lawyers, which AI cites for certain practices.** In Los Angeles, AI results split by tier: institutional (Chambers) vs. consumer (Avvo, reviews), so small firms can dominate consumer queries. Firm websites remain invisible regardless of SEO. **Key factors:** 1) Target practice-specific directories; 2) Build review volume; 3) Consistent authority signals; 4) Avoid self-claims. Pursue verifiable listings in your area, reinforce via PR, and test queries to track progress. Small firms gain traction faster in consumer law areas.[3]"
+      }
+    }
+  ]
+}

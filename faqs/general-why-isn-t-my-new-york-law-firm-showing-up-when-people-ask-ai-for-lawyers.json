@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why isn't my New York law firm showing up when people ask AI for lawyers?",
+  "description": "Lack independent recognitions like Chambers/Best Lawyers; AI ignores firm sites in NY. Get verified listings now.[3]",
+  "url": "aiovisibility.com/faq/general-why-isn-t-my-new-york-law-firm-showing-up-when-people-ask-ai-for-lawyers-1",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why isn't my New York law firm showing up when people ask AI for lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lack independent recognitions like Chambers/Best Lawyers; AI ignores firm sites in NY. Get verified listings now.[3]",
+        "description": "**Your firm likely lacks independent third-party recognitions like Chambers or Best Lawyers, which dominate AI recommendations in competitive markets like New York.** AI platforms prioritize verifiable credentials from trusted directories over firm websites, making self-published content invisible. In New York, Chicago, and Los Angeles, results favor selective national systems across practice areas. **Key factors:** 1) No citations from Chambers, Best Lawyers, Super Lawyers; 2) Website optimization ignored by AI; 3) Consumer vs. institutional tiers split results; 4) Patterns across PR and site needed. Audit your AI presence on ChatGPT or Perplexity, then pursue peer-reviewed listings and align PR with website claims for reinforced expertise signals. Firms ignoring this risk zero visibility as clients shift to 'ask and receive' AI searches.[1][2][3]"
+      }
+    }
+  ]
+}

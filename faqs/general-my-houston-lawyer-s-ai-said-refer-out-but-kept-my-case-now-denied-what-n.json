@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My Houston lawyer's AI said refer out but kept my case—now denied, what now?",
+  "description": "Sue for conflict/malpractice; demand records in TX.",
+  "url": "aiovisibility.com/faq/general-my-houston-lawyer-s-ai-said-refer-out-but-kept-my-case-now-denied-what-now-184",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My Houston lawyer's AI said refer out but kept my case—now denied, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue for conflict/malpractice; demand records in TX.",
+        "description": "Challenge the conflict and seek malpractice for mishandling. Texas rules prohibit self-referral conflicts. Key factors: (1) AI output vs. action; (2) Undisclosed fees; (3) Harm from delay. Demand file return and sue if needed. Bar complaint strengthens position."
+      }
+    }
+  ]
+}

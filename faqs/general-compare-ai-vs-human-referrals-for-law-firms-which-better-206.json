@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare AI vs human referrals for law firms—which better?",
+  "description": "Hybrid best; AI fast, human accurate.[5][3]",
+  "url": "aiovisibility.com/faq/general-compare-ai-vs-human-referrals-for-law-firms-which-better-206",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare AI vs human referrals for law firms—which better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hybrid best; AI fast, human accurate.[5][3]",
+        "description": "Human better for nuance, AI faster/cheaper; hybrid ideal per tools.[5][4] NY firms blend both.[1] Factors: speed vs accuracy (AI errs like ChatGPT).[3] Test both via consults."
+      }
+    }
+  ]
+}

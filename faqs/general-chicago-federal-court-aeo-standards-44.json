@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Chicago federal court AEO standards?",
+  "description": "**Trade secret focus**, defense balance.[5]",
+  "url": "aiovisibility.com/faq/general-chicago-federal-court-aeo-standards-44",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Chicago federal court AEO standards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Trade secret focus**, defense balance.[5]",
+        "description": "**Follows federal norms: AEO for trade secrets/competitors, balanced vs defense.**[2][5]\n\nOveruse sanctionable like NY.[1]\n\n- **Plaintiffs' burden**: Can't block own evidence.[5]\n- **Protective orders**: Standard tool.[3]\n- **Pro se motion**: Needed.[3]\n\nCite 7th Circuit if analogous; local rules align."
+      }
+    }
+  ]
+}

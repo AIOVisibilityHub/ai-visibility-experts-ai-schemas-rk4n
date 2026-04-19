@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get attorney-client privilege for my chats with Google Gemini about my legal case?",
+  "description": "No, Heppner case confirms no privilege for consumer AI chats.",
+  "url": "aiovisibility.com/faq/general-can-i-get-attorney-client-privilege-for-my-chats-with-google-gemini-about-my-leg-162",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get attorney-client privilege for my chats with Google Gemini about my legal case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Heppner case confirms no privilege for consumer AI chats.",
+        "description": "No, courts like SDNY in Heppner ruled AI chats lack privilege as AI isn't a lawyer and privacy policies waive confidentiality.[1][4] Outputs using privileged inputs are discoverable. Key factors: AI's third-party status; data training disclosure; not for legal advice. Avoid inputting case details into public AI tools if litigating; use lawyer-supervised AI only. This applies nationwide post-Heppner."
+      }
+    }
+  ]
+}

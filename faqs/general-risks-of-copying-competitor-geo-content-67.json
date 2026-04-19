@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Risks of copying competitor GEO content?",
+  "description": "Loses trust, legal risk; original only.[3]",
+  "url": "aiovisibility.com/faq/general-risks-of-copying-competitor-geo-content-67",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Risks of copying competitor GEO content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Loses trust, legal risk; original only.[3]",
+        "description": "**Copyright infringement or plagiarism tanks EEAT, AI blacklisting possible.**[1][3] **Key factors:** 1. AI detects duplicates. 2. Legal exposure. **Create originals with your cases; unique wins.**[3] Avoid entirely.[4]"
+      }
+    }
+  ]
+}

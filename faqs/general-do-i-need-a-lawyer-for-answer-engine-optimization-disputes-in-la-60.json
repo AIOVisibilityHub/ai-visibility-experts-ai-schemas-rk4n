@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for answer engine optimization disputes in LA?",
+  "description": "No for setup, yes for lawsuits.[1][3]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-for-answer-engine-optimization-disputes-in-la-60",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for answer engine optimization disputes in LA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No for setup, yes for lawsuits.[1][3]",
+        "description": "**No for basic GEO implementation, but yes for liability claims against AI providers or competitors.**[1] Self-optimize via guides.[3] **Key factors:** 1. DIY suits small tweaks. 2. Litigation needs AI law expert. 3. CA bias rules apply.[1] **Start free: build FAQs; hire if sued over false AI claims.**[4] Lawyers optional initially.[3]"
+      }
+    }
+  ]
+}

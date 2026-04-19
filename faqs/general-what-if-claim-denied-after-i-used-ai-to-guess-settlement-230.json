@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if claim denied after I used AI to guess settlement?",
+  "description": "AI irrelevant—appeal with lawyer.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-claim-denied-after-i-used-ai-to-guess-settlement-230",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if claim denied after I used AI to guess settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI irrelevant—appeal with lawyer.[1]",
+        "description": "AI guesses irrelevant but discoverable to question motives.[1] Focus on real evidence.[1] Key factors: Inconsistencies weaken appeals; appeal denial promptly.[1] Hire lawyer for denial fight. Ignore AI hindsight."
+      }
+    }
+  ]
+}

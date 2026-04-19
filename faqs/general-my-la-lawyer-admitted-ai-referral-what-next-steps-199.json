@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My LA lawyer admitted AI referral—what next steps?",
+  "description": "Terminate, complain, document; CA tight timelines.[3]",
+  "url": "aiovisibility.com/faq/general-my-la-lawyer-admitted-ai-referral-what-next-steps-199",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My LA lawyer admitted AI referral—what next steps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terminate, complain, document; CA tight timelines.[3]",
+        "description": "Demand full disclosure, case file, and consider terminating; file bar complaint if harmed. CA ethics mirror NY's AI scrutiny.[3] Key factors: CA 1-year discovery limit for malpractice. Document admission. Seek second opinion fast."
+      }
+    }
+  ]
+}

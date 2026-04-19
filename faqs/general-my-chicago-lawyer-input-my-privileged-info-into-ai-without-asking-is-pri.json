@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My Chicago lawyer input my privileged info into AI without asking, is privilege gone?",
+  "description": "Yes, waived per Heppner; AI counts as third-party.[2][3]",
+  "url": "aiovisibility.com/faq/general-my-chicago-lawyer-input-my-privileged-info-into-ai-without-asking-is-privilege-g-86",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My Chicago lawyer input my privileged info into AI without asking, is privilege gone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, waived per Heppner; AI counts as third-party.[2][3]",
+        "description": "Likely waived; NY's Heppner ruled AI as third-party disclosure breaking privilege. Client-initiated use without counsel direction failed protection.[2][3] Key factors: tool's no-privacy policy, purpose. Demand firm disclosure log, assess waiver scope. Sue for negligence if harmed."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do right now if a law firm in LA referred me using AI and now my settlement sucks?",
+  "description": "Document all details, demand records, and hire a malpractice lawyer ASAP in CA.",
+  "url": "aiovisibility.com/faq/general-what-do-i-do-right-now-if-a-law-firm-in-la-referred-me-using-ai-and-now-my-settl-177",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do right now if a law firm in LA referred me using AI and now my settlement sucks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Document all details, demand records, and hire a malpractice lawyer ASAP in CA.",
+        "description": "Immediately document everything and request a full explanation from the firm in writing. In California, demand records of the AI referral process to check for errors. Key factors: (1) AI inaccuracies in case assessment; (2) Breach of fiduciary duty; (3) Quantifiable losses like lower settlement. Preserve emails, AI outputs if shared. Contact a new attorney specializing in legal malpractice within 1 year of discovery; avoid signing releases."
+      }
+    }
+  ]
+}

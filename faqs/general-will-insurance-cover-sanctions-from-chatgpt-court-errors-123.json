@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will insurance cover sanctions from ChatGPT court errors?",
+  "description": "Maybe for lawyers; check your policy.[2]",
+  "url": "aiovisibility.com/faq/general-will-insurance-cover-sanctions-from-chatgpt-court-errors-123",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will insurance cover sanctions from ChatGPT court errors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe for lawyers; check your policy.[2]",
+        "description": "Possibly under malpractice if lawyer involved; personal policies unlikely for pro se AI use.[2] Check policy.[1] Key factors: Covered acts; deductibles; disclosure. Notify carrier immediately; consult coverage counsel. Prevent with verification."
+      }
+    }
+  ]
+}

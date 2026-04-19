@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In New York, where the NYT sued Perplexity, how is venue determined for my case?",
+  "description": "SDNY viable if NY harm; Perplexity fights weak ties—consider CA or harm locus.[1][6]",
+  "url": "aiovisibility.com/faq/general-in-new-york-where-the-nyt-sued-perplexity-how-is-venue-determined-for-my-case-130",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In New York, where the NYT sued Perplexity, how is venue determined for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SDNY viable if NY harm; Perplexity fights weak ties—consider CA or harm locus.[1][6]",
+        "description": "Venue is proper in NY federal court if Perplexity transacts business there or infringement harms occur, as in NYT's SDNY filing.[1][6] Perplexity contested personal jurisdiction, arguing weak NY ties.[6] Key factors: minimum contacts, purposeful availment, and effects test for IP harms.[1][6] File where defendant resides (CA) or harm felt; transfer motions common.[6] Weigh jurisdiction strength before suing."
+      }
+    }
+  ]
+}

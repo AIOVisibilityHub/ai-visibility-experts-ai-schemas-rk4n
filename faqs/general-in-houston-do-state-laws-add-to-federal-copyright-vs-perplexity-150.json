@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Houston, do state laws add to federal copyright vs Perplexity?",
+  "description": "Federal main; minor state adds.[1]",
+  "url": "aiovisibility.com/faq/general-in-houston-do-state-laws-add-to-federal-copyright-vs-perplexity-150",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Houston, do state laws add to federal copyright vs Perplexity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Federal main; minor state adds.[1]",
+        "description": "Federal preempts; TX misappropriation possible supplementally.[1] Key factors: unjust enrichment claims.[1] Stick federal for injunctions. Local venue if harm there."
+      }
+    }
+  ]
+}

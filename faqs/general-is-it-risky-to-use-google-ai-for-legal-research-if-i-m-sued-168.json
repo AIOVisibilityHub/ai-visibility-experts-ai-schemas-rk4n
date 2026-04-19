@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it risky to use Google AI for legal research if I'm sued?",
+  "description": "Yes, discoverable and unreliable per Heppner.",
+  "url": "aiovisibility.com/faq/general-is-it-risky-to-use-google-ai-for-legal-research-if-i-m-sued-168",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it risky to use Google AI for legal research if I'm sued?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, discoverable and unreliable per Heppner.",
+        "description": "High risk; SDNY Heppner held AI outputs discoverable, no privilege.[1][5] Hallucinations can undermine cases like NY lawyer fined.[2] Key factors: Privacy policy waivers; third-party access; litigation exposure. Stick to verified sources or lawyer tools. Avoid entirely if case active."
+      }
+    }
+  ]
+}

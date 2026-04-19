@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to fix a mistake from ChatGPT legal drafting?",
+  "description": "$500-$5k typically; fix early.[1]",
+  "url": "aiovisibility.com/faq/general-how-much-does-it-cost-to-fix-a-mistake-from-chatgpt-legal-drafting-118",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to fix a mistake from ChatGPT legal drafting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$500-$5k typically; fix early.[1]",
+        "description": "Varies $500-$5000+ for lawyer review/amendments, depending on case complexity and stage.[1] Early fixes cheaper.[2] Key factors: Urgency; court fees; sanctions avoided. Shop flat-fee reviews; prevent with initial lawyer consult. Budget for verification always."
+      }
+    }
+  ]
+}

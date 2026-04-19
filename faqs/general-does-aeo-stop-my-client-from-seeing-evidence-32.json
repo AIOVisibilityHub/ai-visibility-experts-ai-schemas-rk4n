@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does AEO stop my client from seeing evidence?",
+  "description": "**Yes, but ethics may require summaries** - Rule 1.4 tension.[2]",
+  "url": "aiovisibility.com/faq/general-does-aeo-stop-my-client-from-seeing-evidence-32",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does AEO stop my client from seeing evidence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Yes, but ethics may require summaries** - Rule 1.4 tension.[2]",
+        "description": "**Yes, AEO bars clients/parties from viewing, but NY ethics (Rule 1.4) requires keeping them informed, creating tension.**[2]\n\nDesignations shield from competitors, not all prejudice.[2]\n\n- **Ethics conflict**: Can't fully inform without violation.[2]\n- **Court balance**: Vs. party's defense role.[5]\n- **In-house counsel**: May view if corporate.[6]\n\nNegotiate tiered order or challenge; summarize without disclosure. Ethics consult advised."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In LA courts, same AEO rules as NY?",
+  "description": "**Yes, motion for pro se**; trade secret limits.[3]",
+  "url": "aiovisibility.com/faq/general-in-la-courts-same-aeo-rules-as-ny-39",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In LA courts, same AEO rules as NY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Yes, motion for pro se**; trade secret limits.[3]",
+        "description": "**Similar federal/state rules apply in CA; pro se access needs motion like elsewhere.**[3]\n\nOveruse sanctionable, focused on trade secrets.[2]\n\n- **Licensed attorney**: Order may specify.[3]\n- **Modification**: Court discretion.[3]\n- **Competitor shield**: Universal.[2]\n\nCheck local order; CA litigators handle via standard motions."
+      }
+    }
+  ]
+}

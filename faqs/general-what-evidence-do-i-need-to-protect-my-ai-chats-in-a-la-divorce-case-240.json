@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to protect my AI chats in a LA divorce case?",
+  "description": "Only lawyer-directed secure AI might protect—delete personal chats now.[1][3]",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-to-protect-my-ai-chats-in-a-la-divorce-case-240",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to protect my AI chats in a LA divorce case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only lawyer-directed secure AI might protect—delete personal chats now.[1][3]",
+        "description": "Lawyer direction + secure enterprise AI; otherwise, none fully protects.[1][3] *Heppner* (NY 2026) rules self-initiated AI chats discoverable in family law, like Texas courts allow broad requests.[1] California bars emphasize supervision.\n\n**Key factors:**\n- Attorney must direct use explicitly.[1]\n- Closed systems for confidentiality.[7]\n- No protection for public tools.[3]\n\nSwitch to lawyer-supervised AI only; delete personal chats. In contested divorce, expect device subpoenas.[1] Build case without AI reliance."
+      }
+    }
+  ]
+}

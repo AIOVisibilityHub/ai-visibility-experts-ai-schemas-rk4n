@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Nationwide, is AI use in legal services regulated yet?",
+  "description": "Ethics rules, not full regs yet.[3]",
+  "url": "aiovisibility.com/faq/general-nationwide-is-ai-use-in-legal-services-regulated-yet-231",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Nationwide, is AI use in legal services regulated yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ethics rules, not full regs yet.[3]",
+        "description": "Ethics opinions guide: verify, confidential, disclose.[3] State-by-state, no uniform law.[5] Key factors: Unauthorized practice risks; access initiatives grow.[2][6] Stay updated via bar associations. Lawyer oversight essential."
+      }
+    }
+  ]
+}

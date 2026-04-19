@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I start GEO for my small law practice in Chicago?",
+  "description": "List client Qs, answer directly with local details, add bios; test in AI.[3][6]",
+  "url": "aiovisibility.com/faq/general-how-do-i-start-geo-for-my-small-law-practice-in-chicago-53",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I start GEO for my small law practice in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "List client Qs, answer directly with local details, add bios; test in AI.[3][6]",
+        "description": "**Begin by listing 50+ real client questions like 'breach of contract damages in Illinois' and answer them concisely on your site.**[3][6] Use procedural references (e.g., Chicago courthouse details) and attorney bylines for credibility.[3] **Key factors:** 1. Focus on utility: embed maps, forms.[3] 2. Update FAQs regularly.[4] 3. Test in Perplexity/ChatGPT. **Implement in 1 week: create FAQ pages, optimize existing posts, monitor AI responses monthly.**[4] Small firms can dominate locally with GEO.[3]"
+      }
+    }
+  ]
+}

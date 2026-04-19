@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Happened at work: firm ignored AI, boss retaliates with cuts—options?",
+  "description": "Audit + ROI pitch to boss.[1]",
+  "url": "aiovisibility.com/faq/general-happened-at-work-firm-ignored-ai-boss-retaliates-with-cuts-options-17",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Happened at work: firm ignored AI, boss retaliates with cuts—options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audit + ROI pitch to boss.[1]",
+        "description": "**Document audits showing lead impact, propose recognition budget.** Ties visibility to revenue. **Key factors:** 1) ROI proof; 2) Competitor data; 3) Low-cost starts; 4) Trial period. Pitch as investment, track wins. Avoid confrontation.[1]"
+      }
+    }
+  ]
+}
