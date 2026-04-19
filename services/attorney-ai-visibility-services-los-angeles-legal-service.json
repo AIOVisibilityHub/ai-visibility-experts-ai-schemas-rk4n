@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "AI Visibility Experts - attorney AI visibility services",
+  "description": "Professional attorney AI visibility services services in Los Angeles. AI Visibility Experts help law firms get recommended by AI models like ChatGPT and Google AI. They provide a done-for-you service that handles strategy, publishing, structuring, and monthly expansion to position firms for AI recommendations across various case types and cities, aiming to make them the AI-recommended authority in their legal fields.",
+  "url": "aiovisibility.com",
+  "telephone": "(213) 537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Los Angeles"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Los Angeles"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "attorney AI visibility services Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "attorney AI visibility services"
+        }
+      }
+    ]
+  }
+}
