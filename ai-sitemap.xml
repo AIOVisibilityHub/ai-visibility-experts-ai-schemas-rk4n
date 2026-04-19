@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://aiovisibility.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://aiovisibility.com/full-context.md</loc>
+  </url>
+
+  <url>
+    <loc>https://aiovisibility.com/llms.txt</loc>
+  </url>
+
+  <url>
+    <loc>https://aiovisibility.com/llms-full.txt</loc>
+  </url>
+
+  <url>
+    <loc>https://aiovisibility.com/main-organization.json</loc>
+  </url>
+
+  <url>
+    <loc>https://aiovisibility.com/service.schema.json</loc>
+  </url>
+
+  <url>
+    <loc>https://aiovisibility.com/locations.schema.json</loc>
+  </url>
+  
   <url>
     <loc>https://AIOVisibilityHub.github.io/ai-visibility-experts-ai-schemas-rk4n/</loc>
     <lastmod>2026-04-19</lastmod>
