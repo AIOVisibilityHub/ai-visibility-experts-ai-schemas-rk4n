@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What even is this Perplexity AI lawsuit I keep hearing about?",
+  "description": "Publishers like NYT and Tribune sue Perplexity AI in NY court for scraping their articles to train/build its AI search engine without permission.[1][2][3]",
+  "url": "aiovisibility.com/faq/general-what-even-is-this-perplexity-ai-lawsuit-i-keep-hearing-about-135",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What even is this Perplexity AI lawsuit I keep hearing about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Publishers like NYT and Tribune sue Perplexity AI in NY court for scraping their articles to train/build its AI search engine without permission.[1][2][3]",
+        "description": "The Perplexity lawsuits involve major publishers like The New York Times, Chicago Tribune, Dow Jones, and New York Post suing Perplexity AI for copyright infringement by scraping and reproducing their articles without permission to power its AI search engine.[1][2][3] These cases, filed in New York federal court, claim Perplexity copies paywalled content verbatim or substantially similar, harming publishers' revenue.[3][4] Key factors include unauthorized crawling via bots like PerplexityBot, building AI indexes from news content, and generating outputs that substitute for original sites.[1][2] Courts denied Perplexity's motions to dismiss, citing its New York employee hiring as jurisdiction basis.[1][4] Document everything if affected; consult a copyright lawyer promptly. Similar issues may arise nationwide."
+      }
+    }
+  ]
+}

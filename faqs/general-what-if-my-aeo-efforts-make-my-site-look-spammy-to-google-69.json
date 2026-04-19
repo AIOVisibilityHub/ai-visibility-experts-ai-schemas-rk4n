@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my AEO efforts make my site look spammy to Google?",
+  "description": "User-focused content safe; avoid stuffing.[2][4] Monitor Console.",
+  "url": "aiovisibility.com/faq/general-what-if-my-aeo-efforts-make-my-site-look-spammy-to-google-69",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my AEO efforts make my site look spammy to Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "User-focused content safe; avoid stuffing.[2][4] Monitor Console.",
+        "description": "**Quality, user-first AEO content enhances SEO if natural; avoid keyword stuffing to prevent penalties.** Balance benefits AI and search.[2][4]\n\nOver-optimization risks flags, but helpful FAQs boost both.[3] Nationwide concern.\n\n**Key factors:**\n- Prioritize E-E-A-T naturally.[2]\n- Answer genuinely, not robotically.\n- Monitor Google Search Console.\n- Diversify traffic sources.\n\nWrite as you'd advise clients; audit quarterly. If penalized, disavow bad links immediately."
+      }
+    }
+  ]
+}

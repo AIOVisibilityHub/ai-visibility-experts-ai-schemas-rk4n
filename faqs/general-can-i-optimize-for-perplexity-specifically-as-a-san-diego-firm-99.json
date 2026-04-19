@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I optimize for Perplexity specifically as a San Diego firm?",
+  "description": "FAQ schema + gov cites for Perplexity.[1]",
+  "url": "aiovisibility.com/faq/general-can-i-optimize-for-perplexity-specifically-as-a-san-diego-firm-99",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I optimize for Perplexity specifically as a San Diego firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FAQ schema + gov cites for Perplexity.[1]",
+        "description": "**Yes, emphasize citations and structured Q&A; Perplexity loves verifiable sources.** FAQ schema + gov links get direct pulls.[1][3]\n\nTailor to its sourcing style.\n\n**Key Factors:**\n- Statute-heavy content.[1]\n- Clear headings/chunks.[4]\n- Local San Diego examples.[1]\n\n**Practical Guidance:** Query Perplexity now, mirror top answers, add VideoObject schema. Track citations.\n\nPlatform-specific tweaks pay off."
+      }
+    }
+  ]
+}

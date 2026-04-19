@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if multiple agencies worked on my firm's AEO?",
+  "description": "Sue main, join others; contracts rule.[1] Map liabilities.",
+  "url": "aiovisibility.com/faq/general-what-if-multiple-agencies-worked-on-my-firm-s-aeo-81",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if multiple agencies worked on my firm's AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue main, join others; contracts rule.[1] Map liabilities.",
+        "description": "**Joint liability possible if concerted; sue primary contractor, add others as needed.** Contracts dictate apportionment.[1]\n\nComplicates causation; discovery reveals roles.[1] Complex in San Francisco.\n\n**Key factors:**\n- Chain of contracts.\n- Contributory fault.\n- Indemnity clauses.\n- Settlement cross-claims.\n\nMap relationships visually. Primary often pays, seeks contribution."
+      }
+    }
+  ]
+}

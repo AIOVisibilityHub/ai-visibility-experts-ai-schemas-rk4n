@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between confidential and AEO?",
+  "description": "**Confidential: parties OK; AEO: attorneys only.** For trade secrets.[2]",
+  "url": "aiovisibility.com/faq/general-what-s-the-difference-between-confidential-and-aeo-42",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between confidential and AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Confidential: parties OK; AEO: attorneys only.** For trade secrets.[2]",
+        "description": "**Confidential allows party access under limits; AEO restricts to attorneys only.** AEO for highest sensitivity like trade secrets.[2] Key factors: Overuse of either sanctionable.[1] Protective orders define tiers. Challenge escalations. Use least restrictive needed. Review order language carefully."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "**Mistakes** my San Diego firm is making causing AI invisibility?",
+  "description": "**Templated bios, no recognitions; audit ASAP.**[3]",
+  "url": "aiovisibility.com/faq/general-mistakes-my-san-diego-firm-is-making-causing-ai-invisibility-22",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "**Mistakes** my San Diego firm is making causing AI invisibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Templated bios, no recognitions; audit ASAP.**[3]",
+        "description": "**Relying on websites/keywords instead of peer recognitions, using templated bios.** AI ignores self-claims.[3] Inconsistent PR.[2]\n\n**Key factors:**\n- No third-party signals\n- Generic content\n- Poor structured data\n- Isolated assertions\n\n**Stop SEO focus; audit and pursue directories.** Align messaging.[1] **Common pitfalls are fixable.**"
+      }
+    }
+  ]
+}

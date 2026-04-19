@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is **fault** determined if AI wrongly recommends a less qualified lawyer over mine?",
+  "description": "**No fault; improve your data patterns.**[1][3]",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-if-ai-wrongly-recommends-a-less-qualified-lawyer-over-mi-20",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is **fault** determined if AI wrongly recommends a less qualified lawyer over mine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**No fault; improve your data patterns.**[1][3]",
+        "description": "**No fault liability; AI reflects available data patterns, not endorsements.** Platforms disclaim advice; users choose.[1] Firms control their signals.[3]\n\n**Key factors:**\n- Data consistency rules\n- No AI malpractice\n- User responsibility\n- Strengthen your footprint\n\n**Boost your recognitions to outrank others.** No legal recourse.[1] **Proactive signals prevail.**"
+      }
+    }
+  ]
+}

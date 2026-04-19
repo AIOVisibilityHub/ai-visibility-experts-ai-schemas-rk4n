@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can judge force AEO de-designation?",
+  "description": "**Yes, if improper; sanctions follow.** NY precedent.[1]",
+  "url": "aiovisibility.com/faq/general-can-judge-force-aeo-de-designation-51",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can judge force AEO de-designation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Yes, if improper; sanctions follow.** NY precedent.[1]",
+        "description": "**Yes, judges compel de-designation if unjustified.** Sanctions for bad faith.[1] Key factors: In camera review. Sparing use mandate. Burden on designator. Meet/confer proof. Swift motion."
+      }
+    }
+  ]
+}

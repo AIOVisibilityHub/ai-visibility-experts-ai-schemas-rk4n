@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long until my Chicago law firm shows in Google AI Overviews after optimizing?",
+  "description": "2-4 weeks for initial appearances.[1]",
+  "url": "aiovisibility.com/faq/general-how-long-until-my-chicago-law-firm-shows-in-google-ai-overviews-after-optimizing-88",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long until my Chicago law firm shows in Google AI Overviews after optimizing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2-4 weeks for initial appearances.[1]",
+        "description": "**Visible results in 2-4 weeks with schema and fresh content; full authority in 3-6 months.** AI crawls fast but builds trust via consistent signals.[1][3]\n\nSpeed depends on prior E-E-A-T and competition; updates propagate quicker than traditional SEO.[1]\n\n**Key Factors:**\n- Schema implementation: immediate crawl.[1]\n- Content freshness: weekly boosts.[1]\n- Competitor gaps: exploit fast.\n\n**Practical Guidance:** Deploy markup today, publish 1 local Chicago page/week, use AI Monitor tools. Re-crawl via Google Search Console.\n\nPatience yields compounding visibility."
+      }
+    }
+  ]
+}

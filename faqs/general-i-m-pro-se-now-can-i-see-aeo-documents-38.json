@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm pro se now, can I see AEO documents?",
+  "description": "**Pro se? Motion court to modify order for AEO access.** Start with demand letter.[4]",
+  "url": "aiovisibility.com/faq/general-i-m-pro-se-now-can-i-see-aeo-documents-38",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm pro se now, can I see AEO documents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Pro se? Motion court to modify order for AEO access.** Start with demand letter.[4]",
+        "description": "**Yes, as pro se plaintiff, you can likely access AEO documents by court motion.** Protective orders typically limit to 'attorneys,' but courts modify for self-represented parties.[4] Key factors: Send refusal-proof letter requesting access first. File motion with declaration explaining trial prep need. Agree to non-publication limits. Courts treat pro se as attorneys for access. Act before discovery cutoff."
+      }
+    }
+  ]
+}

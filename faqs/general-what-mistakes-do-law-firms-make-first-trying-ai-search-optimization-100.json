@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What mistakes do law firms make first trying AI search optimization?",
+  "description": "Invalid schema, bad links.[1]",
+  "url": "aiovisibility.com/faq/general-what-mistakes-do-law-firms-make-first-trying-ai-search-optimization-100",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What mistakes do law firms make first trying AI search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Invalid schema, bad links.[1]",
+        "description": "**Overlooking schema validation and using non-authoritative links.** Leads to no extraction; cite only statutes/bars.[1]\n\nComplex language also fails scannability.\n\n**Key Factors:**\n- No testing markup.[1]\n- Generic content.[1]\n- Ignoring locals.[2]\n- Stale pages.\n\n**Practical Guidance:** Validate every change, write simply, localize, refresh dates. Avoid fluff.\n\nLearn from common pitfalls fast."
+      }
+    }
+  ]
+}

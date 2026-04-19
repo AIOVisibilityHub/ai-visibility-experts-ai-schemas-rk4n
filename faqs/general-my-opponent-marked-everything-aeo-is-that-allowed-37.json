@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My opponent marked everything AEO, is that allowed?",
+  "description": "**Overuse of AEO is sanctionable; courts require sparing use.** Recent NY case fined Google.[1]",
+  "url": "aiovisibility.com/faq/general-my-opponent-marked-everything-aeo-is-that-allowed-37",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My opponent marked everything AEO, is that allowed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Overuse of AEO is sanctionable; courts require sparing use.** Recent NY case fined Google.[1]",
+        "description": "**No, overuse of AEO designations is not allowed and can result in sanctions.** New York courts have sanctioned parties like Google for excessive AEO use on non-sensitive documents.[1] Key factors: Designations must be 'sparingly' applied; not a litigation tactic. Content must justify restriction. Challenge via motion showing irrelevance. Document your objection and seek court de-designation promptly. Get experienced counsel to avoid counter-sanctions."
+      }
+    }
+  ]
+}

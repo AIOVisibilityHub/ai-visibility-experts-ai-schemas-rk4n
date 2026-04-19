@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can parties ever see AEO materials?",
+  "description": "**No for parties; pro se motion possible.** Redactions common.[2][4]",
+  "url": "aiovisibility.com/faq/general-can-parties-ever-see-aeo-materials-41",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can parties ever see AEO materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**No for parties; pro se motion possible.** Redactions common.[2][4]",
+        "description": "**Parties generally cannot see AEO materials, but courts may allow redacted versions.** Balance protects secrets vs. defense rights.[2] Key factors: Highly confidential only. Pro se gets exceptions via motion.[4] No automatic access. Propose 'confidential' tier instead. Negotiate order terms early."
+      }
+    }
+  ]
+}

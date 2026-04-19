@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do these Perplexity copyright cases start? Do I need a lawyer?",
+  "description": "File federal complaint with proof; yes, get a specialized lawyer immediately.[1][4]",
+  "url": "aiovisibility.com/faq/general-how-do-these-perplexity-copyright-cases-start-do-i-need-a-lawyer-137",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do these Perplexity copyright cases start? Do I need a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File federal complaint with proof; yes, get a specialized lawyer immediately.[1][4]",
+        "description": "Cases begin with filing a complaint in federal court alleging infringement, as NYT and Tribune did against Perplexity in New York.[1][3] Plaintiffs detail scraping, copying, and competitive outputs harming their business.[2][6] Key factors: Copyright registration, evidence of access/use, no fair use. Process involves discovery, motions (Perplexity's dismissal bid denied).[4] Yes, hire a copyright lawyer experienced in AI cases; self-representing risks missing deadlines. Start by sending cease-and-desist. These claims apply nationwide."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process to complain about AI use in my case?",
+  "description": "State bar grievance; free and straightforward.",
+  "url": "aiovisibility.com/faq/general-what-s-the-process-to-complain-about-ai-use-in-my-case-125",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process to complain about AI use in my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State bar grievance; free and straightforward.",
+        "description": "File ethics grievance with state bar. Context: Investigates negligence; free process. Key factors: Evidence of breach, timeline (1-2 years). Practical guidance: Submit online form, include docs, follow up. May lead to discipline."
+      }
+    }
+  ]
+}

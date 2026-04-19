@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue if ChatGPT hallucinated bad advice from my attorney?",
+  "description": "Possible if negligence proven; document everything and see malpractice lawyer.",
+  "url": "aiovisibility.com/faq/general-can-i-sue-if-chatgpt-hallucinated-bad-advice-from-my-attorney-111",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue if ChatGPT hallucinated bad advice from my attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible if negligence proven; document everything and see malpractice lawyer.",
+        "description": "Yes, if provable negligence caused harm like financial loss. Context: Lawyers liable for AI errors they fail to catch; malpractice claims need duty breach and damages. Key factors: Proof of AI use, incorrect output not caught, direct harm. Practical guidance: Gather evidence of communications and losses, file bar complaint first, consult malpractice specialist. Many states require expert review."
+      }
+    }
+  ]
+}

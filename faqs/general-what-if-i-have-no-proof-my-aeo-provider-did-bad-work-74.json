@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I have no proof my AEO provider did bad work?",
+  "description": "Use benchmarks/experts; weak without direct proof.[1][9]",
+  "url": "aiovisibility.com/faq/general-what-if-i-have-no-proof-my-aeo-provider-did-bad-work-74",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I have no proof my AEO provider did bad work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use benchmarks/experts; weak without direct proof.[1][9]",
+        "description": "**Without direct evidence, claims weaken, but industry benchmarks and expert opinions can infer negligence.** Baseline visibility data helps.[9]\n\nBurden on you to show substandard service.[1] Nationwide issue.\n\n**Key factors:**\n- Gather pre-contract AI tests.\n- Competitor GEO results.[9]\n- Provider reports.\n- Witness statements.\n\nHire AEO expert witness early. Many cases fail sans proof; negotiate refund instead."
+      }
+    }
+  ]
+}

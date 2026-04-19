@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Nationwide firm: how to handle multi-city AI without dilution?",
+  "description": "Geo-schema + local pages.[1]",
+  "url": "aiovisibility.com/faq/general-nationwide-firm-how-to-handle-multi-city-ai-without-dilution-109",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Nationwide firm: how to handle multi-city AI without dilution?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geo-schema + local pages.[1]",
+        "description": "**Geo-specific schema/pages per city, unified brand entity.** LegalService with areaServed props.[1][2]\n\nPrevents split authority.\n\n**Key Factors:**\n- Hyper-local content.[1]\n- Central hub links.[4]\n- Consistent bios.\n\n**Practical Guidance:** Template pages (e.g., Philly/Denver variants), schema arrays, track per market.\n\nScales nationally."
+      }
+    }
+  ]
+}

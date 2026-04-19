@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my case against an AEO agency is worth pursuing?",
+  "description": "Damages >$20K + strong evidence.[1] Free consults.",
+  "url": "aiovisibility.com/faq/general-how-do-i-know-if-my-case-against-an-aeo-agency-is-worth-pursuing-75",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my case against an AEO agency is worth pursuing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Damages >$20K + strong evidence.[1] Free consults.",
+        "description": "**Pursue if damages exceed $20K and evidence strong; otherwise, demand letter or small claims suffice.** Weigh costs vs. recovery.[1]\n\nAttorney fees often contingency for viable cases.[1] Consider in Dallas or Austin.\n\n**Key factors:**\n- Quantifiable losses > legal costs.\n- Clear breach.\n- Provider solvency.\n- Settlement likelihood.\n\nGet free consults from 3 lawyers. Calculate ROI: (expected win x recovery) - costs."
+      }
+    }
+  ]
+}

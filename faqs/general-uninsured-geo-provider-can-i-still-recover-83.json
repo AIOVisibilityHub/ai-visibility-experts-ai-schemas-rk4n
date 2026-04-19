@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured GEO provider—can I still recover?",
+  "description": "Target assets/judgment; settle likely.[1] Asset check first.",
+  "url": "aiovisibility.com/faq/general-uninsured-geo-provider-can-i-still-recover-83",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured GEO provider—can I still recover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Target assets/judgment; settle likely.[1] Asset check first.",
+        "description": "**Yes, pursue personal assets or business judgment if viable; many settle to protect.** Check entity status.[1]\n\nPierce veil if fraud.[1] Phoenix firms face this.\n\n**Key factors:**\n- LLC protections limited.\n- Personal guarantees.\n- Asset search.\n- Bankruptcy risk.\n\nHire PI for assets pre-suit. Judgment-proof? Write off or garnish."
+      }
+    }
+  ]
+}

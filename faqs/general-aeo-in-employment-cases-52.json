@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "AEO in employment cases?",
+  "description": "**Yes for proprietary HR data.** Sparingly.[2]",
+  "url": "aiovisibility.com/faq/general-aeo-in-employment-cases-52",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "AEO in employment cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Yes for proprietary HR data.** Sparingly.[2]",
+        "description": "**Common for proprietary info like employee data, strategies.** Restricts HR access.[2] Key factors: Trade secrets qualify. Wage/hour less so. Challenge overreach. EEOC considerations. Employment litigator needed."
+      }
+    }
+  ]
+}

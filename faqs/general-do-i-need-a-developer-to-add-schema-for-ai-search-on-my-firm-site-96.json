@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a developer to add schema for AI search on my firm site?",
+  "description": "No, free no-code tools work.[1]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-developer-to-add-schema-for-ai-search-on-my-firm-site-96",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a developer to add schema for AI search on my firm site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, free no-code tools work.[1]",
+        "description": "**No, use no-code tools like Google's Structured Data Markup Helper.** Copy-paste JSON-LD for LegalService/FAQ schemas.[1]\n\nFirms DIY in hours; pros for complex.\n\n**Key Factors:**\n- Free generators available.[1]\n- Plugins for WordPress.[2]\n- Validation essential.\n\n**Practical Guidance:** Start with attorney bios, test live, add to all practice pages. Update GSC for recrawl.\n\nEmpower your team affordably."
+      }
+    }
+  ]
+}

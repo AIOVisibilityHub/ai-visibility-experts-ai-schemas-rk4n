@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO be used against pro se defendants?",
+  "description": "**Courts modify for pro se.** Motion wins.[4]",
+  "url": "aiovisibility.com/faq/general-can-aeo-be-used-against-pro-se-defendants-57",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO be used against pro se defendants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Courts modify for pro se.** Motion wins.[4]",
+        "description": "**Yes, but courts grant access motions routinely.** Equity demands it.[4] Key factors: Prove prejudice. Simple motion suffices. No publication promise. Common ruling."
+      }
+    }
+  ]
+}

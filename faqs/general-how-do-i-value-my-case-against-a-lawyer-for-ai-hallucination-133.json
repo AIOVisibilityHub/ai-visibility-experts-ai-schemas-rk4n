@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I value my case against a lawyer for AI hallucination?",
+  "description": "Lost value + fees; get expert.",
+  "url": "aiovisibility.com/faq/general-how-do-i-value-my-case-against-a-lawyer-for-ai-hallucination-133",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I value my case against a lawyer for AI hallucination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost value + fees; get expert.",
+        "description": "Lost opportunity costs + emotional distress. Context: Economic damages primary; punitives rare. Key factors: Expert appraisal, comparables. Practical guidance: Use settlement calculator, consult specialist for free eval."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In New York, how strict are AEO rules?",
+  "description": "**Very strict in NY; sanctions for overuse.** Google case example.[1]",
+  "url": "aiovisibility.com/faq/general-in-new-york-how-strict-are-aeo-rules-43",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In New York, how strict are AEO rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Very strict in NY; sanctions for overuse.** Google case example.[1]",
+        "description": "**New York courts strictly limit AEO to sparing use, sanctioning overuse.** Recent case hit Google with penalties.[1] Key factors: Not for routine docs. Must justify sensitivity. Statewide commercial division rules apply. Move to de-designate promptly. NY litigators know local nuances."
+      }
+    }
+  ]
+}

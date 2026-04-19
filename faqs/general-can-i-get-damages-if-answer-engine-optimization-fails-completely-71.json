@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get damages if answer engine optimization fails completely?",
+  "description": "Wasted fees, lost profits if proven.[1] Use analytics.",
+  "url": "aiovisibility.com/faq/general-can-i-get-damages-if-answer-engine-optimization-fails-completely-71",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get damages if answer engine optimization fails completely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wasted fees, lost profits if proven.[1] Use analytics.",
+        "description": "**Yes, recoverable damages include wasted fees, lost profits from reduced leads, if causally linked to provider's failures.** Capped by contract sometimes.[1]\n\nQuantify via analytics; speculative losses harder.[1] Viable in California courts like San Jose.\n\n**Key factors:**\n- Direct costs refunded.\n- Projected leads x case value.\n- Competitor benchmarks.\n- No mitigation? Reduces claim.\n\nHire forensic accountant for calculations. Demand letter often prompts settlement."
+      }
+    }
+  ]
+}

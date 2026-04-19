@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm in New York—does location matter for answer engine optimization cases?",
+  "description": "NY laws favor consumers; check contract forum.[1]",
+  "url": "aiovisibility.com/faq/general-i-m-in-new-york-does-location-matter-for-answer-engine-optimization-cases-73",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm in New York—does location matter for answer engine optimization cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NY laws favor consumers; check contract forum.[1]",
+        "description": "**Yes, New York courts apply strict consumer protection laws to AEO disputes, potentially increasing recovery.** Jurisdiction governs contracts.[1]\n\nLocal rules affect filing, statutes (e.g., 6 years breach).[1] NYSBA notes AI liability angles.[1]\n\n**Key factors:**\n- Forum selection clauses.\n- NY Gen Bus Law §349 for deception.\n- Evidence standards same.\n- Higher damages possible.\n\nFile in NY Supreme Court if over $50K. Consult local bar for AI-savvy counsel."
+      }
+    }
+  ]
+}

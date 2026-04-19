@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO common in California federal court?",
+  "description": "**Common but challengeable.** Balance secrets vs. defense.[2]",
+  "url": "aiovisibility.com/faq/general-is-aeo-common-in-california-federal-court-49",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO common in California federal court?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Common but challengeable.** Balance secrets vs. defense.[2]",
+        "description": "**Yes, common but must balance defense rights; overuse challenged.** Protective orders routine.[2] Key factors: NDCA/EDCA local rules. Meet/confer required. Sanctions possible. Tailor to case. CA counsel advised."
+      }
+    }
+  ]
+}

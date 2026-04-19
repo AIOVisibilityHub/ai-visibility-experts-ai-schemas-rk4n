@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does AEO mean in lawsuits?",
+  "description": "**AEO means Attorneys' Eyes Only: confidential docs viewable only by lawyers, not parties.** Protects secrets but courts sanction overuse.[1][2]",
+  "url": "aiovisibility.com/faq/general-what-does-aeo-mean-in-lawsuits-36",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does AEO mean in lawsuits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**AEO means Attorneys' Eyes Only: confidential docs viewable only by lawyers, not parties.** Protects secrets but courts sanction overuse.[1][2]",
+        "description": "**AEO stands for \"Attorneys' Eyes Only,\" a designation in litigation protective orders restricting highly confidential documents to attorneys only.** It protects trade secrets from disclosure to parties while allowing defense preparation.[2] Key factors: Used sparingly to avoid sanctions; overuse can lead to court penalties as in New York cases.[1] Courts balance protection with defense rights. File a motion if access is needed as pro se; agree to usage limits. Consult a litigator for your jurisdiction."
+      }
+    }
+  ]
+}

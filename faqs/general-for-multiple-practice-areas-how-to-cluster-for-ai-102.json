@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "For multiple practice areas, how to cluster for AI?",
+  "description": "Internal links + shared schema.[1]",
+  "url": "aiovisibility.com/faq/general-for-multiple-practice-areas-how-to-cluster-for-ai-102",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "For multiple practice areas, how to cluster for AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Internal links + shared schema.[1]",
+        "description": "**Build topic clusters with internal links and shared schema.** Link divorce/ custody pages to family law hub with LegalService markup.[1][4]\n\nReinforces authority.\n\n**Key Factors:**\n- Semantic connections.[4]\n- Consistent entities.[1]\n- Checklists/tables.[1]\n\n**Practical Guidance:** Map 5-10 pages per area, add hub schema, optimize anchors. Boosts all.\n\nClustering scales expertise."
+      }
+    }
+  ]
+}

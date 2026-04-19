@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Chicago, are there rules on lawyers using AI like ChatGPT?",
+  "description": "Yes, verify and disclose required.",
+  "url": "aiovisibility.com/faq/general-in-chicago-are-there-rules-on-lawyers-using-ai-like-chatgpt-123",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Chicago, are there rules on lawyers using AI like ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, verify and disclose required.",
+        "description": "Yes, IL ARDC requires competence, disclosure. Context: Recent opinions mandate verification, no privilege waiver. Key factors: Client consent, secure tools. Practical guidance: Ask for AI policy, verify compliance. Check ARDC site."
+      }
+    }
+  ]
+}

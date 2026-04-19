@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a **marketing lawyer** to handle AI visibility issues for my firm?",
+  "description": "**No, but experts speed recognitions; DIY audit first.**[1]",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-marketing-lawyer-to-handle-ai-visibility-issues-for-my-firm-18",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a **marketing lawyer** to handle AI visibility issues for my firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**No, but experts speed recognitions; DIY audit first.**[1]",
+        "description": "**Not legally required, but a specialist accelerates third-party recognitions and audits.** AI issues are business strategy, not litigation.[1] Experts navigate directories effectively.[2]\n\n**Key factors:**\n- No regulatory mandates\n- PR/SEO expertise key\n- Cost vs. ROI\n- Local directory nuances\n\n**Self-audit first, then hire for complex optimizations.** Avoid generalists.[3] **Specialists deliver faster results.**"
+      }
+    }
+  ]
+}

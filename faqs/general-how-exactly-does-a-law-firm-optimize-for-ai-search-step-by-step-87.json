@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How exactly does a law firm optimize for AI search step by step?",
+  "description": "Schema > content clusters > track AI citations.[1][2]",
+  "url": "aiovisibility.com/faq/general-how-exactly-does-a-law-firm-optimize-for-ai-search-step-by-step-87",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How exactly does a law firm optimize for AI search step by step?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema > content clusters > track AI citations.[1][2]",
+        "description": "**Start with schema markup, then build AI-friendly content clusters.** Step 1: Add LegalService/FAQ schema; Step 2: Write scannable Q&A with gov citations; Step 3: Localize and update yearly.[1][2]\n\nProcess mirrors SEO but emphasizes extraction-ready chunks for ChatGPT/Perplexity.[3] Track via AI monitors for citations.[3]\n\n**Key Factors:**\n- Structured data for entity recognition.[1]\n- Simple language matching user queries.[1]\n- Bios with P-A-R case results.[1]\n- llm.txt for content control.[1]\n\n**Practical Guidance:** Use Schema.org generator, format pages with tables/checklists, audit speed/metadata. Query 'best [practice] lawyer' in AI weekly.\n\nFollow this for citations in 4-6 weeks."
+      }
+    }
+  ]
+}

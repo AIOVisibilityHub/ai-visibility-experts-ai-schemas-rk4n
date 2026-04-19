@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Q10. What is the next step?",
+  "description": "The next step is to choose a plan (Monthly, Quarterly, or Annual) and complete the firm profile after payment. Alternatively, interested firms can request a fre",
+  "url": "aiovisibility.com/faq/general-q10-what-is-the-next-step-10",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Q10. What is the next step?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The next step is to choose a plan (Monthly, Quarterly, or Annual) and complete the firm profile after payment. Alternatively, interested firms can request a free AI audit or contact AI Visibility for a no-pressure consultation to discuss their specific needs and how AI Visibility can help them dominate AI search."
+      }
+    }
+  ]
+}

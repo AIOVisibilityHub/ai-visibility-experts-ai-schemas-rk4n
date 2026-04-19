@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will these cases settle? How long until resolution?",
+  "description": "Probable settlement in 1-3 years.[4]",
+  "url": "aiovisibility.com/faq/general-will-these-cases-settle-how-long-until-resolution-148",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will these cases settle? How long until resolution?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Probable settlement in 1-3 years.[4]",
+        "description": "Likely settle like many AI suits; trials 2-4 years with appeals.[4] Perplexity motions failed, pressuring talks.[1] Key factors: Damages scope, injunction scope. Monitor dockets. Publishers seek licensing deals. Patience key."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I challenge an AEO designation?",
+  "description": "**Letter demand + motion citing improper use.** Courts penalize overuse.[1]",
+  "url": "aiovisibility.com/faq/general-how-do-i-challenge-an-aeo-designation-39",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I challenge an AEO designation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Letter demand + motion citing improper use.** Courts penalize overuse.[1]",
+        "description": "**Challenge AEO by letter then motion to de-designate.** Courts require showing designation is improper or overbroad.[1] Key factors: Prove content doesn't warrant restriction. Cite 'sparing use' rules. Include testimony/docs analysis. Risk sanctions if frivolous. Serve on opponent; request in camera review. Hire discovery-savvy lawyer."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined if AI misquotes my firm's advice?",
+  "description": "AI fault if verified content.[6]",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-if-ai-misquotes-my-firm-s-advice-101",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined if AI misquotes my firm's advice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI fault if verified content.[6]",
+        "description": "**Firm liability low if content accurate/verified; AI bears hallucination risk.** Strong schema clarifies context.[1][6]\n\nDocument E-E-A-T defenses.\n\n**Key Factors:**\n- Citations protect.[1]\n- Disclaimers help.\n- Monitoring key.\n\n**Practical Guidance:** Add 'not legal advice' footers, track quotes, correct publicly. Consult ethics board.\n\nMinimize exposure proactively."
+      }
+    }
+  ]
+}

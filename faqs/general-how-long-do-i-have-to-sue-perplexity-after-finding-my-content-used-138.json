@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to sue Perplexity after finding my content used?",
+  "description": "3 years from discovery; document date now.[1]",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-sue-perplexity-after-finding-my-content-used-138",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to sue Perplexity after finding my content used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3 years from discovery; document date now.[1]",
+        "description": "You have three years from discovering infringement to file copyright claims against Perplexity.[1] Context: Ongoing NY cases like Dow Jones v. Perplexity highlight timely action amid AI scraping surge.[4][5] Key factors: 'Discovery rule' starts clock; document exact date you learned of use. Multiple works? Separate claims. In New York, venue sticks due to Perplexity's contacts.[1][4] Act fast before evidence vanishes; register works retroactively if needed. Consult counsel to toll statute."
+      }
+    }
+  ]
+}

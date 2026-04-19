@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a lawyer for an AI ethics complaint?",
+  "description": "No, self-file bar grievance.",
+  "url": "aiovisibility.com/faq/general-do-i-really-need-a-lawyer-for-an-ai-ethics-complaint-134",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a lawyer for an AI ethics complaint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, self-file bar grievance.",
+        "description": "No, bars handle pro se easily. Context: Simple forms; lawyers optional for complex. Key factors: Evidence strength. Practical guidance: Use bar templates, free clinics available. Escalate to court if damages."
+      }
+    }
+  ]
+}

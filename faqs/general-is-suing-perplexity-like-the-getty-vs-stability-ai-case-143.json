@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is suing Perplexity like the Getty vs. Stability AI case?",
+  "description": "Yes, but Perplexity reproduces text outputs, not just trains.[3]",
+  "url": "aiovisibility.com/faq/general-is-suing-perplexity-like-the-getty-vs-stability-ai-case-143",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is suing Perplexity like the Getty vs. Stability AI case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but Perplexity reproduces text outputs, not just trains.[3]",
+        "description": "Similar scraping claims but Perplexity focuses on output reproduction vs. Getty's image training; both allege infringement.[2][3] NYT/ Tribune emphasize verbatim text display harming news revenue.[1][6] Key factors: Perplexity's search competes directly; NY court traction vs. mixed image rulings. Text stronger for substitution. Lessons: Register early. Applies broadly."
+      }
+    }
+  ]
+}

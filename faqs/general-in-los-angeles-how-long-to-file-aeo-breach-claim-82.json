@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Los Angeles, how long to file AEO breach claim?",
+  "description": "4 years contract, 2 negligence in CA.[1] Act fast.",
+  "url": "aiovisibility.com/faq/general-in-los-angeles-how-long-to-file-aeo-breach-claim-82",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Los Angeles, how long to file AEO breach claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4 years contract, 2 negligence in CA.[1] Act fast.",
+        "description": "**California's 4-year statute for written contracts; 2 years negligence—file promptly.** LA Superior Court handles.[1]\n\nTolling possible if discovered late.[1]\n\n**Key factors:**\n- Contract signing date.\n- Harm discovery.\n- Tolling arguments.\n- Forum clause.\n\nCalendar deadlines; serve within limits. LA Bar referrals for locals."
+      }
+    }
+  ]
+}

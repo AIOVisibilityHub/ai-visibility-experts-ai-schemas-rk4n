@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In New York, do local schema changes help law firms in AI results?",
+  "description": "Yes, geo-schema + NYC content.[1]",
+  "url": "aiovisibility.com/faq/general-in-new-york-do-local-schema-changes-help-law-firms-in-ai-results-94",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In New York, do local schema changes help law firms in AI results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, geo-schema + NYC content.[1]",
+        "description": "**Yes, hyper-local schema and content like 'NYC eviction laws' boost AI for regional queries.** Tie LegalService schema to NY bar + geo-signals.[1][2]\n\nAI favors specific examples for city searches.[1]\n\n**Key Factors:**\n- Location in headings/schema.[2]\n- State statute citations.[1]\n- Local client reviews.\n\n**Practical Guidance:** Add 'New York' to practice pages, schema geo props, create 5 city-specific FAQs. Test 'NY lawyer for X'.\n\nLocal wins big in competitive markets."
+      }
+    }
+  ]
+}

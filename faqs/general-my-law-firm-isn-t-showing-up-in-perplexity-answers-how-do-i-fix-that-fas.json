@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My law firm isn't showing up in Perplexity answers—how do I fix that fast?",
+  "description": "Add attorney-attributed FAQs answering client questions with local details to appear in Perplexity.[2][3] Test immediately.",
+  "url": "aiovisibility.com/faq/general-my-law-firm-isn-t-showing-up-in-perplexity-answers-how-do-i-fix-that-fast-61",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My law firm isn't showing up in Perplexity answers—how do I fix that fast?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Add attorney-attributed FAQs answering client questions with local details to appear in Perplexity.[2][3] Test immediately.",
+        "description": "**Update your website with clear, question-answering content attributed to named attorneys to boost AEO visibility in tools like Perplexity.** AI prioritizes authoritative, utility-rich sources.[2][6]\n\nFirms invisible in AI results lose leads as users rely on generated summaries.[7] This is urgent in high-competition areas like Chicago or Houston.\n\n**Key factors:**\n- Answer real client questions concisely (e.g., 'What happens at a first consultation?').[3]\n- Include local details like courthouse names.[2]\n- Add bio links and resources (forms, maps).[2]\n- Ensure EEAT signals.[2]\n\nRewrite top pages as FAQs, test queries in AI tools, and monitor citations. Avoid generic content; be specific to your jurisdiction.[3]"
+      }
+    }
+  ]
+}

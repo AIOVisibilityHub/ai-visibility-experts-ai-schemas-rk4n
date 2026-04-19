@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I tell my lawyer I'm worried about their ChatGPT use?",
+  "description": "Yes, insist on human review.",
+  "url": "aiovisibility.com/faq/general-should-i-tell-my-lawyer-i-m-worried-about-their-chatgpt-use-121",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I tell my lawyer I'm worried about their ChatGPT use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, insist on human review.",
+        "description": "Yes, communicate concerns immediately. Context: Builds trust, ensures verification; ethics favor transparency. Key factors: Your consent rights, work quality. Practical guidance: Email specifics, request human-only drafts, monitor bills. Switch if unsatisfied."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined if a GEO service causes my firm harm?",
+  "description": "Breach, negligence, fraud proven by evidence.[1] Show causation.",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-if-a-geo-service-causes-my-firm-harm-70",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined if a GEO service causes my firm harm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Breach, negligence, fraud proven by evidence.[1] Show causation.",
+        "description": "**Fault hinges on contract breaches, negligence in advice, or fraudulent claims by the GEO provider.** Courts apply standard tort and contract law.[1]\n\nProvider must prove reasonable care; plaintiffs show causation and damages.[1] Same in Houston or Philly.\n\n**Key factors:**\n- Did they follow industry best practices?[9]\n- Direct link to your losses?\n- Mitigation efforts by you.\n- Expert testimony on AEO norms.\n\nDocument non-performance early; consider arbitration clauses. Strong cases settle fast."
+      }
+    }
+  ]
+}

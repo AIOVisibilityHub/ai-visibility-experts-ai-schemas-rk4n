@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I talk to the AEO adjuster before lawyering up?",
+  "description": "Brief, recorded; lawyer first.[1] No admissions.",
+  "url": "aiovisibility.com/faq/general-should-i-talk-to-the-aeo-adjuster-before-lawyering-up-84",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I talk to the AEO adjuster before lawyering up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brief, recorded; lawyer first.[1] No admissions.",
+        "description": "**Limit talks to facts; record everything, but get a lawyer before admitting fault or settling.** They lowball.[1]\n\nStatements used against you.[1] Standard in Chicago disputes.\n\n**Key factors:**\n- Demand written responses.\n- No off-record chats.\n- Copy counsel.\n- Know your leverage.\n\nPolitely defer: 'Consulting attorney.' Never sign releases hastily."
+      }
+    }
+  ]
+}

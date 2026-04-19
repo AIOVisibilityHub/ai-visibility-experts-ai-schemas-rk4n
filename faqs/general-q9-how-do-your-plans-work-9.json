@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Q9. How do your plans work?",
+  "description": "AI Visibility offers three plans: Monthly, Quarterly, and Annual. Each plan includes done-for-you AI visibility setup, AI-readable structured data and publishin",
+  "url": "aiovisibility.com/faq/general-q9-how-do-your-plans-work-9",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Q9. How do your plans work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Visibility offers three plans: Monthly, Quarterly, and Annual. Each plan includes done-for-you AI visibility setup, AI-readable structured data and publishing, FAQ/Q&A creation, visibility gap analysis, and publishing across trusted platforms. The Quarterly and Annual plans offer more comprehensive services, including long-term authority growth, continuous expansion, and additional content layers, with the Annual plan providing the best value for compounding results."
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "The Reason Your Firm Isn’t Showing Up in AI Legal Recommendations",
+  "description": "The Reason Your Firm Isn’t Showing Up in AI Legal Recommendations - Fort Worth",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "To rank in AI search, you need to prove your authority. Start by cleaning up your firm's ecosystem—make sure your bio and case wins are clearly indexed. Next, create \"seed\" content that helps AI models categorize your firm correctly. Lastly, use schema markup to define your services. While it's technical, it's the only way to win today. Want a pro to do it? We’re here to help."
+    }
+  ]
+}

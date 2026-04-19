@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I win against Perplexity? Do they pay right away?",
+  "description": "Damages + injunction; appeals delay payment.[2][4]",
+  "url": "aiovisibility.com/faq/general-what-happens-if-i-win-against-perplexity-do-they-pay-right-away-142",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I win against Perplexity? Do they pay right away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Damages + injunction; appeals delay payment.[2][4]",
+        "description": "Winners get injunctions, damages/profits; Perplexity may appeal, delaying payment years.[4] NYT seeks millions; settlements common in AI suits.[2][5] Key factors: Willful = triple damages; class actions possible. Post-judgment collection via assets. NY jurisdiction aids enforcement.[1] Monitor case dockets. Victories reshape AI content use."
+      }
+    }
+  ]
+}

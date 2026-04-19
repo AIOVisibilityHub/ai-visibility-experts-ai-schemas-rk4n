@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if AEO blocks my expert witness?",
+  "description": "**Motion for expert NDA access.** Standard practice.[4]",
+  "url": "aiovisibility.com/faq/general-what-if-aeo-blocks-my-expert-witness-48",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if AEO blocks my expert witness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Motion for expert NDA access.** Standard practice.[4]",
+        "description": "**Courts often allow expert access to AEO via NDA or in camera review.** Expert quals justify.[4] Key factors: Motion with expert CV. Usage limits. No party sharing. Common in IP cases. File early."
+      }
+    }
+  ]
+}

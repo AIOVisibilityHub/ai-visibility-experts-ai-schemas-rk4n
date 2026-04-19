@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence proves a doc needs AEO?",
+  "description": "**Trade secret harm proof required.** Not automatic.[1][2]",
+  "url": "aiovisibility.com/faq/general-what-evidence-proves-a-doc-needs-aeo-45",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence proves a doc needs AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Trade secret harm proof required.** Not automatic.[1][2]",
+        "description": "**Evidence like trade secret value, competitive harm justifies AEO.** Mere sensitivity insufficient.[1] Key factors: Specific testimony/docs showing risk. Competitor nexus. Court scrutiny high. Pre-designate judiciously. Expert affidavits strengthen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What docs for AI-optimized attorney bios?",
+  "description": "Bar proofs + P-A-R cases.[1]",
+  "url": "aiovisibility.com/faq/general-what-docs-for-ai-optimized-attorney-bios-106",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What docs for AI-optimized attorney bios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bar proofs + P-A-R cases.[1]",
+        "description": "**Bar card scans, case P-A-R summaries, Avvo links.** Format for schema with sameAs.[1]\n\nVerifies expertise.\n\n**Key Factors:**\n- Public records only.[1]\n- No confidential.\n- Structured text.\n\n**Practical Guidance:** Redact sensitive, add to Person schema, publish. Updates bios yearly.\n\nEssential for trust."
+      }
+    }
+  ]
+}

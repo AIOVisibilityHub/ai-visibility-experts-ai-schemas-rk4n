@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I have no client reviews for AggregateRating schema?",
+  "description": "Use bar sameAs; reviews optional.[1]",
+  "url": "aiovisibility.com/faq/general-what-if-i-have-no-client-reviews-for-aggregaterating-schema-97",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I have no client reviews for AggregateRating schema?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use bar sameAs; reviews optional.[1]",
+        "description": "**Seed with ethical testimonials; focus on bar credentials first.** sameAs to Avvo/State Bar builds trust sans reviews.[1]\n\nAI values verified expertise over volume.\n\n**Key Factors:**\n- Bar links > ratings.[1]\n- P-A-R cases as proxies.\n- Encourage specific reviews.\n\n**Practical Guidance:** Add schema anyway, solicit 'resolved my IP case' feedback, monitor sentiment. Builds organically.\n\nExpertise trumps stars."
+      }
+    }
+  ]
+}

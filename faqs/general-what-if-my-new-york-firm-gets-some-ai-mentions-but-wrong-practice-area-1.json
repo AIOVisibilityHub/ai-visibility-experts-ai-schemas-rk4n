@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my **New York firm** gets some AI mentions but wrong practice area?",
+  "description": "**Tailor bios/PR for exact practices; audit now.**[2]",
+  "url": "aiovisibility.com/faq/general-what-if-my-new-york-firm-gets-some-ai-mentions-but-wrong-practice-area-19",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my **New York firm** gets some AI mentions but wrong practice area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Tailor bios/PR for exact practices; audit now.**[2]",
+        "description": "**Refine bios and PR to match exact expertise patterns AI seeks.** Misalignments stem from inconsistent data.[2] Tailor for specificity.[1]\n\n**Key factors:**\n- Practice-specific content\n- Cross-source consistency\n- Structured labels\n- Peer validations by area\n\n**Audit queries, update profiles, and reinforce via PR.** Monitor corrections.[3] **Precision fixes mismatches quickly.**"
+      }
+    }
+  ]
+}

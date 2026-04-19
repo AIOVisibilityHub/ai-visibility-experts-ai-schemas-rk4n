@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "**Evidence** AI uses to rank law firms in responses?",
+  "description": "**Peer dirs like Chambers.**[3]",
+  "url": "aiovisibility.com/faq/general-evidence-ai-uses-to-rank-law-firms-in-responses-28",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "**Evidence** AI uses to rank law firms in responses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Peer dirs like Chambers.**[3]",
+        "description": "**Peer-reviewed recognitions, directory consistency, transparent validations.** Not keywords or sites.[1][3]\n\n**Key factors:**\n- Chambers, Super Lawyers\n- Cross-source patterns\n- Independent methodology\n- Public data alignment\n\n**Match these signals exactly.** Audit competitors.[2] **Predictable criteria.**"
+      }
+    }
+  ]
+}

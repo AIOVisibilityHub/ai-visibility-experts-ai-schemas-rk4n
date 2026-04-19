@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My AI optimization got denied visibility, what now?",
+  "description": "Audit schema, add E-E-A-T.[1]",
+  "url": "aiovisibility.com/faq/general-my-ai-optimization-got-denied-visibility-what-now-95",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My AI optimization got denied visibility, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audit schema, add E-E-A-T.[1]",
+        "description": "**Audit for schema errors and rebuild E-E-A-T signals.** Common: invalid markup or weak citations block extraction.[1][2]\n\nAI 'denies' via no-cite; fixes restore fast.\n\n**Key Factors:**\n- Validate structured data.[1]\n- Add bar sameAs links.[1]\n- Freshen with 2026 cases.\n\n**Practical Guidance:** Use Google's Rich Results Test, republish top pages, query AIs daily. Hire audit if stuck.\n\nPersistence uncovers quick fixes."
+      }
+    }
+  ]
+}

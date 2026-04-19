@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue Perplexity if they used my blog post in their answers?",
+  "description": "Yes, if they copied substantial original content; register copyright and gather proof of use.[1][2]",
+  "url": "aiovisibility.com/faq/general-can-i-sue-perplexity-if-they-used-my-blog-post-in-their-answers-136",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue Perplexity if they used my blog post in their answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if they copied substantial original content; register copyright and gather proof of use.[1][2]",
+        "description": "Yes, if Perplexity reproduced substantial portions of your copyrighted blog without permission, you may have a viable copyright claim similar to publishers' cases.[1][2] Context: Cases like NYT v. Perplexity allege direct infringement via scraping and output generation.[2][3] Key factors: Prove ownership/registration, direct copying (even paywalled), market harm; fair use defense likely argued but failing so far.[1][4] Register your work first via copyright.gov for statutory damages. Track queries showing your content; file in federal court where Perplexity operates, like New York. Seek IP attorney evaluation."
+      }
+    }
+  ]
+}

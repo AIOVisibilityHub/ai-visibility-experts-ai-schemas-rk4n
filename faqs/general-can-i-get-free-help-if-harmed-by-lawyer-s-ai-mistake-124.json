@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get free help if harmed by lawyer's AI mistake?",
+  "description": "Bar funds or pro bono; check eligibility.",
+  "url": "aiovisibility.com/faq/general-can-i-get-free-help-if-harmed-by-lawyer-s-ai-mistake-124",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get free help if harmed by lawyer's AI mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bar funds or pro bono; check eligibility.",
+        "description": "Possibly via bar legal aid or malpractice funds. Context: Some states have client protection; pro bono for low-income. Key factors: Income eligibility, provable harm. Practical guidance: Contact state bar fund, legal aid society. Contingency lawyers common."
+      }
+    }
+  ]
+}

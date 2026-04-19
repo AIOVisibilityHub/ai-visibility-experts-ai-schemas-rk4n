@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need if an AEO agency scams my practice?",
+  "description": "Contracts, metrics, screenshots, losses.[1] Document everything.",
+  "url": "aiovisibility.com/faq/general-what-evidence-do-i-need-if-an-aeo-agency-scams-my-practice-67",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need if an AEO agency scams my practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contracts, metrics, screenshots, losses.[1] Document everything.",
+        "description": "**Gather contracts, invoices, performance reports, AI query screenshots, and financial loss records to prove AEO scam claims.** This supports fraud or breach theories.[1]\n\nSolid evidence is crucial as AEO lacks standardized benchmarks.[9] Applies nationwide.\n\n**Key factors:**\n- Before/after traffic/AI citation data.\n- Communications promising results.\n- Competitor comparisons.\n- Damage calculations (lost cases).\n\nOrganize chronologically; use tools like SEMrush for metrics. File FTC complaint alongside civil suit for leverage."
+      }
+    }
+  ]
+}

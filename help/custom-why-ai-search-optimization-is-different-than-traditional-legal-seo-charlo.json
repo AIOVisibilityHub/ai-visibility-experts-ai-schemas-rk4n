@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why AI Search Optimization Is Different Than Traditional Legal SEO",
+    "text": "Why AI Search Optimization Is Different Than Traditional Legal SEO",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Traditional SEO is about keywords, but AI search is about context and trust. To rank in AI, your firm needs to be seen as the most relevant answer to a user's specific problem. We focus on building your brand’s \"entity\" in the eyes of the AI. If you're tired of losing leads to firms with better AI visibility, let's talk about a dedicated AI audit for your practice today.",
+      "author": {
+        "@type": "Organization",
+        "name": "AI Visibility Experts"
+      }
+    }
+  }
+}

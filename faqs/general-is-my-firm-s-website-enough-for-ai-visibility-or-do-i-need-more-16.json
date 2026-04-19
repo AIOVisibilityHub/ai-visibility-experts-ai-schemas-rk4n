@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is my firm's website **enough** for AI visibility, or do I need more?",
+  "description": "**No, websites don't count; get peer recognitions.**[3]",
+  "url": "aiovisibility.com/faq/general-is-my-firm-s-website-enough-for-ai-visibility-or-do-i-need-more-16",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is my firm's website **enough** for AI visibility, or do I need more?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**No, websites don't count; get peer recognitions.**[3]",
+        "description": "**No, firm websites are essentially invisible to AI as direct sources.** AI cites peer directories like Chambers far more reliably.[3] Visibility requires external validations.[1]\n\n**Key factors:**\n- Websites rarely cited\n- Third-party authority essential\n- Structured data helps indirectly\n- PR-site alignment boosts patterns\n\n**Audit AI outputs, then prioritize recognitions over site tweaks.** Pair with consistent messaging.[2] **External signals are non-negotiable.**"
+      }
+    }
+  ]
+}

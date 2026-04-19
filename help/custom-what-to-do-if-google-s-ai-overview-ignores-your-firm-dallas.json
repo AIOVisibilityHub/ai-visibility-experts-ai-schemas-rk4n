@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What to Do if Google's AI Overview Ignores Your Firm",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "When prospective clients ask Google AI for a lawyer, they get a summary, not a list of links. If you aren't in that summary, you're invisible. We optimize your niche expertise so AI sees you as the definitive choice. We then monitor these models to ensure your firm stays top-of-mind as algorithms change. Don't let your firm get left behind—claim your spot in the AI recommendations now.",
+  "datePublished": "2026-04-19"
+}

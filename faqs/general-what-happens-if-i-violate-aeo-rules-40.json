@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I violate AEO rules?",
+  "description": "**Sanctions, contempt, dismissal possible.** Never share outside attorneys.[2]",
+  "url": "aiovisibility.com/faq/general-what-happens-if-i-violate-aeo-rules-40",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I violate AEO rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Sanctions, contempt, dismissal possible.** Never share outside attorneys.[2]",
+        "description": "**Violating AEO can lead to contempt, sanctions, or case dismissal.** Breaches expose confidential info risking trade secret loss.[2] Key factors: Strict non-disclosure to parties. Court-ordered limits enforceable. Document handling critical. Immediately self-report errors. Seek protective order amendments proactively. Litigation counsel essential."
+      }
+    }
+  ]
+}

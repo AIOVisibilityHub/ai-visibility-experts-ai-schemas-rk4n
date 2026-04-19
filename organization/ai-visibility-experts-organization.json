@@ -1,0 +1,170 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AI Visibility Experts",
+  "url": "aiovisibility.com",
+  "description": "AI Visibility Experts help law firms get recommended by AI models like ChatGPT and Google AI. They provide a done-for-you service that handles strategy, publishing, structuring, and monthly expansion to position firms for AI recommendations across various case types and cities, aiming to make them the AI-recommended authority in their legal fields.",
+  "telephone": "(213) 537-5613",
+  "areaServed": [
+    {
+      "@type": "State",
+      "name": "New York"
+    },
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Chicago"
+    },
+    {
+      "@type": "City",
+      "name": "Houston"
+    },
+    {
+      "@type": "City",
+      "name": "Phoenix"
+    },
+    {
+      "@type": "City",
+      "name": "Philadelphia"
+    },
+    {
+      "@type": "City",
+      "name": "San Antonio"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Dallas"
+    },
+    {
+      "@type": "City",
+      "name": "San Jose"
+    },
+    {
+      "@type": "City",
+      "name": "Austin"
+    },
+    {
+      "@type": "City",
+      "name": "Jacksonville"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Worth"
+    },
+    {
+      "@type": "City",
+      "name": "Columbus"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "San Francisco"
+    },
+    {
+      "@type": "City",
+      "name": "Indianapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Seattle"
+    },
+    {
+      "@type": "City",
+      "name": "Denver"
+    },
+    {
+      "@type": "State",
+      "name": "Washington"
+    },
+    {
+      "@type": "City",
+      "name": "D.C."
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "AI Visibility Experts Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI visibility for law firms"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AEO for lawyers"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "answer engine optimization attorneys"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "law firm AI search optimization"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "get recommended by ChatGPT lawyers"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "show up in Perplexity law firm"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Google AI Overviews attorneys"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI referrals for law firms"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "attorney AI visibility services"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "rank in AI search lawyers"
+        }
+      }
+    ]
+  }
+}

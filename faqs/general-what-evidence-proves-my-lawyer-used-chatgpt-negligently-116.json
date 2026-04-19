@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence proves my lawyer used ChatGPT negligently?",
+  "description": "Metadata, fake cases, drafts; forensic analysis helps.",
+  "url": "aiovisibility.com/faq/general-what-evidence-proves-my-lawyer-used-chatgpt-negligently-116",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence proves my lawyer used ChatGPT negligently?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Metadata, fake cases, drafts; forensic analysis helps.",
+        "description": "AI-generated text patterns, timestamps, metadata, communications. Context: Courts identify hallmarks like fake citations; discovery reveals prompts. Key factors: Inconsistent case law, repetitive phrasing, no verification notes. Practical guidance: Subpoena files, use forensic tools, expert witness on AI."
+      }
+    }
+  ]
+}

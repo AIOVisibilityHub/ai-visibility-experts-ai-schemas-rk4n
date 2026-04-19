@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer to check ChatGPT legal docs before signing?",
+  "description": "Yes, AI errors common; attorney review essential.",
+  "url": "aiovisibility.com/faq/general-do-i-need-a-lawyer-to-check-chatgpt-legal-docs-before-signing-114",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer to check ChatGPT legal docs before signing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI errors common; attorney review essential.",
+        "description": "Yes, always have a licensed attorney review. Context: AI lacks jurisdiction knowledge, hallucinates cases; not legal advice. Key factors: State-specific laws vary, errors common in citations. Practical guidance: Get attorney review for $200-500/hour, compare AI output manually. Better safe than lawsuit."
+      }
+    }
+  ]
+}

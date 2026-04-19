@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Q1. What do you actually do for law firms?",
+  "description": "AI Visibility structures and publishes a firm’s information so AI systems can find, understand, and trust it. They build authority around case types and target ",
+  "url": "aiovisibility.com/faq/general-q1-what-do-you-actually-do-for-law-firms-1",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Q1. What do you actually do for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Visibility structures and publishes a firm’s information so AI systems can find, understand, and trust it. They build authority around case types and target cities, create FAQs, Q&As, and help content based on client questions, and publish content across multiple trusted platforms that AI systems crawl. They continuously expand and refresh visibility and identify missed opportunities."
+      }
+    }
+  ]
+}

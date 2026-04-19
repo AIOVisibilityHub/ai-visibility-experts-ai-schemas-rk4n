@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Nationwide, are AEO rules uniform?",
+  "description": "**Varies; NY strictest.** Research local.[1][2]",
+  "url": "aiovisibility.com/faq/general-nationwide-are-aeo-rules-uniform-55",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Nationwide, are AEO rules uniform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Varies; NY strictest.** Research local.[1][2]",
+        "description": "**No, vary by court/state; federal more consistent.** Local rules key.[2] Key factors: NY strict; CA balanced. Check district. Multi-jurisdictional order tricky. National counsel coordinates."
+      }
+    }
+  ]
+}

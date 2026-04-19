@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does AEO hurt my defense?",
+  "description": "**Blocks client review; motion to challenge.** Balance required.[2]",
+  "url": "aiovisibility.com/faq/general-does-aeo-hurt-my-defense-46",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does AEO hurt my defense?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Blocks client review; motion to challenge.** Balance required.[2]",
+        "description": "**Yes, AEO can hinder defense by blocking client input on key docs.** Courts balance this.[2] Key factors: Limits strategy discussion. Push for 'outside counsel only' alternatives. Motion for access. Early order negotiation key. Experienced counsel mitigates."
+      }
+    }
+  ]
+}

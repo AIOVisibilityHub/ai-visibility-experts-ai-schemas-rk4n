@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What **damages** can we claim if a client picks a competitor due to our AI invisibility?",
+  "description": "**No lawsuits, but track 79% traffic loss from AI.**[1]",
+  "url": "aiovisibility.com/faq/general-what-damages-can-we-claim-if-a-client-picks-a-competitor-due-to-our-ai-invisibil-17",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What **damages** can we claim if a client picks a competitor due to our AI invisibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**No lawsuits, but track 79% traffic loss from AI.**[1]",
+        "description": "**No direct legal damages, but lost opportunities reduce firm revenue measurably.** Track client inquiries dropping 79% from AI summaries.[1] Proves competitive harm indirectly.[3]\n\n**Key factors:**\n- Traffic loss metrics\n- Competitor dominance in AI\n- Revenue correlations\n- Attribution challenges\n\n**Document inquiry declines and AI audits for internal cases.** Focus on prevention.[1] **Quantifies urgency for partners.**"
+      }
+    }
+  ]
+}

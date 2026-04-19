@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My attorney in LA used AI without consent—what are my rights?",
+  "description": "Demand disclosure; bar complaint if harmed.",
+  "url": "aiovisibility.com/faq/general-my-attorney-in-la-used-ai-without-consent-what-are-my-rights-118",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My attorney in LA used AI without consent—what are my rights?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Demand disclosure; bar complaint if harmed.",
+        "description": "Demand disclosure, potential fee refund, malpractice claim. Context: CA ethics require competence/tech disclosure. Key factors: Harm from AI error, informed consent missing. Practical guidance: Send formal letter, contact CA State Bar, seek new counsel. Rules tightening on AI."
+      }
+    }
+  ]
+}

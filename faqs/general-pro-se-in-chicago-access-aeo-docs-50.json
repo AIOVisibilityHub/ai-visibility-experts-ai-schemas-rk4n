@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pro se in Chicago: access AEO docs?",
+  "description": "**Motion court; demand first.** Pro se treated as attorney.[4]",
+  "url": "aiovisibility.com/faq/general-pro-se-in-chicago-access-aeo-docs-50",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pro se in Chicago: access AEO docs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Motion court; demand first.** Pro se treated as attorney.[4]",
+        "description": "**File motion to modify order for pro se access in Chicago courts.** Similar to CA; explain prep need.[4] Key factors: Attach demand letter refusal. Declaration under penalty. Agree to limits. Northern District IL rules apply. Local rules counsel."
+      }
+    }
+  ]
+}

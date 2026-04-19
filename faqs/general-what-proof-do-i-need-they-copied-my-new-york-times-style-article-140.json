@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need they copied my New York Times-style article?",
+  "description": "Screenshots of matching outputs, queries, timestamps.[2][3]",
+  "url": "aiovisibility.com/faq/general-what-proof-do-i-need-they-copied-my-new-york-times-style-article-140",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need they copied my New York Times-style article?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Screenshots of matching outputs, queries, timestamps.[2][3]",
+        "description": "Screenshots of Perplexity outputs matching your article verbatim/substantially, query logs, and metadata showing scraping.[2][3] Context: Complaints detail PerplexityBot access, even paywalled content.[1][2] Key factors: Side-by-side comparisons, timestamps, no transformation (outputs substitute original).[3] Use Wayback Machine for archives. In NY cases, courts credit such evidence.[4] Preserve server logs if available. This evidence beats fair use."
+      }
+    }
+  ]
+}

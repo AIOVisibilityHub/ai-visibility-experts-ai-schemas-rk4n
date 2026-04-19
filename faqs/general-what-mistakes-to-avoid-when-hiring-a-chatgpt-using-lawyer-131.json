@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What mistakes to avoid when hiring a ChatGPT-using lawyer?",
+  "description": "Demand disclosure and verification.",
+  "url": "aiovisibility.com/faq/general-what-mistakes-to-avoid-when-hiring-a-chatgpt-using-lawyer-131",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What mistakes to avoid when hiring a ChatGPT-using lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Demand disclosure and verification.",
+        "description": "Don't skip AI disclosure questions. Context: Ensure verification protocols. Key factors: No blind trust, check references. Practical guidance: Ask about AI policy upfront, review samples, get guarantees."
+      }
+    }
+  ]
+}

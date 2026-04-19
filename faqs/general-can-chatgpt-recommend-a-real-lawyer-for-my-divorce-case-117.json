@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can ChatGPT recommend a real lawyer for my divorce case?",
+  "description": "No; use state bar or reviews.",
+  "url": "aiovisibility.com/faq/general-can-chatgpt-recommend-a-real-lawyer-for-my-divorce-case-117",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can ChatGPT recommend a real lawyer for my divorce case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No; use state bar or reviews.",
+        "description": "No, it can't provide personalized recommendations or advice. Context: AI not licensed, risks bias/errors; use bar associations instead. Key factors: No vetting, outdated info. Practical guidance: Search state bar directory, Avvo ratings, personal referrals. Avoid AI for this."
+      }
+    }
+  ]
+}

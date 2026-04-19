@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if ChatGPT gave wrong case law—can lawyer be disbarred?",
+  "description": "Possible; bar complaint needed.",
+  "url": "aiovisibility.com/faq/general-what-if-chatgpt-gave-wrong-case-law-can-lawyer-be-disbarred-122",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if ChatGPT gave wrong case law—can lawyer be disbarred?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible; bar complaint needed.",
+        "description": "Possible for repeated negligence. Context: Bars sanction AI misuse; e.g., fake briefs led to suspensions. Key factors: Pattern of errors, client harm. Practical guidance: File complaint with state bar, provide evidence. Rare but increasing."
+      }
+    }
+  ]
+}

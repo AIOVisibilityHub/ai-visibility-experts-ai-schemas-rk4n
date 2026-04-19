@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What even is answer engine optimization for attorneys and do I need it?",
+  "description": "AEO optimizes law firm content to be recommended by AI answer engines like Perplexity, differing from SEO by targeting AI citations.[2][3] Start with question-a",
+  "url": "aiovisibility.com/faq/general-what-even-is-answer-engine-optimization-for-attorneys-and-do-i-need-it-60",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What even is answer engine optimization for attorneys and do I need it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO optimizes law firm content to be recommended by AI answer engines like Perplexity, differing from SEO by targeting AI citations.[2][3] Start with question-answering FAQs and local details.",
+        "description": "**Answer engine optimization (AEO) helps law firms get recommended by AI tools like ChatGPT or Perplexity when users ask legal questions.** It differs from traditional SEO by focusing on being cited in AI-generated answers rather than just search rankings.[2][3]\n\nAEO matters because AI search is replacing Google results; firms not optimized risk invisibility.[6][7] In competitive markets like New York or Los Angeles, early adopters gain leads.\n\n**Key factors:**\n- Create content answering common client questions directly.\n- Use attorney bios, local procedural details, and resource links for credibility (EEAT).[2]\n- Update FAQs regularly for fresh relevance.[3]\n- Focus on utility like court addresses or forms.[2]\n\nAudit your site for AEO: add question-based pages, attribute authors. Test by querying AI tools about your practice area. Nationwide firms should prioritize this now.[6]"
+      }
+    }
+  ]
+}

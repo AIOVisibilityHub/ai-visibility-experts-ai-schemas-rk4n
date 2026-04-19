@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to sue a lawyer for bad ChatGPT advice in New York?",
+  "description": "3 years from discovery in NY; check your state.",
+  "url": "aiovisibility.com/faq/general-how-long-do-i-have-to-sue-a-lawyer-for-bad-chatgpt-advice-in-new-york-115",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to sue a lawyer for bad ChatGPT advice in New York?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3 years from discovery in NY; check your state.",
+        "description": "3 years from discovery of malpractice. Context: NY CPLR §214(6) governs legal malpractice; clock starts on harm awareness. Key factors: Continuous representation tolls, fraud extends. Practical guidance: Document timeline, consult NY bar referral, file before deadline. Nationwide average 2-6 years."
+      }
+    }
+  ]
+}

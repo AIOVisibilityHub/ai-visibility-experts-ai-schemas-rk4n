@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied by GEO agency— what next for my law firm?",
+  "description": "Demand letter, then mediate/sue.[1] Document all.",
+  "url": "aiovisibility.com/faq/general-claim-denied-by-geo-agency-what-next-for-my-law-firm-77",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied by GEO agency— what next for my law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Demand letter, then mediate/sue.[1] Document all.",
+        "description": "**Send a formal demand letter citing contract breaches and evidence, then consider mediation or suit if ignored.** Many resolve pre-litigation.[1]\n\nAgencies often settle to avoid precedent.[9] Applies nationwide.\n\n**Key factors:**\n- 30-day cure period common.\n- Escalate to BBB/FTC.\n- Preserve all docs.\n- Assess jurisdiction.\n\nUse certified mail; copy lawyer. Track response timeline strictly."
+      }
+    }
+  ]
+}

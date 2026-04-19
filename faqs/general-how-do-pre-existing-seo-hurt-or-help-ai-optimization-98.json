@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do pre-existing SEO hurt or help AI optimization?",
+  "description": "Helps if strong; add schema gaps.[1]",
+  "url": "aiovisibility.com/faq/general-how-do-pre-existing-seo-hurt-or-help-ai-optimization-98",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do pre-existing SEO hurt or help AI optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Helps if strong; add schema gaps.[1]",
+        "description": "**Strong SEO foundations accelerate AI wins via authority signals.** Backlinks + speed aid crawl; gaps need schema fill.[1][4]\n\nWeak topical depth hinders extraction.\n\n**Key Factors:**\n- Good: entity trust.[6]\n- Bad: keyword stuffing.\n- Leverage clusters.[4]\n\n**Practical Guidance:** Audit top pages for schema, chunk content, link internally. Merge strategies.\n\nSEO + AEO = unstoppable."
+      }
+    }
+  ]
+}

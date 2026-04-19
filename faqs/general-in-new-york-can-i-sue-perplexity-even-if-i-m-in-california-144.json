@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In New York, can I sue Perplexity even if I'm in California?",
+  "description": "Yes, NY jurisdiction sticks per court rulings.[1][4]",
+  "url": "aiovisibility.com/faq/general-in-new-york-can-i-sue-perplexity-even-if-i-m-in-california-144",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In New York, can I sue Perplexity even if I'm in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, NY jurisdiction sticks per court rulings.[1][4]",
+        "description": "Yes, NY federal courts have jurisdiction over Perplexity due to employee hiring and business contacts there.[1][4] Cases like Dow Jones proceed despite nationwide parties.[5] Key factors: Personal jurisdiction upheld; venue denial.[4] File where harm occurs or Perplexity operates. CA residents joined NY suits. Consult local counsel for multi-state."
+      }
+    }
+  ]
+}

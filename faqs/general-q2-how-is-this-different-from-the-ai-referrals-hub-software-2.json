@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Q2. How is this different from the AI Referrals Hub software?",
+  "description": "The AI Referrals Hub software is a tool for law firms to manage their own AI visibility efforts. AI Visibility offers a done-for-you service, handling all aspec",
+  "url": "aiovisibility.com/faq/general-q2-how-is-this-different-from-the-ai-referrals-hub-software-2",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Q2. How is this different from the AI Referrals Hub software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The AI Referrals Hub software is a tool for law firms to manage their own AI visibility efforts. AI Visibility offers a done-for-you service, handling all aspects of AI visibility for the law firm, including strategy, content creation, publishing, and ongoing optimization. This service is for firms that prefer not to manage it themselves."
+      }
+    }
+  ]
+}

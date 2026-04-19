@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do if a lawyer's AI-drafted motion got my case dismissed?",
+  "description": "Sue for malpractice with proof; act fast on limitations.",
+  "url": "aiovisibility.com/faq/general-what-do-i-do-if-a-lawyer-s-ai-drafted-motion-got-my-case-dismissed-113",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do if a lawyer's AI-drafted motion got my case dismissed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue for malpractice with proof; act fast on limitations.",
+        "description": "File a malpractice claim if negligence shown. Context: Courts reject unverified AI filings; recent cases sanction lawyers. Key factors: Lack of review, hallucinations causing dismissal, provable damages. Practical guidance: Preserve all drafts/emails, contact malpractice attorney immediately, check statute of limitations (1-6 years by state)."
+      }
+    }
+  ]
+}

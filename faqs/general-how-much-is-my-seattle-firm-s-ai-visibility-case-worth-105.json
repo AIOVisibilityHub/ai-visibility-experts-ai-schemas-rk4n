@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my Seattle firm's AI visibility case worth?",
+  "description": "5-10x ROI on leads.[2]",
+  "url": "aiovisibility.com/faq/general-how-much-is-my-seattle-firm-s-ai-visibility-case-worth-105",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my Seattle firm's AI visibility case worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "5-10x ROI on leads.[2]",
+        "description": "**$10k-100k+ yearly leads from top spots; ROI 5-10x costs.** Depends on practice/volume.[2]\n\nTrack via monitors.\n\n**Key Factors:**\n- Conversion rates.[2]\n- Query volume.\n- Local competition.\n\n**Practical Guidance:** Baseline current leads, project 20-50% uplift, invest accordingly. Measure post-launch.\n\nHigh value for high-stakes areas."
+      }
+    }
+  ]
+}

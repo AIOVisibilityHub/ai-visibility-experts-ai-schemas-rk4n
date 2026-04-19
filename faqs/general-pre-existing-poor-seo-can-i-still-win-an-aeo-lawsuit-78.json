@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing poor SEO—can I still win an AEO lawsuit?",
+  "description": "Yes if breach proven, despite prior SEO.[1] Prove incremental harm.",
+  "url": "aiovisibility.com/faq/general-pre-existing-poor-seo-can-i-still-win-an-aeo-lawsuit-78",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing poor SEO—can I still win an AEO lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if breach proven, despite prior SEO.[1] Prove incremental harm.",
+        "description": "**Yes, if agency guaranteed improvements or breached specific terms, pre-existing issues may not bar claims.** Causation key.[1]\n\nCourts apportion fault; disclose baselines upfront.[1] Relevant in Philadelphia.\n\n**Key factors:**\n- Contract scope clear?\n- They worsened it?\n- Disclosed SEO state.\n- Damages incremental.\n\nExpert audit pre/post. Strong disclosure weakens defenses."
+      }
+    }
+  ]
+}

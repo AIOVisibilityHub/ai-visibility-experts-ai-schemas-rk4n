@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My lawyer used ChatGPT to draft my contract without telling me. Is that okay?",
+  "description": "No, disclosure and verification required; ask your lawyer and request review.",
+  "url": "aiovisibility.com/faq/general-my-lawyer-used-chatgpt-to-draft-my-contract-without-telling-me-is-that-okay-110",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My lawyer used ChatGPT to draft my contract without telling me. Is that okay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, disclosure and verification required; ask your lawyer and request review.",
+        "description": "No, lawyers must disclose AI use if it affects work quality and ensure outputs are verified. Context: Ethical rules require transparency and competence; undisclosed AI can breach duty of care. Key factors: ABA Model Rule 1.1 on tech competence, client consent needs, verification mandatory. Practical guidance: Ask your lawyer directly about AI use, request revisions if concerned, consider switching if trust broken. Consult bar ethics hotline."
+      }
+    }
+  ]
+}

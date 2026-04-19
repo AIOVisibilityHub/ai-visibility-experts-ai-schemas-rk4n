@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my Phoenix firm gets cited wrong by AI tools?",
+  "description": "Update schema, monitor, self-corrects.[3]",
+  "url": "aiovisibility.com/faq/general-what-happens-if-my-phoenix-firm-gets-cited-wrong-by-ai-tools-92",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my Phoenix firm gets cited wrong by AI tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Update schema, monitor, self-corrects.[3]",
+        "description": "**Contact AI providers and issue corrections via updated schema/content.** Monitor sentiment; strong E-E-A-T overrides errors over time.[3][6]\n\nRare but possible; optimized sites self-correct as models retrain.[3]\n\n**Key Factors:**\n- Citation tracking tools spot issues.[3]\n- Fresh authoritative signals fix fast.[1]\n- Brand consistency across web.\n\n**Practical Guidance:** Set AI alerts, push verified bios/schema, engage on platforms. Document for liability.\n\nProactive monitoring prevents damage."
+      }
+    }
+  ]
+}

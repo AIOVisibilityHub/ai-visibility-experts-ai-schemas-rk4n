@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What mistakes do law firms make with answer engine optimization?",
+  "description": "Generic/no EEAT content, no updates.[2][3] Add specifics.",
+  "url": "aiovisibility.com/faq/general-what-mistakes-do-law-firms-make-with-answer-engine-optimization-76",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What mistakes do law firms make with answer engine optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generic/no EEAT content, no updates.[2][3] Add specifics.",
+        "description": "**Common mistakes: generic content, ignoring EEAT, no local details, infrequent updates.** These prevent AI selection.[2][3]\n\nLeads to wasted effort; competitors dominate.[6] Avoid in competitive Fort Worth.\n\n**Key factors:**\n- No attorney attribution.[2]\n- Overly salesy answers.[3]\n- Missing resources.[2]\n- Static FAQs.[3]\n\nAudit site: ensure 80% content answers questions helpfully. Test and iterate monthly."
+      }
+    }
+  ]
+}

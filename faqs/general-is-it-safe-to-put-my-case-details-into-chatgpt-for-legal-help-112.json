@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to put my case details into ChatGPT for legal help?",
+  "description": "Never; risks privilege waiver and data breach.",
+  "url": "aiovisibility.com/faq/general-is-it-safe-to-put-my-case-details-into-chatgpt-for-legal-help-112",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to put my case details into ChatGPT for legal help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Never; risks privilege waiver and data breach.",
+        "description": "No, it risks breaching confidentiality and attorney-client privilege. Context: Public AI tools store data; inputting privileged info waives protection. Key factors: No formal privilege with AI, data used for training, ethics rules prohibit. Practical guidance: Use anonymized facts only, opt for secure legal AI tools, never share sensitive details. Lawyers: Use enterprise versions."
+      }
+    }
+  ]
+}

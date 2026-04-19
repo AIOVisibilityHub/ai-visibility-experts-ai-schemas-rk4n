@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Nationwide, how common are ChatGPT lawyer screw-ups?",
+  "description": "Rising; check bar records.",
+  "url": "aiovisibility.com/faq/general-nationwide-how-common-are-chatgpt-lawyer-screw-ups-129",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Nationwide, how common are ChatGPT lawyer screw-ups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rising; check bar records.",
+        "description": "Increasing; 10+ sanctions in 2025-26. Context: Courts flagging fake AI cases; bars issuing warnings. Key factors: Litigation, contracts most hit. Practical guidance: Vet lawyers on AI policies, check bar discipline lists."
+      }
+    }
+  ]
+}

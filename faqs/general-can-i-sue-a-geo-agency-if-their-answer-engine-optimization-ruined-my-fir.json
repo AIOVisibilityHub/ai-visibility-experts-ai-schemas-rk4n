@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue a GEO agency if their answer engine optimization ruined my firm's visibility?",
+  "description": "Possible breach or negligence if contract breached, but prove damages with metrics.[1] Review terms first.",
+  "url": "aiovisibility.com/faq/general-can-i-sue-a-geo-agency-if-their-answer-engine-optimization-ruined-my-firm-s-visi-62",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue a GEO agency if their answer engine optimization ruined my firm's visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible breach or negligence if contract breached, but prove damages with metrics.[1] Review terms first.",
+        "description": "**You may have grounds for a breach of contract or negligence claim against a GEO agency if they failed to deliver promised AEO results, but proving damages is key.** Courts assess based on contract terms and industry standards.[1]\n\nAEO services are new, so expectations must match realistic outcomes; no guaranteed rankings exist.[9] Nationwide or New York firms face similar issues.\n\n**Key factors:**\n- Review contract for specific KPIs like AI citations.\n- Document before/after visibility metrics.\n- Show financial losses from lost leads.\n- Consider fraud if false promises made.[1]\n\nGather ad spend records and AI query tests. Consult a marketing attorney before filing; many disputes settle out of court. Act within your state's statute of limitations."
+      }
+    }
+  ]
+}

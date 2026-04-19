@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much can I get if AI error cost me my settlement?",
+  "description": "Lost amount + costs; prove causation.",
+  "url": "aiovisibility.com/faq/general-how-much-can-i-get-if-ai-error-cost-me-my-settlement-120",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much can I get if AI error cost me my settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost amount + costs; prove causation.",
+        "description": "Damages equal to lost settlement plus fees. Context: Malpractice awards based on provable losses; e.g., $100k+ cases. Key factors: Causation proof, mitigation efforts. Practical guidance: Calculate economic harm, expert valuation, negotiate first. Averages $50k-$500k."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Q5. What does case type + city authority mapping mean?",
+  "description": "Case type + city authority mapping involves strategically aligning a firm's AI visibility efforts with specific legal case types (e.g., personal injury, family ",
+  "url": "aiovisibility.com/faq/general-q5-what-does-case-type-city-authority-mapping-mean-5",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Q5. What does case type + city authority mapping mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Case type + city authority mapping involves strategically aligning a firm's AI visibility efforts with specific legal case types (e.g., personal injury, family law) and geographic locations (cities) where they want to attract clients. This ensures that when AI is asked for recommendations in those specific areas, the firm is positioned as an authoritative answer."
+      }
+    }
+  ]
+}

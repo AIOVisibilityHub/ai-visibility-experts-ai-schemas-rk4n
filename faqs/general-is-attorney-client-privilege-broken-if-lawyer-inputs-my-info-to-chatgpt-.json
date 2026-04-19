@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is attorney-client privilege broken if lawyer inputs my info to ChatGPT?",
+  "description": "Yes, waived; insist on secure alternatives.",
+  "url": "aiovisibility.com/faq/general-is-attorney-client-privilege-broken-if-lawyer-inputs-my-info-to-chatgpt-119",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is attorney-client privilege broken if lawyer inputs my info to ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, waived; insist on secure alternatives.",
+        "description": "Yes, likely waives privilege. Context: Communications to third parties unprotected; AI not confidential. Key factors: Public vs. private AI, data retention policies. Practical guidance: Lawyer must use secure tools only, get waiver first. Courts ruling against in cases."
+      }
+    }
+  ]
+}

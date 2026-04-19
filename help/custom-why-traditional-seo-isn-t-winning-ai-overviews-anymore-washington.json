@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Why Traditional SEO Isn't Winning AI Overviews Anymore",
+    "text": "Why Traditional SEO Isn't Winning AI Overviews Anymore",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Why is AI sending leads to other firms? It usually comes down to 'data density.' If AI models find more structured, reliable info about a competitor, they'll recommend them over you every time. You need to proactively feed these systems the right details about your successes. It's a complex, monthly process, but we've got the roadmap. Contact us to start claiming those AI referrals.",
+      "author": {
+        "@type": "Organization",
+        "name": "AI Visibility Experts"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Q3. Why do I need this if I already invest in SEO?",
+  "description": "AI visibility complements SEO by addressing a new and growing channel through which potential clients find legal services. While SEO focuses on search engine ra",
+  "url": "aiovisibility.com/faq/general-q3-why-do-i-need-this-if-i-already-invest-in-seo-3",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Q3. Why do I need this if I already invest in SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility complements SEO by addressing a new and growing channel through which potential clients find legal services. While SEO focuses on search engine rankings, AI visibility targets AI assistants and large language models that recommend firms based on structured, AI-readable data and authority. Firms need both to cover all bases for client acquisition."
+      }
+    }
+  ]
+}

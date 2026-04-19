@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Q7. What happens if I wait?",
+  "description": "If law firms wait, they risk being left behind as AI assistants increasingly become a primary source of recommendations for legal services. AI models recommend ",
+  "url": "aiovisibility.com/faq/general-q7-what-happens-if-i-wait-7",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Q7. What happens if I wait?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If law firms wait, they risk being left behind as AI assistants increasingly become a primary source of recommendations for legal services. AI models recommend a small number of recognized and trusted firms, and if a firm isn't positioned to be in those answers, AI will recommend competitors, leading to missed client opportunities."
+      }
+    }
+  ]
+}

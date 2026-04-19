@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I have pre-existing distrust of AI in legal work?",
+  "description": "Request no-AI in writing; shop firms.",
+  "url": "aiovisibility.com/faq/general-what-if-i-have-pre-existing-distrust-of-ai-in-legal-work-127",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I have pre-existing distrust of AI in legal work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Request no-AI in writing; shop firms.",
+        "description": "Request no-AI policy in engagement letter. Context: Clients can dictate terms; lawyers accommodate. Key factors: Informed consent, alternative workflows. Practical guidance: Specify in retainer, find AI-averse firms via referrals. Your right."
+      }
+    }
+  ]
+}

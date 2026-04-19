@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a lawyer to handle answer engine optimization disputes?",
+  "description": "Not for small disputes; yes for litigation.[1] Start with demand letter.",
+  "url": "aiovisibility.com/faq/general-do-i-really-need-a-lawyer-to-handle-answer-engine-optimization-disputes-64",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a lawyer to handle answer engine optimization disputes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not for small disputes; yes for litigation.[1] Start with demand letter.",
+        "description": "**No, simple AEO contract disputes can be handled via demand letters, but hire a lawyer for litigation over significant damages.** Attorneys ensure proper claims like breach or misrepresentation.[1]\n\nSelf-resolution works for small issues, but courts require precise filings.[1] Useful nationwide or in San Diego courts.\n\n**Key factors:**\n- Dispute under $10K? Use small claims.\n- Complex damages? Need legal expertise.\n- Evidence of fraud strengthens case.[1]\n- Statutes vary by state (2-6 years).\n\nSend certified demand first, documenting all communications. If ignored, consult a contracts lawyer for evaluation. Avoid social media rants risking defamation."
+      }
+    }
+  ]
+}

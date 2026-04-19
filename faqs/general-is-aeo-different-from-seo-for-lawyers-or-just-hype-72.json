@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO different from SEO for lawyers, or just hype?",
+  "description": "Yes, AEO for AI cites, SEO for rankings.[2][6] Do both.",
+  "url": "aiovisibility.com/faq/general-is-aeo-different-from-seo-for-lawyers-or-just-hype-72",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO different from SEO for lawyers, or just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO for AI cites, SEO for rankings.[2][6] Do both.",
+        "description": "**AEO differs fundamentally: SEO targets links/rankings, AEO targets AI recommendations via authoritative content.** Both needed now.[2][6]\n\nAI shifts user behavior; SEO alone insufficient.[7] Complements in markets like Seattle.\n\n**Key factors:**\n- SEO: Keywords, backlinks.\n- AEO: Questions, utility, EEAT.[2]\n- Overlap in quality content.\n- AI-first future.[6]\n\nImplement hybrid: FAQ pages boost both. Track AI vs. organic traffic separately."
+      }
+    }
+  ]
+}

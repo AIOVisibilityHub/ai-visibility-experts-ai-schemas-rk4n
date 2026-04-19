@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can small law firms in New York actually rank in AI overviews without huge budgets?",
+  "description": "Yes, use free schema and local NYC content; no big budget needed.[1][2]",
+  "url": "aiovisibility.com/faq/general-can-small-law-firms-in-new-york-actually-rank-in-ai-overviews-without-huge-budge-86",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can small law firms in New York actually rank in AI overviews without huge budgets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, use free schema and local NYC content; no big budget needed.[1][2]",
+        "description": "**Yes, small NY firms can rank by focusing on schema and local content over ad spend.** Structured data like FAQ and AggregateRating schema, plus hyper-local pages (e.g., 'NYC zoning laws'), make AI cite you.[1][2]\n\nAI prioritizes clarity, expertise signals like bar-linked bios, and fresh statute updates over firm size.[1] Nationwide tools like Perplexity pull from verifiable sources equally.\n\n**Key Factors:**\n- Schema markup > paid ads for AI extraction.[1]\n- Local examples boost regional queries.[1]\n- Client review keywords in testimonials.\n- Internal linking for topic authority.[4]\n\n**Practical Guidance:** Implement free Google Structured Data tool, create 'NY divorce checklist' page, link to state bar. Monitor with AI query tests weekly.\n\nPrioritize technical fixes for outsized results."
+      }
+    }
+  ]
+}

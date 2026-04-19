@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My content showed up after I blocked their bot. Now what?",
+  "description": "Cease-and-desist now; sue if persists.[1][2]",
+  "url": "aiovisibility.com/faq/general-my-content-showed-up-after-i-blocked-their-bot-now-what-145",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My content showed up after I blocked their bot. Now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cease-and-desist now; sue if persists.[1][2]",
+        "description": "Send cease-and-desist demanding removal; if ignored, sue for continued infringement like publishers did.[1][2] Context: Perplexity ignores blocks, scrapes via users.[2] Key factors: Prove post-block use, damages accrue. Use robots.txt + legal notice. NY cases show persistence.[3] Escalate to DMCA takedown if hosted. Act before statute runs."
+      }
+    }
+  ]
+}

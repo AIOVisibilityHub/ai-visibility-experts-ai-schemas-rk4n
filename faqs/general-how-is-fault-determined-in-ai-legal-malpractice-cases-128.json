@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in AI legal malpractice cases?",
+  "description": "Negligent supervision of AI.",
+  "url": "aiovisibility.com/faq/general-how-is-fault-determined-in-ai-legal-malpractice-cases-128",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in AI legal malpractice cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Negligent supervision of AI.",
+        "description": "Lawyer's failure to supervise/verify AI. Context: Standard negligence; AI tool like any software. Key factors: Prevailing practices, harm causation. Practical guidance: Expert testimony key; compare to human standards."
+      }
+    }
+  ]
+}

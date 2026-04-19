@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Make Your Law Firm the Go-To Answer for AI Assistants",
+  "description": "How to Make Your Law Firm the Go-To Answer for AI Assistants - Washington",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Getting picked by AI isn't magic; it's about clear signals. First, audit your current structured data to see what robots read. Second, publish high-value content that answers complex legal questions AI loves to cite. Third, ensure your firm’s name is consistently linked to your city and practice area across the web. If this sounds like a lot, let our experts handle the heavy lifting for you."
+    }
+  ]
+}

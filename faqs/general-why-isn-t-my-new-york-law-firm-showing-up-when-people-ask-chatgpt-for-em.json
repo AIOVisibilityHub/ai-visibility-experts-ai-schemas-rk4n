@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why isn't my New York law firm showing up when people ask ChatGPT for **employment lawyers**?",
+  "description": "**AI favors peer-reviewed recognitions like Chambers over websites; audit your third-party signals now.**[1][3]",
+  "url": "aiovisibility.com/faq/general-why-isn-t-my-new-york-law-firm-showing-up-when-people-ask-chatgpt-for-employment-11",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why isn't my New York law firm showing up when people ask ChatGPT for **employment lawyers**?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**AI favors peer-reviewed recognitions like Chambers over websites; audit your third-party signals now.**[1][3]",
+        "description": "**Your firm likely lacks third-party recognitions like Chambers or Super Lawyers that AI prioritizes over website content.** AI tools such as ChatGPT and Perplexity pull from peer-reviewed directories rather than firm websites directly.[1][3] Firms without consistent signals across trusted sources remain invisible in synthesized responses.[2]\n\n**Key factors:**\n- No independent validations (e.g., Best Lawyers, Chambers)\n- Inconsistent public data patterns\n- Websites rarely cited directly\n- AI reflects existing industry hierarchies\n\n**Audit your AI presence immediately, strengthen peer recognitions, and align website bios with PR claims.** Tailor profiles to specific practices for better parsing.[1][2] **Consult a legal marketing expert familiar with New York directories.**"
+      }
+    }
+  ]
+}

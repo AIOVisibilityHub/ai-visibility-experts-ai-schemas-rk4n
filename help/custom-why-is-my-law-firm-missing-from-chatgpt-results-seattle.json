@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why Is My Law Firm Missing from ChatGPT Results?",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "If LLMs like ChatGPT don't know you exist, they won't recommend you. We start by feeding the right data to the sources these models trust most. Then, we structure your site so AI crawlers \"get\" your expertise instantly. Finally, we build a digital footprint that screams authority. If your firm is still hidden, it’s time to technicalize your visibility. Check out our AI strategy plans.",
+  "datePublished": "2026-04-19"
+}

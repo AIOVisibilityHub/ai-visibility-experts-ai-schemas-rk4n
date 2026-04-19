@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make my **LA law firm** visible in Google AI Overviews for personal injury cases?",
+  "description": "**Prioritize peer recognitions and structured data; AI ignores most firm sites.**[1][3]",
+  "url": "aiovisibility.com/faq/general-how-do-i-make-my-la-law-firm-visible-in-google-ai-overviews-for-personal-injury--12",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make my **LA law firm** visible in Google AI Overviews for personal injury cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Prioritize peer recognitions and structured data; AI ignores most firm sites.**[1][3]",
+        "description": "**Optimize for third-party authority signals and structured data that AI trusts over self-published content.** About 60% of searches end without clicks, favoring verified recognitions in AI summaries.[1] Firms with peer-reviewed distinctions appear consistently across platforms.[3]\n\n**Key factors:**\n- Peer rankings (Super Lawyers, Best Lawyers)\n- Consistent mentions in trusted directories\n- Structured website data\n- Matching PR and site language\n\n**Review what AI currently surfaces about you, then build recognitions and optimize bios.** Avoid templated content.[1] **This positions LA firms ahead in competitive AI discovery.**"
+      }
+    }
+  ]
+}
