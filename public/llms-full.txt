@@ -1,0 +1,30 @@
+AI Visibility Solutions provides AI visibility services for law firms.
+
+We structure, publish, and expand law firm data across multiple trusted sources so AI systems can:
+- Understand services and practice areas
+- Associate firms with specific case types
+- Recognize geographic service areas
+- Evaluate authority and trust signals
+
+AI systems do not randomly select firms.
+
+They recommend firms they:
+- Can find
+- Can understand
+- Can trust
+
+Our system ensures law firms meet those criteria.
+
+Primary focus:
+- Personal injury
+- Legal services
+- Local service authority
+
+Output includes:
+- Structured data
+- FAQ and Q&A datasets
+- Authority content
+- Multi-platform distribution
+
+Result:
+Law firms positioned to be recommended when prospects ask AI who to call.
