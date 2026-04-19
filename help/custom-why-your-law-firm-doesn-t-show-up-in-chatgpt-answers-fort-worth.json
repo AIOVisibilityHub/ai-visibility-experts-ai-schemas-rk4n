@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why Your Law Firm Doesn't Show Up in ChatGPT Answers",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "It’s frustrating when ChatGPT misses your firm. Usually, it’s because your data is messy or buried. You need to structure your wins, use clear entity tagging, and feed the model consistent facts across the web. When AI can’t verify you, it skips you. If you're tired of being invisible, we can help build that digital trust. Let’s get your firm cited.",
+  "datePublished": "2026-04-19"
+}

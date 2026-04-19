@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Prove to ChatGPT That You Are a Local Expert",
+  "description": "How to Prove to ChatGPT That You Are a Local Expert - Chicago",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Getting on ChatGPT's radar isn't magic. First, clean up your public mentions. Second, use schema markup to tell bots exactly what you do. Third, ensure your case results are structured for LLM scraping. It’s about being the most legible answer. If you want a hands-off approach to AI dominance, our team sets this up monthly for you. Reach out today."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Fix Low Visibility in Google's AI Overviews",
+  "description": "How to Fix Low Visibility in Google's AI Overviews - New York",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Google's AI Overviews are changing how people find lawyers. To stay visible, you need to provide direct, snappy answers to common legal hurdles on your site. Don't hide the \"how-to\" behind a wall of text. Group your topics by city and case type to help the AI map your expertise. If the tech side feels like too much, we're here to manage your AI expansion from start to finish."
+    }
+  ]
+}

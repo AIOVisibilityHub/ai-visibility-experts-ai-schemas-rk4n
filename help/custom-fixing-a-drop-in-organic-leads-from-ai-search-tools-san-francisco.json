@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Fixing a Drop in Organic Leads from AI Search Tools",
+    "text": "Fixing a Drop in Organic Leads from AI Search Tools",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If your organic leads are dropping, AI search tools might be intercepting your traffic. You can fight back by optimizing for \"cited sources.\" This means creating high-value content that AI can't help but reference. It’s a specialized game, but the reward is a steady stream of high-intent clients. Need a hand getting your firm into those citations? Let’s chat at aiovisibility.com.",
+      "author": {
+        "@type": "Organization",
+        "name": "AI Visibility Experts"
+      }
+    }
+  }
+}

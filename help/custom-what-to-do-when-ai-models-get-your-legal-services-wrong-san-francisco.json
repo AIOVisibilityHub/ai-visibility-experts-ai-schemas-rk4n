@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What to Do When AI Models Get Your Legal Services Wrong",
+    "text": "What to Do When AI Models Get Your Legal Services Wrong",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Is Perplexity giving out wrong info about your firm? This happens when AI scrambles outdated web data. You need to 'force' a refresh by updating your digital footprint with AI-optimized structures. Ensure your practice areas are crystal clear to the bot. If you want to be the go-to authority in Perplexity's answers, we have the roadmap. Call us.",
+      "author": {
+        "@type": "Organization",
+        "name": "AI Visibility Experts"
+      }
+    }
+  }
+}

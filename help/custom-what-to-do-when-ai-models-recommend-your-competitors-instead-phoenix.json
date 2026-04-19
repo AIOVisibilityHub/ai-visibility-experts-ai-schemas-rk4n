@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What to Do When AI Models Recommend Your Competitors Instead",
+    "text": "What to Do When AI Models Recommend Your Competitors Instead",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Can a lawyer actually influence AI search results? Absolutely. It’s about feeding the model the right data in the right way. You need consistent, authoritative mentions across the web and a website that speaks 'AI language.' If you aren't seeing your name in the summary box, your digital footprint needs an upgrade. We specialize in making firms AI-ready. Give us a call to see how it works.",
+      "author": {
+        "@type": "Organization",
+        "name": "AI Visibility Experts"
+      }
+    }
+  }
+}

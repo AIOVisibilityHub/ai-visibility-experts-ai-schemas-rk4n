@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Turning Your Firm into an AI-First Authority in Your City",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "Is your website built for bots or humans? Nowadays, it has to be both. AI search optimization ensures your firm’s DNA is woven into the datasets that AI models train on. This isn't just basic SEO; it’s about positioning your firm as the definitive source. When you're ready to stop guessing and start appearing in AI search results, AI Visibility Experts has the proven roadmap for you.",
+  "datePublished": "2026-04-19"
+}

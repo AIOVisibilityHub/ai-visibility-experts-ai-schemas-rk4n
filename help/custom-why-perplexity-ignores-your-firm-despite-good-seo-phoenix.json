@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Why Perplexity Ignores Your Firm Despite Good SEO",
+  "description": "Why Perplexity Ignores Your Firm Despite Good SEO - Phoenix",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "To show up in Perplexity, start by creating factual, Q&A style content. Then, ensure your firm’s name is consistently linked to your practicing city and specialty. Finally, get mentioned in reputable legal directories that AI agents trust. It’s a lot to manage while running a firm. We handle the technical heavy lifting for you. Let’s get you recommended."
+    }
+  ]
+}

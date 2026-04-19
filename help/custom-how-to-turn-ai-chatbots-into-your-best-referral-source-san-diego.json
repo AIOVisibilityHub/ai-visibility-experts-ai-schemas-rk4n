@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Turn AI Chatbots Into Your Best Referral Source",
+  "description": "How to Turn AI Chatbots Into Your Best Referral Source - San Diego",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "To get referrals from bots like ChatGPT, you have to be more than just a name on a list. You need to be 'cited' as an authority. Focus on publishing deep-dive case studies and unique legal perspectives that AI models scrape for truth. It's about building a digital reputation the bot trusts. Need a hand becoming the AI-recommended authority? That’s what we do best. Let’s talk today."
+    }
+  ]
+}

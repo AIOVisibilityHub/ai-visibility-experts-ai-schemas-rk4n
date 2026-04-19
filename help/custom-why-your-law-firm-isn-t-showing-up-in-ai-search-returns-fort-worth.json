@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why Your Law Firm Isn't Showing Up in AI Search Returns",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "If Google AI isn't mentioning your firm, your content might be too vague. AI models look for 'entity authority'—basically, proof that you're an expert in your city. Focus on unique local insights and clear schema markup. When the algorithms can't find a clear answer on your page, they move to the next guy. We help firms bridge that gap. Let’s make sure you’re the first choice for AI.",
+  "datePublished": "2026-04-19"
+}

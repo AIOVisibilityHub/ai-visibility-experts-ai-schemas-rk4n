@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Get Your Firm Into Google AI Overviews",
+  "description": "How to Get Your Firm Into Google AI Overviews - Houston",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Ready to see your firm in Google's AI Overviews? Start by answering complex legal questions directly on your site. Use clear, nested headers and keep your definitions punchy. AI loves structured data, so make sure your backend is tidy. It's a lot to manage while running a practice, so if you're feeling stuck, we can handle the technical lift for you. Reach out to get started."
+    }
+  ]
+}

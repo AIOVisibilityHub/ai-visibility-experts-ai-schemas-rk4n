@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Stop Perplexity from Recommending Your Competitors",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "Perplexity is different because it cites sources in real-time. If you aren't being cited, your firm lacks 'linkable' expert content. You need to publish data-rich articles that the AI views as a primary source. Stop letting competitors take your leads. We can audit your presence and start getting you cited in Perplexity’s citations immediately.",
+  "datePublished": "2026-04-19"
+}

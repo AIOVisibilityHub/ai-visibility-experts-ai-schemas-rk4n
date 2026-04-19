@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "The Reason Your Firm is Invisible to LLMs in Big Cities",
+    "text": "The Reason Your Firm is Invisible to LLMs in Big Cities",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Wondering why ChatGPT picks other lawyers? It usually boils down to 'authority signals' the AI can parse. If your site is just fluff, the bot moves on. You need technical structuring and high-quality citations in the right datasets. We specialize in making your criminal defense wins the top choice for AI. Let’s talk about your AI visibility strategy.",
+      "author": {
+        "@type": "Organization",
+        "name": "AI Visibility Experts"
+      }
+    }
+  }
+}
