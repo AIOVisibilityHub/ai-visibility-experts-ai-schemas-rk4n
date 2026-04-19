@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why ChatGPT Isn't Recommending Your Law Firm",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "Is your firm missing from ChatGPT? AI models rely on structured data and specific authority signals to make recommendations. You need to feed these models the right breadcrumbs so they see you as the local leader. We focus on building that digital footprint across the platforms AI bots crawl most. If you're tired of being invisible, it’s time to modernize your strategy. Reach out and let's chat.",
+  "datePublished": "2026-04-19"
+}

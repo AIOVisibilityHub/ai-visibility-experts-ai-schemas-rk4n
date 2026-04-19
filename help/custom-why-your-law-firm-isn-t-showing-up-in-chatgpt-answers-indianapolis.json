@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Why Your Law Firm Isn't Showing Up in ChatGPT Answers",
+  "description": "Why Your Law Firm Isn't Showing Up in ChatGPT Answers - Indianapolis",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "LLMs like ChatGPT need clear signals to recommend you. Start by simplifying your practice descriptions—strip the legalese. Use structured data so the bots understand your wins. Finally, publish niche content that answers specific client \"what ifs.\" If your firm still isn't the top recommendation, it's time to let experts handle the technical heavy lifting. Check out aiovisibility.com."
+    }
+  ]
+}

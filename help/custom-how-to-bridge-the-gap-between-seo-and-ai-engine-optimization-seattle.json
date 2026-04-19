@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Bridge the Gap Between SEO and AI Engine Optimization",
+  "description": "How to Bridge the Gap Between SEO and AI Engine Optimization - Seattle",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "First, identify the 'trigger' questions that generate AI Overviews in your practice area. Second, write concise, factual lead-ins for your pages. Third, use schema markup to highlight your firm’s credentials. This signals to Google that you are a safe, expert pick for the user. It’s a fast-moving target, so having experts like us in your corner makes a huge difference. Let's get started."
+    }
+  ]
+}

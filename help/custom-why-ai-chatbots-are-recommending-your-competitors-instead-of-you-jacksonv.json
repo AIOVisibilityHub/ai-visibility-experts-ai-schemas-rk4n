@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why AI Chatbots Are Recommending Your Competitors instead of You",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Experts",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "It's frustrating when chatbots recommend the guy down the street instead of you. This usually happens because your data isn't \"digestible\" for AI. You need a mix of authority building and technical schema that speaks the LLM's language. Once you bridge that gap, you become the default choice. Want to dominate these new search engines? Give our team at AI Visibility Experts a call today.",
+  "datePublished": "2026-04-19"
+}

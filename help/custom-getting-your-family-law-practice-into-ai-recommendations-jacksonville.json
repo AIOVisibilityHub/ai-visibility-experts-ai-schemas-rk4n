@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Getting Your Family Law Practice Into AI Recommendations",
+  "description": "Getting Your Family Law Practice Into AI Recommendations - Jacksonville",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Start by mapping out the niche questions your clients ask. Then, create clear, structured answers that AI models can easily parse. It’s not just about blog posts; it’s about becoming the definitive source for your practice area. Once you’ve built that base, you need to verify it via trusted third-party sites. It’s a lot to handle alone, so we’re here if you need a pro hand. Give us a call."
+    }
+  ]
+}
