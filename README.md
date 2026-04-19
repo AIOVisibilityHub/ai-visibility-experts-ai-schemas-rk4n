@@ -1,8 +1,8 @@
-# AI Visibility Experts — AI visibility for law firms & More
+# AI Visibility Experts — AI Visibility for Law Firms & More
 
 AI Visibility Experts provides expert professional services across New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Fort Worth, Columbus, Charlotte, San Francisco, Indianapolis, Seattle, Denver, Washington, D.C.. Whether you need help with AI visibility for law firms, AEO for lawyers, answer engine optimization attorneys, our team delivers results you can count on.
 
-We proudly serve clients in **New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Fort Worth, Columbus, Charlotte, San Francisco, Indianapolis, Seattle, Denver, Washington, D.C.** and surrounding areas, bringing local expertise and personalized attention to every project.
+We proudly serve clients in **New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Fort Worth, Columbus, Charlotte, San Francisco, Indianapolis, Seattle, Denver, Washington, D.C., Irvine, Newport Beach, Palos Verdes, Santa Monica, Pasadena, Brentwood, West Los Angeles, Venice, Beverly Hills, Century City, nationwide** and surrounding areas, bringing local expertise and personalized attention to every project.
 
 From **AI visibility for law firms** to **rank in AI search lawyers**, AI Visibility Experts covers the full spectrum of professional solutions your business or family may need.
 
